@@ -1,0 +1,15 @@
+import pandas as pd
+
+df=pd.read_csv(r'C:\Users\arind\Downloads\surat_cleaned2.csv')
+pd.set_option('display.max_columns',None)
+df=df.drop('Mv1',axis=1)
+df=df.drop('Mv2',axis=1)
+df=df.drop('Mv3',axis=1)
+df=df.drop('Mv4',axis=1)
+df=df.drop('Mv5',axis=1)
+df=df.drop('Mv6',axis=1)
+df=df.drop('Mv7',axis=1)
+df=df.drop('Mv8',axis=1)
+# print(df.head(50))
+df=df.to_csv(r'C:\Users\arind\Downloads\surat_cleaned2.csv')
+print('saved successfully')

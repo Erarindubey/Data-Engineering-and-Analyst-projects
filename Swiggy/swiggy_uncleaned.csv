@@ -1,0 +1,1745 @@
+Unnamed: 0.1,Unnamed: 0,hotel_name,location,food_type,Rating(out of 5),Delivery_time(mins),offer,Upto
+0,0,McDonald's,Kandivali East,"['Burgers', ' Beverages', ' Cafe', ' Desserts']",4.5,27.0,30% OFF UPTO ₹75 ,75
+1,1,KFC,Kandivali East,"['Burgers', ' Biryani', ' American', ' Snacks', ' Fast Food']",4.2,30.0,40% OFF UPTO ₹80 ,80
+2,2,Domino's Pizza,Thakur Village,"['Pizzas', ' Italian', ' Pastas', ' Desserts']",4.3,25.0,₹150 OFF ABOVE ₹299 ,299
+3,3,Charcoal Eats - Biryani & Beyond,Malad Kan East,"['Biryani', ' Kebabs', ' Hyderabadi', ' North Indian']",4.3,24.0,50% OFF UPTO ₹100 ,100
+4,4,Sandwizzaa,Kandivali East,"['Snacks', ' Fast Food', ' Beverages', ' Jain']",4.6,22.0,60% OFF UPTO ₹120 ,120
+5,5,1441 Pizzeria,Kandivali East,"['Italian', ' Pizzas', ' Pastas']",3.8,32.0,60% OFF UPTO ₹120 ,120
+6,6,Hangout Cakes & More,Borivali West,"['Desserts', ' Bakery']",4.4,24.0,60% OFF UPTO ₹150 ,150
+7,7,Love & Cheesecake ,Kandivali East,['Desserts'],4.5,14.0, ,0
+8,8,Nothing But Chicken,Kandivali East,"['Salads', ' Biryani', ' Kebabs', ' Fast Food', ' Healthy Food']",4.5,22.0,20% OFF UPTO ₹50 ,50
+9,9,Sweet Bengal,Kandivali East,"['Sweets', ' Indian', ' Snacks', ' Desserts']",4.6,13.0,20% OFF UPTO ₹50 ,50
+10,10,Atta Girl,Malad West,['South Indian'],4.7,27.0, ,0
+11,11,NIC Ice Creams,Kandivali East,"['Ice Cream', ' Desserts']",4.7,17.0,ITEMS AT ₹149 ,0
+12,12,Poetry By Love & Cheesecake,Kandivali West,['Desserts'],4.4,34.0, ,0
+13,13,Havmor Havfunn Ice Cream,Malad Kan East,"['Ice Cream', ' Ice Cream Cakes', ' Desserts', ' Beverages']",4.6,18.0, ,0
+14,14,NOTO - Ice Creams & Desserts,Kandivali East,['Ice Cream'],4.6,15.0,₹175 OFF ABOVE ₹799 ,799
+15,15,McDonald's Gourmet Burger Collection,Malad Kan East,"['Burgers', ' Beverages', ' Cafe', ' Desserts']",4.3,26.0, ,0
+16,16,Grameen Kulfi,Kandivali East,"['Ice Cream', ' Desserts']",4.7,16.0,EVERY ITEM @ ₹99 ,0
+17,17,Surbhi Sweets And Snacks,Dahisar East,"['Sweets', ' Chaat', ' Snacks', ' Desserts', ' Beverages', ' Indian']",4.2,24.0,₹125 OFF ABOVE ₹599 ,599
+18,18,Jumboking Indian Burger,Dahisar East,"['American', ' Mexican', ' Fast Food', ' Snacks', ' Beverages']",4.5,25.0,₹175 OFF ABOVE ₹449 ,449
+19,19,Theobroma,Borivali West,"['Bakery', ' Desserts']",4.5,23.0,₹150 OFF ABOVE ₹999 ,999
+20,20,Amul Real Milk Real Ice Cream,Borivali West,['Ice Cream'],4.3,29.0, ₹100 OFF ABOVE ₹749,749
+21,21,"Dabba Garam (Homestyle,Combo, Thali & More)",Borivali,"['Home Food', ' North Indian', ' Thai']",4.5,35.0, 15% OFF UPTO ₹45,45
+22,22,KFC,Kandivali East,"['Burgers', ' Biryani', ' American', ' Snacks', ' Fast Food']",4.2,30.0, 40% OFF UPTO ₹80,80
+23,23,McDonald's,Kandivali East,"['Burgers', ' Beverages', ' Cafe', ' Desserts']",4.5,27.0, 30% OFF UPTO ₹75,75
+24,24,Bakingo-Cakes & Desserts,Kandivali West,"['Bakery', ' Desserts', ' Beverages', ' Snacks']",4.4,33.0, ₹175 OFF ABOVE ₹999,999
+25,25,Domino's Pizza,Thakur Village,"['Pizzas', ' Italian', ' Pastas', ' Desserts']",4.3,25.0, ₹150 OFF ABOVE ₹299,299
+26,26,NH1 Bowls - Highway To North,Kandivali East,"['North Indian', ' Punjabi', ' Home Food']",4.7,16.0, 50% OFF UPTO ₹100,100
+27,27,63 By-Lane,Malad Kan East,"['Pizzas', ' Pastas', ' Salads']",4.3,36.0, ₹125 OFF ABOVE ₹699,699
+28,28,Nishi Home Delites,Kandivali East,"['Indian', ' Punjabi']",4.6,27.0, FREE ITEM ,0
+29,29,Rasobongo,Kandivali East,"['Bengali', ' Sweets', ' Desserts', ' Snacks']",4.4,13.0, 10% OFF UPTO ₹40,40
+30,30,Central Prabhu,Borivali East,"['Mughlai', ' North Indian', ' Chinese', ' Konkan', ' Malwani']",4.4,35.0, ₹100 OFF ABOVE ₹299,299
+31,31,Peetuk,Kandivali East,"['Biryani', ' Bengali']",4.2,22.0, ₹125 OFF ABOVE ₹249,249
+32,32,The Joy Pizzateria,Kandivali East,"['Pizzas', ' Beverages']",4.1,24.0, 60% OFF UPTO ₹120,120
+33,33,Theobroma,Kandivali East,"['Bakery', ' Desserts']",4.5,15.0, ₹150 OFF ABOVE ₹999,999
+34,34,Third Wave Coffee,Malad Kan East,"['Cafe', ' Beverages', ' Desserts']",4.3,18.0, 20% OFF UPTO ₹50,50
+35,35,Big Bowl,Kandivali East,"['North Indian', ' Chinese', ' Tibetan', ' Desserts']",4.0,24.0, ITEMS AT ₹169,0
+36,36,Shree mithai,Borivali,['Indian'],4.7,24.0, ,0
+37,37,Breadkraft,Mumbai,['Pizzas'],4.3,21.0, 30% OFF UPTO ₹75,75
+38,38,The Bengal Club,Malad Kan East,['Bengali'],4.1,18.0, ₹125 OFF ABOVE ₹249,249
+39,39,Shawarmaji,Thakur village Kandivali east,['Lebanese'],4.4,16.0, FREE ITEM ,0
+40,40,Charcoal Eats - Biryani & Beyond,Malad Kan East,"['Biryani', ' Kebabs', ' Hyderabadi', ' North Indian']",4.3,24.0, 50% OFF UPTO ₹100,100
+41,41,Good Flippin' Burgers,Kandivali East,"['American', ' Fast Food', ' Burgers']",4.6,18.0, 20% OFF UPTO ₹50,50
+42,42,Achija,Kandivali East,"['North Indian', ' South Indian', ' Chinese', ' Beverages', ' Indian', ' Burgers', ' Chaat']",4.2,22.0, ,0
+43,43,Granville Greens,Borivali,"['North Indian', ' South Indian', ' Chinese', ' Beverages', ' Italian', ' Mexican', ' Lebanese', ' Thai']",4.4,36.0, 10% OFF ABOVE ₹500,500
+44,44,New kathiyawadi dhaba,Borivali,"['Indian', ' South Indian', ' Punjabi', ' Rajasthani']",4.3,34.0, 10% OFF ABOVE ₹700,700
+45,45,Granville IDC Kitchen (Borivali),Borivali West,['South Indian'],4.5,34.0, ,0
+46,46,Nirvana,Malad Kan East,"['North Indian', ' Jain', ' Kebabs', ' Biryani', ' Chinese']",4.4,32.0, ,0
+47,47,Banglore Iyanger Bakery,Malad Kan East,['Bakery'],4.5,13.0, 10% OFF UPTO ₹40,40
+48,48,Sweet County Cake Shop,Kandivali East,"['Desserts', ' Bakery', ' Snacks']",4.6,25.0, ,0
+49,49,The Netrik's Joint,Malad Kan West,"['Fast Food', ' Pizzas', ' Snacks', ' Chinese', ' Beverages']",4.1,18.0, 30% OFF UPTO ₹75,75
+50,50,Sandwizzaa,Kandivali East,"['Snacks', ' Fast Food', ' Beverages', ' Jain']",4.6,22.0, 60% OFF UPTO ₹120,120
+51,51,Gaurav Sweets And Namkeen,Malad Kan East,"['Sweets', ' Snacks', ' Chaat']",4.3,20.0, ,0
+52,52,Raju's Kitchen, SARAAF CHOUDHARY NAGAR,"['Chinese', ' Indian']",4.2,32.0, 10% OFF UPTO ₹40,40
+53,53,Bayleaf,Kandivali East,"['Indian', ' Snacks']",4.3,32.0, 10% OFF ABOVE ₹1500,1500
+54,54,South Tiffin House,Malad Kan East,"['South Indian', ' Fast Food', ' Snacks']",4.4,28.0, 30% OFF UPTO ₹75,75
+55,55,Brijwasi Sweets,Kandivali East,"['Sweets', ' Snacks']",4.3,14.0, 10% OFF UPTO ₹100,100
+56,56,1441 Pizzeria,Kandivali East,"['Italian', ' Pizzas', ' Pastas']",3.8,32.0, 60% OFF UPTO ₹120,120
+57,57,Dominic Pizza,Pizza Story,"['Fast Food', ' Pizzas', ' Chinese', ' Italian', ' Pastas', ' Desserts', ' Burgers', ' Mexican', ' American', ' Street Food']",,33.0, 50% OFF UPTO ₹100,100
+58,58,abCoffee,Malad Kan East,"['Cafe', ' Beverages', ' Bakery', ' Desserts']",4.7,15.0, 20% OFF UPTO ₹50,50
+59,59,K Bhagat Tarachand,Malad Kan East,['North Indian'],3.8,25.0, ,0
+60,60,Saffron Restaurant,Kandivali East,"['North Indian', ' Chinese', ' Beverages', ' Tandoor', ' Kebabs']",4.1,31.0, FREE ITEM ,0
+61,61,Flavours Of China,Borivali East,['Chinese'],4.4,33.0, ,0
+62,62,The Veg Treat,Borivali West,"['North Indian', ' South Indian', ' Chinese']",4.4,33.0, ,0
+63,63,The House Of Pasta,Borivali,"['Pastas', ' Snacks']",4.4,34.0, ₹100 OFF ABOVE ₹999,999
+64,64,Hangout Cakes & More,Borivali West,"['Desserts', ' Bakery']",4.4,24.0, 60% OFF UPTO ₹150,150
+65,65,Radhe Dhokla,Kandivali West,"['North Indian', ' Gujarati', ' Punjabi', ' Fast Food', ' Chinese', ' Snacks']",4.3,33.0, ₹175 OFF ABOVE ₹449,449
+66,67,Northern Tadka,Kandivali East,"['North Indian', ' Mughlai']",4.5,31.0, 10% OFF UPTO ₹40,40
+67,68,The Ice Cream Bakery - TIB,Kandivali East,"['Ice Cream', ' Bakery', ' Desserts', ' Sweets', ' Beverages']",4.5,25.0, 20% OFF UPTO ₹50,50
+68,69,Chai Sutta Bar,Kandivali East,"['Indian', ' Snacks']",4.4,26.0, 10% OFF UPTO ₹40,40
+69,70,Sweet Bengal,Kandivali East,"['Sweets', ' Indian', ' Snacks', ' Desserts']",4.6,13.0, 20% OFF UPTO ₹50,50
+70,71,Merwans Cake Stop,Malad Kan East,"['Indian', ' Desserts']",4.7,13.0, ,0
+71,72,Nothing But Chicken,Kandivali East,"['Salads', ' Biryani', ' Kebabs', ' Fast Food', ' Healthy Food']",4.5,22.0, 20% OFF UPTO ₹50,50
+72,73,MOJO Pizza - 2X Toppings,Kandivali East,"['Pizzas', ' Italian', ' Fast Food', ' Desserts']",4.3,21.0, 50% OFF UPTO ₹100,100
+73,74,"WeFit-Bowls, Salads & Sandwiches",Vishnu Shivam Mall,"['Healthy Food', ' Salads', ' Keto', ' Snacks']",4.5,22.0, 50% OFF UPTO ₹100,100
+74,75,Blue Tokai Coffee Roasters,Malad Kan West,"['Healthy Food', ' Pastas', ' American', ' Cafe', ' Beverages', ' Bakery']",4.5,19.0, 20% OFF UPTO ₹50,50
+75,76,Daily Kitchen - Homestyle Meals,"Thakur Village, Kandivali (E)","['Home Food', ' Indian', ' North Indian', ' Thalis']",4.3,15.0, 50% OFF UPTO ₹100,100
+76,77,ZAZA Mughal Biryani,Kandivali,"['Biryani', ' North Indian', ' Awadhi']",4.2,16.0, 50% OFF UPTO ₹100,100
+77,78,Dessertino,Borivali,['Desserts'],4.1,29.0, ,0
+78,79,Cafe Delight,Borivali East,"['Indian', ' Tandoor']",4.4,29.0, ,0
+79,81,La Pino'z Pizza,Thakur Complex,"['Pizzas', ' Pastas', ' Italian', ' Desserts', ' Beverages']",4.2,25.0, 50% OFF UPTO ₹100,100
+80,82,Murlidhar Sweets And Farsan,Borivali West,"['Sweets', ' Street Food', ' Bengali', ' Gujarati', ' Desserts', ' Fast Food']",4.7,30.0, ,0
+81,83,Starbucks Coffee,Malad Kan East,"['Beverages', ' Cafe', ' Snacks', ' Desserts', ' Bakery', ' Ice Cream']",4.4,17.0, 10% OFF ABOVE ₹900,900
+82,84,NIC Ice Creams,Kandivali East,"['Ice Cream', ' Desserts']",4.7,17.0, ITEMS AT ₹149,0
+83,85,Borivali Biryani Centre (BBC),Borivali West,"['Biryani', ' Chinese', ' North Indian', ' Punjabi', ' Kebabs', ' Afghani']",4.5,26.0, ,0
+84,86,Meemee's,Borivali,"['Ice Cream', ' Desserts']",4.5,26.0, 50% OFF UPTO ₹100,100
+85,87,Uncle's Chinese,Kandivali,"['Chinese', ' Fast Food', ' Biryani', ' North Indian', ' Beverages']",3.6,36.0, ,0
+86,88,Bangalore Iyengar Bakery,Borivali,"['Bakery', ' Desserts']",4.3,29.0, ,0
+87,89,Kunafa World,Malad Kan West,"['Middle Eastern', ' Desserts']",4.2,36.0, ,0
+88,91,The Cake Factory,Kandivali East,['Desserts'],4.2,22.0, 60% OFF UPTO ₹120,120
+89,92,Kusum Rolls,Kandivali East,"['Indian', ' Fast Food', ' Lebanese', ' Arabian', ' Kebabs']",3.5,32.0, ,0
+90,93,Patanwala,Malad Kan East,"['Sweets', ' Desserts']",4.8,15.0, ,0
+91,94,Monginis,Kandivali East,"['Bakery', ' Desserts', ' Snacks']",4.2,14.0, 20% OFF UPTO ₹50,50
+92,95,GetAWay-Ice Creams & Desserts,Kandivali,"['Ice Cream', ' Desserts', ' Healthy Food', ' Sweets']",4.7,24.0, ₹175 OFF ABOVE ₹599,599
+93,96,Mealful Rolls - India's Biggest Rolls,Kandivali East,"['Fast Food', ' Snacks', ' North Indian', ' Desserts']",4.4,23.0, 50% OFF UPTO ₹100,100
+94,97,The Momo Co.,Kandivali East,"['Chinese', ' Asian', ' Tibetan', ' Desserts']",4.1,20.0, 50% OFF UPTO ₹100,100
+95,98,Faasos' Signature Wraps & Rolls,Kandivali East,"['Fast Food', ' Snacks', ' North Indian', ' Desserts', ' Beverages']",4.0,25.0, 50% OFF UPTO ₹100,100
+96,100,Grameen Kulfi,Kandivali East,"['Ice Cream', ' Desserts']",4.7,16.0, EVERY ITEM @ ₹99,0
+97,101,Kareem's,Kandivali East,"['North Indian', ' Biryani', ' Chinese', ' Indian', ' Desserts', ' Mughlai', ' Tandoor', ' Lucknowi']",4.1,32.0, 50% OFF UPTO ₹100,100
+98,103,Suchali's Artisan Bakehouse,Malad Kan East,"['Beverages', ' Bakery']",4.6,18.0, 20% OFF UPTO ₹50,50
+99,104,LeanCrust Pizza- ThinCrust Experts,Kandivali East,"['Pizzas', ' Italian', ' Desserts']",4.4,22.0, 50% OFF UPTO ₹100,100
+100,105,Pure Veg Meals by Lunchbox,Kandivali East,"['Biryani', ' North Indian', ' Desserts', ' Beverages']",4.2,24.0, 40% OFF UPTO ₹80,80
+101,106,The J,Malad Kan East,"['American', ' Snacks', ' Desserts']",4.5,18.0, ,0
+102,107,Smokin' Joe's,Kandivali East,"['Italian', ' Pizzas']",3.9,34.0, 20% OFF UPTO ₹50,50
+103,108,BOOM Sandwich - Sub of India,Kandivali East,"['Snacks', ' Indian', ' Desserts']",4.3,18.0, 50% OFF UPTO ₹100,100
+104,109,7th Heaven,Malad Kan East,"['Bakery', ' Desserts']",3.8,16.0, 50% OFF UPTO ₹100,100
+105,110,Itminaan Matka Biryani - Slow Cooked,Kandivali East,"['Biryani', ' North Indian', ' Mughlai']",4.0,27.0, 60% OFF UPTO ₹120,120
+106,111,NOTO - Ice Creams & Desserts,Kandivali East,['Ice Cream'],4.6,15.0, ₹175 OFF ABOVE ₹799,799
+107,112,Moussestruck,Kandivali West,"['Ice Cream', ' Desserts', ' Sweets']",4.7,25.0, ₹100 OFF ABOVE ₹499,499
+108,113,Surbhi Sweets And Snacks,Dahisar East,"['Sweets', ' Chaat', ' Snacks', ' Desserts', ' Beverages', ' Indian']",4.2,24.0, ₹125 OFF ABOVE ₹599,599
+109,114,Tiffin Box,Malad Kan East,"['Biryani', ' Beverages', ' North Eastern']",,27.0, 30% OFF UPTO ₹75,75
+110,115,Waffle Cart,Borivali,"['Desserts', ' Snacks', ' Thalis']",3.8,30.0, ,0
+111,116,Madno - House of Sundaes,Thakur Village,"['Ice Cream', ' Beverages']",4.1,26.0, 40% OFF UPTO ₹80,80
+112,117,Gourmet Ice Cream Cakes by Baskin Robbins,Malad Kan East,"['Ice Cream Cakes', ' Desserts', ' Ice Cream', ' Bakery']",4.3,20.0, 20% OFF UPTO ₹50,50
+113,118,Jumboking Indian Burger,Dahisar East,"['American', ' Mexican', ' Fast Food', ' Snacks', ' Beverages']",4.5,25.0, ₹175 OFF ABOVE ₹449,449
+114,119,Khana Khazana,Borivali,"['Indian', ' Chinese']",4.6,32.0, ,0
+115,120,Tea Post,Borivali West,['Beverages'],4.1,36.0, ₹175 OFF ABOVE ₹449,449
+116,121,Pizza Hut,Kandivali East,['Pizzas'],4.2,28.0, ITEMS AT ₹179,0
+117,122,Momo Mia,Dheeraj Regancy,"['Chinese', ' Desserts', ' Pizzas', ' Burgers', ' Pastas', ' Italian']",2.3,26.0, 50% OFF UPTO ₹100,100
+118,123,Hola Pasta - Fresh Gourmet Pasta,Kandivali East,"['Pastas', ' Italian', ' Desserts', ' Beverages']",3.4,21.0, ITEMS AT ₹149,0
+119,124,Libon The Cake Expert,Borivali,['Desserts'],4.2,28.0, ₹175 OFF ABOVE ₹449,449
+120,125,New York Burrito Company,Kandivali West,"['Mexican', ' American', ' Continental', ' Snacks', ' Beverages', ' Desserts']",4.2,32.0, ,0
+121,126,The Fresh Press,Malad Kan East,"['Beverages', ' Juices']",4.2,39.0, 60% OFF UPTO ₹120,120
+122,127,Dairy Don,Borivali,"['Beverages', ' Desserts']",3.9,26.0, 10% OFF ABOVE ₹600,600
+123,128,McCafe by McDonald's,Kandivali East,"['American', ' Beverages', ' Desserts']",3.0,30.0, ,0
+124,129,Bhagwati Pav Bhaji,Kandivali West,"['Street Food', ' Chinese', ' South Indian', ' North Indian']",4.1,36.0, ₹125 OFF ABOVE ₹499,499
+125,130,Goragandhi Juice Corner & Veg World,Borivali West,"['North Indian', ' South Indian', ' Chinese', ' Indian', ' Chaat', ' Fast Food', ' Maharashtrian', ' Pizzas', ' Juices', ' Mexican', ' Pastas']",4.6,34.0, ,0
+126,131,The Waffle Co.,Kandivali West,"['Desserts', ' Waffle']",4.4,34.0, ,0
+127,132,99 Pancakes,Kandivali West,"['Desserts', ' Beverages']",4.6,32.0, ₹175 OFF ABOVE ₹449,449
+128,133,IDC Kitchen,Malad Kan East,['South Indian'],4.3,36.0, ₹125 OFF ABOVE ₹999,999
+129,134,Burger Hub,Borivali,"['Burgers', ' Snacks', ' Chinese']",,34.0, ,0
+130,135,Delights by INOX,Kandivali East,['Snacks'],4.6,18.0, 60% OFF UPTO ₹120,120
+131,136,GLOBO Ice Creams Of The World,Kandivali East,"['Ice Cream', ' Desserts', ' Bakery']",4.4,12.0, 50% OFF UPTO ₹100,100
+132,137,Go Zero - Guilt Free Ice Creams,Kandivali East,"['Ice Cream', ' Desserts']",4.2,14.0, 50% OFF UPTO ₹100,100
+133,138,The Momo Factory,Kandivali East,"['Tibetan', ' Chinese', ' Asian']",4.1,27.0, ₹175 OFF ABOVE ₹449,449
+134,139,Food Adda,Borivali East,"['Burgers', ' Pizzas', ' Fast Food', ' Beverages']",4.0,28.0, 50% OFF UPTO ₹100,100
+135,140,"Bhatti Chicken - Grilled, NOT Fried!",Kandivali East,"['North Indian', ' Snacks', ' Fast Food', ' Tandoor']",4.2,29.0, 50% OFF UPTO ₹100,100
+136,141,Mehfil by Behrouz,Kandivali East,"['Biryani', ' North Indian', ' Kebabs', ' Mughlai', ' Lucknowi', ' Hyderabadi', ' Desserts', ' Beverages']",4.4,29.0, 40% OFF UPTO ₹80,80
+137,142,Tewari Brothers,Borivali,"['Snacks', ' Sweets', ' North Indian', ' Beverages', ' Desserts']",4.6,33.0, ,0
+138,143,World Of Paratha,Borivali,"['North Indian', ' Beverages']",4.4,33.0, ,0
+139,144,Bhagwati Veg Restaurant,Borivali West,"['North Indian', ' Chinese', ' Biryani', ' South Indian']",4.3,35.0, ₹125 OFF ABOVE ₹499,499
+140,145,Kwality Walls Frozen Dessert and Ice Cream Shop,Thakur Village,"['Desserts', ' Ice Cream', ' Ice Cream Cakes']",4.8,15.0, 50% OFF UPTO ₹100,100
+141,146,Anand Sweets & Savouries,Jog Gor East,"['Sweets', ' Desserts']",4.7,40.0, ₹100 OFF ABOVE ₹499,499
+142,147,Myfroyoland - Premium Frozen Yogurt,Borivali West,"['Desserts', ' Ice Cream', ' Healthy Food']",4.4,28.0, 10% OFF ABOVE ₹1500,1500
+143,148,Sweetish House Mafia,Kandivali West,['Desserts'],4.2,30.0, 30% OFF UPTO ₹150,150
+144,149,Natural Ice Cream,Avenue Hotel,"['Ice Cream', ' Desserts']",4.7,21.0, 20% OFF ,0
+145,150,Chinese Wok,Kandivali East,"['Chinese', ' Asian', ' Tibetan', ' Desserts']",4.2,21.0, 50% OFF UPTO ₹100,100
+146,151,The Belgian Waffle Co.,Kandivali East,"['Waffle', ' Desserts', ' Ice Cream']",4.5,27.0, 20% OFF UPTO ₹50,50
+147,152,Ghar Ki Rasoi,Malad Kan East,['North Indian'],,32.0, ,0
+148,153,Mamledar Misal,Borivali West,"['Maharashtrian', ' Street Food']",4.0,27.0, ₹100 OFF ABOVE ₹749,749
+149,154,Chaayos Chai+Snacks=Relax,kandivali east,"['Bakery', ' Beverages', ' Chaat', ' Desserts', ' Home Food', ' Italian', ' Maharashtrian', ' Snacks', ' Street Food', ' Sweets']",4.5,18.0, 60% OFF UPTO ₹120,120
+150,155,The Good Bowl,Kandivali East,"['Biryani', ' North Indian', ' Pastas', ' Punjabi', ' Desserts', ' Beverages']",4.3,24.0, ₹175 OFF ABOVE ₹799,799
+151,156,BOX8 - Desi Meals,Kandivali East,"['North Indian', ' Biryani', ' Thalis', ' Home Food']",4.4,16.0, 50% OFF UPTO ₹100,100
+152,157,Behrouz Biryani,Kandivali East,"['Biryani', ' North Indian', ' Kebabs', ' Mughlai', ' Lucknowi', ' Hyderabadi', ' Desserts', ' Beverages']",4.2,22.0, 60% OFF UPTO ₹110,110
+153,158,"Faasos - Wraps, Rolls & Shawarma",Kandivali East,"['Kebabs', ' Fast Food', ' Snacks', ' North Indian', ' American', ' Healthy Food', ' Desserts', ' Beverages']",4.1,26.0, 60% OFF UPTO ₹110,110
+154,159,LunchBox - Meals and Thalis,Kandivali East,"['Biryani', ' North Indian', ' Punjabi', ' Healthy Food', ' Desserts', ' Beverages']",4.3,26.0, ITEMS AT ₹159,0
+155,160,Subway,Kandivali East,"['Salads', ' Snacks', ' Desserts', ' Beverages']",4.0,26.0, 40% OFF UPTO ₹80,80
+156,161,Mohanlal S Mithaiwala,Borivali,"['Sweets', ' Desserts', ' Snacks']",4.9,33.0, ,0
+157,162,Parsi Dairy Farm,Borivali,['Indian'],4.6,31.0, ,0
+158,163,Adarsh,Borivali,"['Snacks', ' Sweets', ' Bakery']",4.5,31.0, 10% OFF ABOVE ₹1900,1900
+159,164,Mama Mia! - Italian Ice Creams & Cakes,Borivali,"['Bakery', ' Desserts', ' Ice Cream']",4.4,27.0, ₹175 OFF ABOVE ₹599,599
+160,165,Trishiv Chinese Corner,Borivali,"['Chinese', ' Fast Food', ' Street Food', ' North Indian']",4.1,34.0, 10% OFF ABOVE ₹1000,1000
+161,166,Baskin Robbins - Ice Cream Desserts,Kandivali East,['Desserts'],4.6,13.0, 30% OFF UPTO ₹75,75
+162,167,Wagh Bakri Tea Lounge,Borivali,"['Beverages', ' Snacks', ' Fast Food', ' Street Food', ' Desserts']",3.5,39.0, 20% OFF ABOVE ₹700,700
+163,168,Chitale Xpress,Borivali,"['Sweets', ' Desserts']",4.7,28.0, ,0
+164,169,Cheesecakes By CakeZone,L T Road Junction,"['Bakery', ' Desserts', ' Sweets', ' Beverages', ' Ice Cream', ' Juices', ' Bengali']",4.4,33.0, ₹175 OFF ABOVE ₹699,699
+165,170,Birdy's Cake Shop,Malad East,"['Desserts', ' Bakery']",4.1,35.0, ,0
+166,171,Jeden-The Cake Expert,Kandivali West,"['Desserts', ' Bakery', ' Sweets']",4.3,31.0, ₹125 OFF ABOVE ₹599,599
+167,172,Iceberg Organic Icecreams,Borivali,['Ice Cream'],,36.0, ₹150 OFF ABOVE ₹299,299
+168,173,Oven Story Pizza - Standout Toppings,Kandivali East,"['Pizzas', ' Pastas', ' Italian', ' Desserts', ' Beverages']",4.4,27.5, ₹125 OFF ABOVE ₹899,899
+169,174,Ovenfresh Cakes And Desserts,Borivali,"['Bakery', ' Desserts', ' Beverages', ' Ice Cream', ' Sweets', ' Juices', ' Bengali', ' Pizzas']",4.1,34.0, ₹125 OFF ABOVE ₹399,399
+170,175,Vadilal Ice Creams,Kandivali West,"['Ice Cream', ' Desserts']",4.1,35.0, ₹175 OFF ABOVE ₹399,399
+171,176,Amore Gelato - Italian Ice Cream,Borivali,"['Ice Cream', ' Desserts']",4.4,34.0, ,0
+172,177,Burger King,Kandivali East,"['Burgers', ' American']",4.3,39.0, 60% OFF UPTO ₹120,120
+173,178,ITC Fabelle Chocolates,L T Road Junction,"['Bakery', ' Desserts']",4.7,33.0, 25% OFF ABOVE ₹179,179
+174,179,Mad Over Donuts,Kandivali East,"['Desserts', ' Sweets', ' Bakery']",4.6,27.0, 50% OFF UPTO ₹100,100
+175,180,"Frozen Bottle - Milkshakes, Desserts And Ice Cream",Kandivali East,"['Beverages', ' Desserts', ' Ice Cream', ' Waffle', ' Bakery', ' Healthy Food']",4.3,15.0, ₹100 OFF ABOVE ₹449,449
+176,181,"Gianis - Ice Cream, Shakes & Sundaes",Malad Kan East,"['Ice Cream', ' Bakery', ' Beverages']",4.6,15.0, ,0
+177,182,Tibb's Frankie,Kandivali East,"['Snacks', ' Biryani', ' North Indian', ' Mexican', ' Beverages']",4.1,23.0, 30% OFF UPTO ₹75,75
+178,183,The Biryani Life,Kandivali East,"['Biryani', ' Mughlai', ' Lucknowi', ' Hyderabadi', ' North Indian', ' Kebabs', ' Desserts', ' Beverages']",4.0,25.0, 60% OFF UPTO ₹110,110
+179,184,Sweet Truth - Cake and Desserts,Kandivali East,"['Snacks', ' Bakery', ' Desserts', ' Beverages']",4.1,20.0, 60% OFF UPTO ₹110,110
+180,185,Cafe Coffee Day,Kandivali East,"['Beverages', ' Cafe', ' Snacks', ' Desserts', ' Burgers', ' Ice Cream', ' Bakery', ' Fast Food']",4.3,28.0, ITEMS AT ₹159,0
+181,186,Firangi Bake,Kandivali East,"['Pizzas', ' Pastas', ' Italian', ' Mexican', ' Healthy Food', ' Desserts', ' Beverages']",3.9,30.0, ,0
+182,187,Apsara Ice Creams,Kandivali East,"['Ice Cream', ' Desserts']",4.7,14.0, ,0
+183,188,Great Indian Khichdi by EatFit,Gorai Road,"['Home Food', ' Indian', ' North Indian', ' Healthy Food', ' Snacks', ' Desserts', ' Rajasthani', ' South Indian', ' Maharashtrian', ' Sweets']",4.3,37.0, ITEMS AT ₹159,0
+184,189,Wendy's,Jog Gor East,"['Burgers', ' American', ' Fast Food', ' Snacks', ' Beverages']",4.2,49.0, ITEMS AT ₹129,0
+185,190,Keventers - Milkshakes & Desserts,Kandivali West,"['Beverages', ' Ice Cream', ' Desserts', ' Healthy Food']",4.2,29.0, 20% OFF UPTO ₹120,120
+186,191,Green Therapy Co.,Malad Kan East,"['Healthy Food', ' Juices', ' Beverages']",4.5,38.0, 50% OFF UPTO ₹100,100
+187,192,FreshMenu,Goregaon East,"['Continental', ' Chinese', ' Oriental', ' Asian', ' Healthy Food', ' Fast Food', ' Indian', ' Desserts']",4.1,49.0, EVERY ITEM @ ₹129,0
+188,193,Lucky Restaurant (Since 1938),Goregaon East,"['Biryani', ' North Indian', ' Chinese', ' Mughlai', ' Seafood', ' Desserts', ' Tandoor', ' Punjabi', ' Indian']",4.1,40.0, ₹125 OFF ABOVE ₹749,749
+189,194,The Paratha House,Malad Kan East,"['North Indian', ' Indian']",4.1,47.0, 50% OFF UPTO ₹100,100
+190,195,Rabdi Wala,Borivali West,"['Desserts', ' Gujarati', ' Rajasthani', ' Snacks']",4.2,37.0, ,0
+191,196,Ladu Samrat,Kandivali East,"['Maharashtrian', ' Snacks', ' Street Food', ' Indian', ' Desserts', ' Chaat']",4.3,43.0, FREE ITEM ,0
+192,197,Greens Restaurant,Malad West,"['North Indian', ' Chinese', ' South Indian']",4.4,54.0, ₹100 OFF ABOVE ₹599,599
+193,198,Chocolateria San Churro,Borivali,['Desserts'],2.2,39.0, ₹175 OFF ABOVE ₹449,449
+194,199,The Churro Co.,Kandivali East,"['Desserts', ' Beverages', ' Waffle']",4.1,38.0, ₹50 OFF ABOVE ₹999,999
+195,200,The Dough Therapy,Kandivali West,"['Pizzas', ' Pastas', ' Italian']",4.1,39.0, ₹175 OFF ABOVE ₹799,799
+196,201,Barbeque Nation,Kandivali East,"['North Indian', ' Barbecue', ' Biryani', ' Kebabs', ' Mughlai', ' Desserts']",4.0,45.0, 40% OFF UPTO ₹80,80
+197,202,Aromas Cafe & Bistro,Malad Kan East,"['Continental', ' Italian', ' Lebanese', ' Beverages']",4.2,50.0, ₹125 OFF ABOVE ₹249,249
+198,203,Chai Pe Charcha,Kandivali West,['Beverages'],4.0,40.0, 20% OFF UPTO ₹100,100
+199,204,Cremure,Malad West,"['Bakery', ' Desserts', ' Waffle', ' Beverages']",4.5,38.0, ₹175 OFF ABOVE ₹449,449
+200,205,EatFit,Gorai Road,"['Chinese', ' Healthy Food', ' Tandoor', ' Pizzas', ' North Indian', ' Thalis', ' Biryani']",4.2,39.0, ITEMS AT ₹179,0
+201,206,Biryani Can - Pure Veg Biryanis,Kandivali West,['Biryani'],3.9,37.0, ₹175 OFF ABOVE ₹599,599
+202,207,Cheelizza - India ka Pizza,Kandivali West,"['Pizzas', ' Italian', ' Fast Food']",4.2,39.0, ₹175 OFF ABOVE ₹699,699
+203,208,Bake Ur Day - Freshest Cakes,Borivali West,"['Desserts', ' Bakery', ' Cakes and Pastries', ' Beverages']",3.7,39.0, ₹175 OFF ABOVE ₹449,449
+204,209,Radha Krishna,Borivali,['Indian'],3.8,38.0, ,0
+205,210,Amar Juice Center,Borivali West,"['Street Food', ' Beverages', ' South Indian']",4.4,37.0, ,0
+206,211,MM Mithaiwala,Malad West,"['Sweets', ' Snacks', ' Desserts', ' Beverages']",4.4,42.0, 15% OFF ABOVE ₹800,800
+207,212,Haldiram's Restaurant,Malad Kan East,"['Snacks', ' South Indian', ' Desserts', ' Beverages']",4.3,38.0, 50% OFF UPTO ₹100,100
+208,213,Taco Bell,Kandivali East,['Mexican'],4.0,49.0, 50% OFF UPTO ₹100,100
+209,214,Wow! Momo,Malad East,"['Tibetan', ' Healthy Food', ' Asian', ' Chinese', ' Snacks', ' Continental', ' Desserts', ' Beverages']",4.1,45.0, ₹175 OFF ABOVE ₹599,599
+210,215,Bangalore Iyangar's Bakery,Kandivali West,"['Bakery', ' Desserts', ' Snacks']",4.9,47.0, ,0
+211,216,Dum Safar Biryani by Barbeque Nation,GROWELS MALL,"['Biryani', ' Kebabs', ' Tandoor', ' Indian', ' Desserts']",4.3,48.0, 40% OFF UPTO ₹80,80
+212,217,Wow! China,Akruli Road,"['Tibetan', ' Healthy Food', ' Asian', ' Chinese', ' Snacks', ' Continental', ' Desserts', ' Beverages']",4.1,43.0, 60% OFF UPTO ₹120,120
+213,218,Malgudi,Kandivali East,"['South Indian', ' Mangalorean', ' Andhra', ' Snacks', ' Healthy Food']",4.1,37.0, ₹125 OFF ABOVE ₹249,249
+214,219,Oye Kiddan,Borivali West,['North Indian'],3.9,43.0, ₹175 OFF ABOVE ₹449,449
+215,220,Sbarro - New York Pizza,Kandivali East,"['Italian', ' Pizzas', ' Desserts', ' Beverages']",3.9,38.0, ₹125 OFF ABOVE ₹299,299
+216,221,Cookie Man,Kandivali East,"['Desserts', ' Ice Cream', ' Bakery']",4.4,37.0, 40% OFF UPTO ₹80,80
+217,222,Pop Tate's,Kandivali East,"['Continental', ' Italian', ' European', ' Mexican']",4.2,37.0, 20% OFF UPTO ₹50,50
+218,223,Shiv Sagar,Mahavir Nagar,"['Indian', ' Continental', ' Chinese']",4.3,38.0, 10% OFF ABOVE ₹600,600
+219,224,Urban Tadka,Kandivali East,"['North Indian', ' Mughlai']",4.3,43.0, 20% OFF UPTO ₹50,50
+220,225,Uncle's Kitchen (Since 1987),Malad West,"['Chinese', ' Asian', ' Thai']",4.4,42.0, 15% OFF ABOVE ₹1000,1000
+221,226,Bikaji Food Junxon,Malad West,"['Sweets', ' Snacks']",4.6,46.0, ₹100 OFF ABOVE ₹999,999
+222,227,Rajubhai Dhoklawala,Borivali,"['Sweets', ' Desserts', ' Gujarati', ' Snacks']",4.5,40.0, ,0
+223,228,Deepak (Borivali),Borivali West,"['Indian', ' Chinese', ' South Indian', ' Snacks']",4.5,38.0, ,0
+224,229,Godwa,Malad Borivali Area,"['American', ' Beverages', ' Thalis']",4.4,39.0, 10% OFF ABOVE ₹600,600
+225,230,Radha Krishna (Borivali),Borivali West,"['Indian', ' Chinese', ' South Indian', ' Mexican', ' Italian']",4.4,39.0, ,0
+226,231,Tulsi Vihar,Kandivali West,"['North Indian', ' Chinese', ' South Indian', ' Beverages']",4.2,42.0, ₹100 OFF ABOVE ₹999,999
+227,232,Smokin Curries,Malad Kan West,"['Biryani', ' Indian', ' North Indian', ' Tandoor', ' Kebabs', ' Fast Food', ' Desserts', ' Beverages']",4.2,54.0, ,0
+228,233,The Food Studio Kitchen & Bar,Malad West,"['North Indian', ' Continental', ' Asian', ' Punjabi', ' Chinese', ' Italian', ' Mughlai']",4.4,56.0, ,0
+229,234,Bhavesh Chinese,Borivali West,"['Chinese', ' Indian']",4.2,43.0, ,0
+230,235,Spukies - The Veg Sigree,Mumbai,"['North Indian', ' Jain', ' Chinese', ' South Indian']",4.3,46.0, ,0
+231,236,Agri Malhari Katta,Borivali,"['Indian', ' Chinese']",4.3,50.0, ,0
+232,237,Zaika Fun Dining | Club Aquaria,Borivali West,"['North Indian', ' Chinese', ' Biryani', ' Continental']",4.3,44.0, ₹175 OFF ABOVE ₹449,449
+233,238,Pishu's - Drink Your Fruit,Malad West,"['Juices', ' Beverages', ' Healthy Food']",4.4,55.0, ₹150 OFF ABOVE ₹399,399
+234,239,Madhuram Sweets & Chaat,Dahisar,['Desserts'],4.6,46.0, ₹100 OFF ABOVE ₹999,999
+235,240,Cosway,PG Road,"['Chinese', ' North Indian', ' Indian']",4.1,51.0, ₹175 OFF ABOVE ₹449,449
+236,241,Kansar Pure Veg Thali,Chikoowadi,['Thalis'],4.1,44.0, 15% OFF ABOVE ₹800,800
+237,242,Jain SubKuchh Food Plaza,Malad West,"['Street Food', ' North Indian', ' Chinese', ' Desserts', ' South Indian']",4.3,52.0, ₹175 OFF ABOVE ₹449,449
+238,243,Pangat (Gorai),Borivali West,"['Indian', ' Chinese', ' Malwani', ' Seafood', ' Kebabs', ' Biryani', ' Maharashtrian']",4.4,40.0, ,0
+239,244,Shenoy's,Jog Gor East,"['Fast Food', ' Snacks', ' Chinese', ' Chaat']",4.1,48.0, ,0
+240,245,Surmai Restaurant,Malad West,"['Seafood', ' Indian', ' Chinese']",4.3,47.0, ₹175 OFF ABOVE ₹449,449
+241,246,Qutuz Irani Cafe,Chincholi Bunder Road,['Fast Food'],4.3,51.0, ,0
+242,247,Anda Apna Apna,Malad West,['Fast Food'],4.5,52.0, ₹175 OFF ABOVE ₹449,449
+243,248,Shreeji Pure Veg,Jog Gor East,"['Indian', ' South Indian', ' Chinese', ' Desserts', ' Beverages']",4.5,49.0, ,0
+244,249,Sai Veg World,Goregaon East,"['Indian', ' Chinese']",4.3,50.0, ₹175 OFF ABOVE ₹449,449
+245,250,Baba Falooda,Mira Road,['Desserts'],4.5,40.0, ,0
+246,251,Persia Darbar,Goregaon East,"['North Indian', ' Biryani', ' Chinese', ' Arabian', ' Mughlai']",4.3,44.0, ₹175 OFF ABOVE ₹799,799
+247,252,CakeZone,L T Road Junction,"['Bakery', ' Desserts', ' Sweets', ' Ice Cream']",4.2,37.0, ₹125 OFF ABOVE ₹399,399
+248,253,Bikkgane Biryani,Malad Kan West,"['Biryani', ' Hyderabadi', ' Andhra', ' South Indian', ' North Indian', ' Mughlai', ' Kebabs']",4.1,54.0, ₹175 OFF ABOVE ₹449,449
+249,254,Chai Point,Malad West,"['Bakery', ' Beverages', ' Maharashtrian', ' Snacks', ' Street Food', ' South Indian', ' Punjabi', ' Chaat', ' Indian', ' American', ' North Indian', ' Fast Food', ' Desserts', ' Cafe', ' Healthy Food', ' Home Food']",4.3,52.0, 25% OFF UPTO ₹125,125
+250,255,Biryani By Kilo,Malad West,"['Biryani', ' Hyderabadi', ' North Indian', ' Kebabs', ' Mughlai', ' Desserts']",4.1,70.0, ₹175 OFF ABOVE ₹1999,1999
+251,256,Curry Mantra,Dahisar,"['Indian', ' Chinese', ' Tandoor', ' Biryani', ' Mangalorean', ' Malwani', ' Kerala', ' Goan', ' Chettinad', ' Mughlai', ' Seafood']",4.3,39.0, ,0
+252,257,Oye Teri - The Kulcha Kulture,Borivali,['Indian'],4.2,39.0, ,0
+253,258,Noorani Restaurant,Malad East,"['Chinese', ' North Indian']",4.1,39.0, ₹125 OFF ABOVE ₹599,599
+254,259,Cheesecake & Co.,Jog Gor East,"['Bakery', ' Desserts']",4.2,40.0, ₹150 OFF ABOVE ₹399,399
+255,260,Smoor,I C Colony,"['Desserts', ' Bakery', ' Beverages']",4.3,39.0, ₹175 OFF ABOVE ₹899,899
+256,261,HRX by EatFit,Gorai Road,"['Healthy Food', ' Salads', ' Keto']",4.4,38.0, ITEMS AT ₹199,0
+257,262,Shahi Darbar,Malad Kan West,"['Beverages', ' Desserts', ' Ice Cream']",,41.0, ,0
+258,263,Gomantak,Dahisar,"['Indian', ' Seafood', ' Tandoor', ' Malwani', ' Chinese']",4.2,53.0, 25% OFF UPTO ₹125,125
+259,264,Cafe Heaven,Malad West,"['Mughlai', ' Chinese', ' Tandoor', ' Indian']",4.1,44.0, ₹100 OFF ABOVE ₹599,599
+260,265,Landmark Restaurant Veg Diet,Malad Kan West,"['North Indian', ' Chinese', ' Continental', ' Beverages']",4.1,50.0, ,0
+261,266,Supermani,Borivali,"['South Indian', ' Biryani', ' Fast Food', ' Snacks']",4.5,47.0, ,0
+262,267,Aahar-E-Kolkata,Malad Kan East,"['Bengali', ' Thalis', ' Biryani', ' Desserts']",4.2,55.0, ,0
+263,268,Suraj Lama Momos,Jog Gor East,['Chinese'],4.6,55.0, ,0
+264,269,Charcoal Bistro,Jog Gor East,"['Indian', ' Chinese']",3.5,44.0, ,0
+265,270,The Tiny Tub,Malad Kan West,"['Desserts', ' Bakery', ' Sweets', ' Snacks', ' Cafe']",4.0,44.0, ₹100 OFF ABOVE ₹749,749
+266,271,"DIMSUM WU (Chinese, Momo, Shushi & more) ",Borivali,"['Pan-Asian', ' Indonesian', ' Thai', ' Chinese', ' Desserts']",4.2,51.0, ₹175 OFF ABOVE ₹449,449
+267,272,Kolkata Heshel,Malad West,['Bengali'],4.5,64.0, 10% OFF ABOVE ₹800,800
+268,273,Social,Goregaon East,"['North Indian', ' Chinese', ' Fast Food', ' Biryani', ' Pizzas', ' Salads', ' Kebabs', ' Juices', ' Desserts', ' Beverages']",4.3,58.0, 60% OFF UPTO ₹120,120
+269,274,Ohhdaily - Healthy & Homely Tiffins,Malad West,"['Thalis', ' Indian', ' Home Food', ' Chinese']",4.3,42.0, ₹175 OFF ABOVE ₹399,399
+270,275,Harvest Salad Co,Road Ramachandra Lbe,"['Salads', ' Healthy Food', ' Snacks']",4.3,44.0, 40% OFF UPTO ₹80,80
+271,276,Maiz Mexican Kitchen,Road Ramachandra Lbe,"['Mexican', ' Indian', ' Salads']",4.4,44.0, 40% OFF UPTO ₹80,80
+272,277,Veg Sutra,Goregaon,"['North Indian', ' Chinese']",4.2,48.0, ₹100 OFF ABOVE ₹399,399
+273,278,Balaji Snacks,Malad East,"['Snacks', ' Chaat', ' South Indian']",3.3,39.0, ,0
+274,279,Shree Krishna,Kandivali West,"['Indian', ' Chinese', ' North Indian', ' Tandoor', ' Seafood', ' Biryani']",4.3,45.0, ₹250 OFF ABOVE ₹999,999
+275,280,Speak Burgers by Vicky Ratnani,Malad Kan West,"['Burgers', ' American', ' Beverages']",4.0,47.0, ₹175 OFF ABOVE ₹449,449
+276,281,Spicy Bowl,Goregaon,"['Chinese', ' Biryani', ' North Indian', ' Tandoor', ' Beverages']",3.5,65.0, ,0
+277,282,Fire Bowl,Malad West,"['Chinese', ' Italian', ' Mexican', ' Thai']",4.3,55.0, ,0
+278,283,Falafel's,Goregaon East,"['Lebanese', ' Mediterranean', ' Arabian', ' Middle Eastern', ' Rolls & Wraps', ' Jain']",4.0,42.0, ₹175 OFF ABOVE ₹449,449
+279,284,The Pancake Story,Malad West,"['Desserts', ' Beverages']",4.4,55.0, ₹100 OFF ABOVE ₹599,599
+280,285,Baithack Taste of Kulhad,Borivali,"['Beverages', ' Fast Food', ' Snacks']",3.8,46.0, ,0
+281,286,Curry Culture,Malad West,"['Biryani', ' North Indian', ' Kebabs', ' Malwani', ' Chinese', ' Seafood', ' Asian', ' Thai', ' Mughlai', ' Indian', ' Desserts', ' Tandoor']",4.4,54.0, ,0
+282,287,Foodaholic,Jog Gor East,['Chinese'],,53.0, ₹150 OFF ABOVE ₹999,999
+283,288,The Bar Stock Exchange,Malad West,"['North Indian', ' Biryani', ' Chinese', ' Asian', ' Kebabs', ' Italian']",4.0,57.0, ,0
+284,289,Punjabi Grill,Kandivali East,"['Punjabi', ' Combo', ' Tandoor', ' Snacks', ' Chinese', ' Biryani']",4.1,42.0, 15% OFF ABOVE ₹700,700
+285,290,Bandra Cakery by Bunty Mahajan,Kandivali West,"['Bakery', ' Desserts']",4.4,50.0, 30% OFF UPTO ₹75,75
+286,291,Krishna Lunch Home,Borivali,"['North Indian', ' Indian', ' Tandoor', ' Seafood']",4.2,44.0, ,0
+287,292,Fried Nation,Malad West,"['Fast Food', ' American']",4.4,49.0, ,0
+288,293,Cake Works,Malad Kan East,['Indian'],,46.0, 30% OFF UPTO ₹150,150
+289,294,Meraki,Malad West,['Chinese'],4.2,49.0, ₹175 OFF ABOVE ₹449,449
+290,295,Dale's Eden Cake Shop,Malad West,"['Desserts', ' Bakery', ' Sweets']",4.4,38.0, ₹175 OFF ABOVE ₹449,449
+291,296,Banana Leaf,Borivali West,"['South Indian', ' Snacks', ' Andhra']",4.4,39.0, ₹100 OFF ABOVE ₹599,599
+292,297,"House of Biryan- Biryani, Kepsa and More",Malad West,"['Biryani', ' Kebabs', ' Rolls']",4.4,40.0, ₹175 OFF ABOVE ₹599,599
+293,298,Brijwasi Sweets Original Since 1946,Malad Kan West,"['Sweets', ' Snacks', ' Chaat', ' Beverages', ' Indian']",4.4,50.0, 15% OFF ABOVE ₹800,800
+294,299,Deliciae by Bunty Mahajan,Kandivali West,['Desserts'],4.6,48.0, ₹175 OFF ABOVE ₹1199,1199
+295,300,Sahara Restaurant,Malad East,"['North Indian', ' Chinese', ' Tandoor', ' Biryani']",3.8,43.0, ₹175 OFF ABOVE ₹449,449
+296,301,Copper Chimney,Malad West,"['North Indian', ' Indian', ' Punjabi', ' Biryani', ' Tandoor', ' Kebabs', ' Mughlai', ' Desserts']",4.2,80.0, 15% OFF ABOVE ₹1200,1200
+297,302,Jimis Burger,Jog Gor East,['American'],4.6,47.0, ,0
+298,303,Sadak Chaap,Malad West,"['Tandoor', ' Indian', ' Snacks']",4.4,48.0, ₹100 OFF ABOVE ₹749,749
+299,304,Jamai Shoshthi,Goregaon,"['Bengali', ' Biryani', ' Mughlai']",4.2,59.0, ,0
+300,305,Carter's Blue,Malad West,"['Indian', ' Chinese', ' Lebanese']",4.4,49.0, ,0
+301,306,Hotel Ram Krishna,Dahisar East,['Indian'],4.5,41.0, ,0
+302,307,Delicacy,Kandivali West,['Indian'],4.4,40.0, ,0
+303,308,5 Spice,Borivali West,"['Chinese', ' Asian', ' Thai', ' Seafood']",4.2,40.0, ₹150 OFF ABOVE ₹499,499
+304,309,BOMBAY JUICE," Ratna bhai chawk saibaba Nagar, borivali west","['Juices', ' Beverages', ' Salads']",3.9,41.0, 20% OFF ABOVE ₹700,700
+305,310,Bombay Sweet Shop,Malad Kan West,"['Desserts', ' Sweets', ' Bakery', ' Snacks', ' Indian']",4.7,41.0, ₹175 OFF ABOVE ₹1199,1199
+306,311,Balaji Pure Veg,Malad Kan West,"['Chinese', ' South Indian']",4.2,44.0, 10% OFF ABOVE ₹1000,1000
+307,312,Fuel Up,Malad West,"['Healthy Food', ' Salads', ' Juices', ' Grill', ' American', ' Continental']",4.5,55.0, ₹150 OFF ABOVE ₹399,399
+308,313,Meal Bowl,Goregaon West,"['Indian', ' Chinese']",4.3,45.0, ₹100 OFF ABOVE ₹499,499
+309,314,The French Connection,Malad Kan East,"['Bakery', ' Snacks', ' Italian']",4.6,15.0, 30% OFF UPTO ₹75,75
+310,315,Madrasi Kaapi House,Evershine Millenium Paradise,"['South Indian', ' Combo', ' Beverages']",4.4,26.0, 20% OFF UPTO ₹50,50
+311,316,Singarawala,Malad Kan East,"['Bengali', ' Mughlai', ' Biryani', ' Thalis']",4.6,53.0, ,0
+312,317,Shivam Sundaram,Express Highway,"['North Indian', ' Chinese', ' South Indian']",4.4,28.0, 20% OFF UPTO ₹50,50
+313,318,DBW - De Burger World,Thakur Village,"['Burgers', ' Snacks', ' Beverages']",4.5,26.0, ,0
+314,319,The Biryani Story,Malad Kan West,"['Biryani', ' Kebabs', ' Tandoor', ' Beverages']",4.0,54.0, ,0
+315,320,Andhra Kodi Pulao,Malad Kan West,"['Hyderabadi', ' South Indian', ' North Indian', ' Andhra', ' Kebabs', ' Mughlai']",4.4,73.0, ₹175 OFF ABOVE ₹449,449
+316,321,Maharaja Bhog,Goregaon East,"['Gujarati', ' Rajasthani', ' Thalis']",4.4,51.0, 10% OFF ABOVE ₹800,800
+317,322,Pizza Caprina,Goregaon West,"['Pizzas', ' Italian-American', ' Desserts']",4.1,55.0, ₹125 OFF ABOVE ₹599,599
+318,323,Satkar Restaurant,Dahisar West,"['Indian', ' Chinese', ' Tandoor']",3.9,53.0, ,0
+319,324,Upwas Uphargruha,Rawal Pada,['Indian'],3.4,40.0, ,0
+320,325,Eva's Pizza,Malad West,"['Pizzas', ' Italian', ' Salads']",4.1,52.0, ₹175 OFF ABOVE ₹449,449
+321,326,Biryani Culture,Malad Kan West,"['Asian', ' Biryani', ' Chinese', ' Desserts', ' Indian', ' Mughlai', ' North Indian', ' Seafood', ' Tandoor', ' Thai', ' Kebabs']",3.9,51.0, ,0
+322,327,Zaffran,Andheri Link Road ,"['North Indian', ' Biryani', ' Indian', ' Kebabs', ' Rolls & Wraps']",4.4,67.0, ₹175 OFF ABOVE ₹799,799
+323,328,Home Plate by EatFit,Gorai Road,"['North Indian', ' Home Food', ' Healthy Food', ' Indian', ' Punjabi', ' South Indian', ' Rajasthani', ' Maharashtrian', ' Snacks', ' Desserts', ' Beverages']",4.0,39.0, ITEMS AT ₹159,0
+324,329,The Dessert Heaven - Pure Veg,L T Road Junction,"['Bakery', ' Desserts', ' Sweets', ' Ice Cream']",4.3,39.0, ₹125 OFF ABOVE ₹299,299
+325,330,Darbhanga Xpress - The Taste of Mithila,Kandivali East,"['Indian', ' Seafood']",3.3,35.0, 50% OFF UPTO ₹100,100
+326,331,Marrakesh,Kandivali,"['Lebanese', ' North Indian', ' Kebabs', ' Desserts', ' Beverages']",4.0,42.0, ,0
+327,332,Bowl Soul,Goregaon,"['Indian', ' Asian', ' Continental', ' Pan-Asian', ' Chinese', ' Mediterranean', ' Mexican', ' Lebanese', ' North Indian', ' Korean', ' Japanese', ' South Indian']",4.1,47.0, EVERY ITEM @ ₹129,0
+328,333,Olio - The Wood Fired Pizzeria,Malad West,"['Pizzas', ' Pastas', ' Fast Food', ' Snacks', ' Beverages']",4.2,61.0, ₹125 OFF ABOVE ₹249,249
+329,334,Barista Coffee,Malad West,"['Beverages', ' Snacks', ' Desserts']",4.2,44.0, ₹125 OFF ABOVE ₹449,449
+330,335,Kailash Parbat,Goregaon East,['North Indian'],4.1,46.0, ,0
+331,336,Chaat Street - Desi Chaat & Chai,Gorai Road,"['Snacks', ' Chaat', ' Street Food', ' North Indian', ' Fast Food']",3.8,44.0, ₹125 OFF ABOVE ₹349,349
+332,337,Suruchi Veg Restaurant,Malad Kan East,"['North Indian', ' Chinese', ' South Indian', ' Fast Food', ' Beverages', ' Biryani']",4.5,32.0, 10% OFF ABOVE ₹800,800
+333,338,Oye Paratha House,Malad Kan East,['Indian'],4.1,35.0, 50% OFF UPTO ₹100,100
+334,339,Mishra Pan Bhandar,Malad Kan East,"['Paan', ' Sweets', ' Mughlai']",4.7,27.0, 10% OFF UPTO ₹40,40
+335,340,Ebony Casual Diner,Kandivali East,"['North Indian', ' Chinese', ' Biryani', ' Tandoor', ' Seafood']",4.2,24.0, 30% OFF UPTO ₹75,75
+336,341,Golden Dragon Chinese Point,90 FT Road,['Chinese'],4.4,25.0, 60% OFF UPTO ₹120,120
+337,342,Surbhi Pure Veg (Thakur Village),Kandivali East,"['Indian', ' Biryani', ' Chinese', ' Snacks', ' Beverages']",4.1,30.0, ₹175 OFF ABOVE ₹449,449
+338,343,Cafe Cocobroma,Kandivali East,"['Cafe', ' Desserts', ' Waffle', ' Beverages', ' Bakery', ' Sweets']",4.3,21.0, 20% OFF UPTO ₹50,50
+339,344,Surbhi,Kandivali East,"['Indian', ' Biryani', ' Chinese', ' South Indian', ' Snacks', ' Desserts', ' Beverages']",4.3,29.0, 40% OFF UPTO ₹80,80
+340,345,Konark Veg Diet,Kandivali East,"['North Indian', ' Chinese', ' South Indian', ' Indian']",4.4,24.0, ,0
+341,346,Mira Veg Restaurant,Kandivali East,"['South Indian', ' Chinese', ' North Indian', ' Fast Food', ' Indian', ' Beverages', ' Street Food']",4.3,25.0, 10% OFF ABOVE ₹1500,1500
+342,347,Aavakay The Andhra Kitchen,Kandivali East,"['Andhra', ' Biryani', ' Indian', ' Desserts', ' Beverages']",4.0,32.0, 30% OFF UPTO ₹75,75
+343,348,Papacream,Kandivali West,"['Ice Cream', ' Healthy Food', ' Desserts']",4.3,38.0, 60% OFF UPTO ₹120,120
+344,349,Bangalore Iyengar's Bakery,Malad Kan East,['Bakery'],3.9,51.0, ,0
+345,350,B Burger - Bigger Burger,Malad west,"['Burgers', ' American', ' Beverages', ' Snacks']",4.2,45.0, ₹125 OFF ABOVE ₹349,349
+346,351,Art Of Dum,Malad West,"['Biryani', ' North Indian', ' Kebabs', ' Indian', ' Awadhi', ' Hyderabadi', ' Mughlai', ' Desserts', ' Beverages']",4.4,59.0, 25% OFF UPTO ₹300,300
+347,352,China Box Co,Borivali,"['Chinese', ' Asian', ' Thai', ' Seafood']",4.1,42.0, ₹150 OFF ABOVE ₹499,499
+348,353,Mini Punjab,Malad West,"['North Indian', ' Chinese']",4.2,52.0, 15% OFF UPTO ₹80,80
+349,354,Dimsum (Momo) Express,Borivali,"['North Indian', ' Chinese', ' Tandoor']",4.0,45.0, ₹150 OFF ABOVE ₹749,749
+350,355,Coco Cafe,Goregaon East,"['Cafe', ' Burgers', ' American', ' Italian', ' Beverages', ' Desserts', ' Pastas', ' Continental']",4.1,66.0, ₹175 OFF ABOVE ₹499,499
+351,356,Al-Baik.Com,Malad Kan West,"['Fast Food', ' Pizzas', ' Burgers', ' Rolls & Wraps', ' Snacks']",3.7,52.0, ,0
+352,357,Foodland,Malad West,"['Mughlai', ' North Indian', ' Chinese', ' Seafood']",4.5,53.0, ,0
+353,358,House of Candy,Malad West,['Sweets'],3.7,78.0, ,0
+354,359,Fruit Pop by Eatfit,Gorai Road,"['Beverages', ' Juices', ' Healthy Food', ' Desserts']",3.3,41.0, 40% OFF UPTO ₹80,80
+355,360,Artinci - Indulge Guilt Free!,Malad West,"['Ice Cream', ' Healthy Food', ' Keto', ' Desserts', ' Snacks', ' Beverages', ' Bakery', ' Sweets']",4.2,50.0, ₹175 OFF ABOVE ₹449,449
+356,361,Taaka Chinese,Goregaon,"['Chinese', ' Oriental', ' Asian']",3.0,46.0, EVERY ITEM @ ₹129,0
+357,362,Tandoori Nights,Borivali West,"['Mughlai', ' Chinese']",4.1,43.0, ,0
+358,363,Mirch,Borivali East,"['Mughlai', ' North Indian', ' Chinese', ' South Indian']",4.3,38.0, 20% OFF UPTO ₹50,50
+359,364,Banglore Iyengar Bakery,Malad Kan East,"['Bakery', ' Snacks']",4.3,16.0, ,0
+360,365,The Baker's Dozen,Goregaon,"['Bakery', ' Snacks', ' Desserts']",4.5,40.0, ₹175 OFF ABOVE ₹449,449
+361,366,Haka,Malad West,"['Chinese', ' Asian']",4.3,64.0, ₹125 OFF ABOVE ₹249,249
+362,367,Samosa Singh,Borivali,"['North Indian', ' Indian', ' Snacks', ' Street Food']",3.9,44.0, ₹150 OFF ABOVE ₹499,499
+363,368,Mainland China,Goregaon East,['Chinese'],4.3,60.0, ₹125 OFF ABOVE ₹249,249
+364,369,The Brooklyn Creamery - Healthy Ice Cream,Goregaon,"['Desserts', ' Ice Cream', ' Healthy Food']",4.2,47.0, 15% OFF ABOVE ₹800,800
+365,370,Ribbons And Balloons - The Cake Shop,Imperial Heights,"['Cakes and Pastries', ' Bakery', ' Desserts', ' Ice Cream']",4.5,40.0, ,0
+366,371,Mom's Kitchen,Malad Kan East,"['North Indian', ' Indian', ' Biryani']",3.2,56.0, ,0
+367,372,Nomad Pizza- Traveller Series,Malad West,"['Pizzas', ' Fast Food', ' Desserts', ' Beverages']",4.3,55.0, ₹150 OFF ABOVE ₹999,999
+368,373,Prasuma Momo Kitchen,Malad Kan West,"['Chinese', ' Asian', ' Snacks', ' Tibetan', ' Street Food', ' Japanese', ' Pan-Asian', ' Beverages']",4.6,48.0, ₹100 OFF ABOVE ₹499,499
+369,374,The Betel Leaf Co.,Malad Kan West,"['Paan', ' Desserts', ' Indian']",4.6,45.0, 15% OFF ABOVE ₹700,700
+370,375,Punjab Grill,MALAD WEST,"['North Indian', ' Kebabs', ' Biryani', ' Mughlai']",3.9,70.0, ₹125 OFF ABOVE ₹249,249
+371,376,Asia Kitchen By Mainland China,Goregaon East,"['Asian', ' Japanese', ' Chinese']",4.4,60.0, ₹125 OFF ABOVE ₹249,249
+372,377,Giani,Borivali,"['Ice Cream', ' Beverages']",4.0,41.0, ,0
+373,378,PizzaExpress,Goregaon East,"['Pizzas', ' Italian']",4.1,59.0, ₹175 OFF ABOVE ₹1299,1299
+374,379,Crusto's - Cheese Burst Pizza,Malad West,"['Pizzas', ' Pastas', ' Fast Food', ' Snacks', ' Beverages']",4.2,63.0, ₹125 OFF ABOVE ₹249,249
+375,380,Green Cravings,Goregaon,"['Healthy Food', ' Fast Food', ' Grill']",4.1,50.0, EVERY ITEM @ ₹159,0
+376,381,Biryani Badshah,Malad West,"['Biryani', ' Hyderabadi', ' Andhra', ' South Indian', ' North Indian', ' Mughlai', ' Kebabs']",4.1,53.0, ₹175 OFF ABOVE ₹449,449
+377,382,Naadbramha Idli,Malad Kan West,"['Chinese', ' South Indian']",3.8,43.0, ,0
+378,383,BOSS Burger,Goregaon East,"['Burgers', ' American', ' Fast Food', ' Snacks']",4.1,49.0, ₹175 OFF ABOVE ₹999,999
+379,384,Edesia by Freshmenu,Goregaon,"['Desserts', ' Bakery', ' Fast Food']",4.1,49.0, ,0
+380,385,Doner and Gyros,Mira Road,"['Lebanese', ' Middle Eastern', ' Healthy Food', ' Salads', ' Snacks', ' American', ' Desserts', ' Beverages', ' Rolls & Wraps', ' Fast Food']",4.5,50.0, ,0
+381,386,New York Waffles & Dinges,Borivali,"['Waffle', ' Bakery', ' Desserts', ' Beverages', ' Ice Cream']",3.7,38.0, ₹175 OFF ABOVE ₹449,449
+382,387,Vividham Sweets and Dryfruits,Borivali East,"['Indian', ' Snacks']",4.7,22.0, 10% OFF ABOVE ₹1000,1000
+383,388,Juno's Pizza by EatFit - Baking Fresh Since 1974,Borivali West,"['Pizzas', ' Pastas', ' Jain', ' Beverages', ' Desserts', ' Fast Food']",4.2,40.0, ₹125 OFF ABOVE ₹249,249
+384,389,Starboy Pizza & Shakes,Borivali,"['Pizzas', ' Italian', ' Desserts', ' Beverages']",4.0,42.0, ₹175 OFF ABOVE ₹449,449
+385,390,SLAY Coffee,Goregaon,"['Cafe', ' Beverages', ' Desserts', ' Snacks', ' Pastas']",4.2,55.0, ₹100 OFF ABOVE ₹399,399
+386,391,The Sugar Free Keto Kafe - Artinci,Malad West,"['Ice Cream', ' Keto', ' Healthy Food', ' Sweets', ' Bakery', ' Desserts', ' Snacks']",4.4,45.0, ₹175 OFF ABOVE ₹449,449
+387,392,Cake Walk,Malad Kan West,"['Indian', ' Bakery', ' Waffle', ' Desserts']",3.0,46.0, ,0
+388,393,Akkad Bakkad Bombay Boo - AB3,Kandivali East,"['Snacks', ' Fast Food', ' Pizzas']",4.5,33.0, ₹175 OFF ABOVE ₹449,449
+389,394,The Wafflemeister,Kandivali East,"['Desserts', ' Beverages', ' Sweets', ' Ice Cream']",4.4,32.0, 40% OFF UPTO ₹80,80
+390,395,Sanjay Pure Veg,Borivali East,"['Indian', ' South Indian']",4.3,29.0, ,0
+391,396,Su-Veg,Borivali East,"['North Indian', ' Chinese', ' South Indian', ' Biryani', ' Snacks', ' Beverages']",4.4,39.0, 30% OFF UPTO ₹75,75
+392,397,"Harsh Thali and Parathas - Mom Makes, Son Sells",Kandivali East,"['North Indian', ' Thalis', ' Gujarati', ' Rajasthani', ' Jain', ' Chinese']",4.5,39.0, 20% OFF UPTO ₹50,50
+393,398,Monopoly,Borivali West,"['Italian', ' Mexican', ' Continental', ' Juices', ' Pizzas', ' Snacks', ' Pastas', ' Beverages']",4.2,37.0, ,0
+394,399,Hotel Sarvoday,Malad Kan East,['Chinese'],3.1,34.0, 40% OFF UPTO ₹200,200
+395,400,Maa Anjani Pav Bhaji Centre,Borivali West,['Chinese'],4.4,32.0, ,0
+396,401,Maharashtra Biryani center,Kandivali East,['Biryani'],3.9,28.0, ,0
+397,402,Jain Dughdalay,Borivali,['Sweets'],4.4,22.0, 10% OFF ABOVE ₹700,700
+398,403,69 Dackers Lane,Malad Kan East,"['Bengali', ' Biryani']",3.8,27.0, 50% OFF UPTO ₹100,100
+399,404,Madras Talkies,Malad Kan East,"['South Indian', ' Beverages']",3.6,19.0, ₹50 OFF ABOVE ₹499,499
+400,405,Rama's Sweets & Snacks,Malad Kan East,"['Sweets', ' Snacks']",4.3,12.0, 10% OFF UPTO ₹40,40
+401,406,Malvan Kinara,Akurli Road,"['Indian', ' Chinese']",4.2,43.0, 10% OFF ABOVE ₹1500,1500
+402,407,Oye Bihari - Real Taste of Bihar,Kandivali East,"['Indian', ' Seafood']",4.0,34.0, 50% OFF UPTO ₹100,100
+403,408,DonBuri,Goregaon,"['Continental', ' Chinese', ' Oriental', ' Asian', ' Healthy Food', ' Fast Food', ' Indian', ' Desserts']",3.8,45.0, EVERY ITEM @ ₹129,0
+404,409,Khichdi Express,Malad West,"['Indian', ' North Indian', ' Home Food', ' Healthy Food', ' Snacks', ' Juices', ' Beverages']",4.2,55.0, ,0
+405,410,Keventers Ice Cream,Malad West,"['Ice Cream', ' Desserts']",4.1,55.0, ₹125 OFF ABOVE ₹399,399
+406,411,ENSO - Sourdough Pizza by Nomad,Malad Kan West,"['Pizzas', ' Fast Food', ' Desserts', ' Salads', ' Beverages']",4.6,53.0, ₹175 OFF ABOVE ₹999,999
+407,412,Cafe Delhi Heights,Malad West,"['Italian', ' American', ' Indian']",4.0,66.0, ₹150 OFF ABOVE ₹399,399
+408,413,Raja Chinese & Tandoor Corner,Kandivali West,"['Chinese', ' Barbecue']",3.9,36.0, ₹100 OFF ABOVE ₹999,999
+409,414,Su - Swagat,Borivali,"['North Indian', ' Chinese', ' Tandoor', ' Beverages', ' Ice Cream', ' South Indian']",4.2,31.0, ,0
+410,415,Grand Maratha,Borivali East,"['North Indian', ' Chinese', ' Malwani']",4.4,39.0, ,0
+411,416,Hotel Shree Ramdev,Dahisar,"['South Indian', ' Punjabi', ' Indian', ' Tandoor', ' Biryani', ' Chinese']",4.4,27.0, ,0
+412,417,Dwaraka,Borivali West,"['South Indian', ' Indian', ' Chinese', ' North Indian', ' Italian']",4.6,32.0, ,0
+413,418,Paratha Zone,BORIVALI,"['North Indian', ' Snacks', ' Biryani']",4.5,28.0, ,0
+414,419,THE CAKE POINT,Borivali,['Bakery'],,34.0, ,0
+415,420,Agrawal Sweets,Borivali East,"['North Indian', ' Snacks']",3.8,27.0, ₹150 OFF ABOVE ₹599,599
+416,421,Kathiyawadi Bhog,Borivali West,['Indian'],4.3,39.0, ,0
+417,422,SHREE RAM SWEETS AND FARSAN,Borivali,"['Sweets', ' Snacks']",4.6,29.0, ,0
+418,423,Bhaskar's Puranpoli Ghar,Malad Kan West,"['Maharashtrian', ' Gujarati', ' Mangalorean']",4.4,38.0, ,0
+419,424,Chaap Theka,Borivali,"['Biryani', ' Jain', ' Tandoor', ' North Indian']",4.3,38.0, 10% OFF ABOVE ₹700,700
+420,425,Biryani Barbeque Chinese (BBC),Borivali West,"['Biryani', ' Chinese', ' North Indian', ' Punjabi', ' Kebabs', ' Afghani']",4.4,30.0, ,0
+421,426,Damru Paan Shop,Borivali West,['Paan'],4.7,25.0, ,0
+422,427,Nandu Dosa Dinner,Borivali,['South Indian'],4.3,34.0, ,0
+423,428,Nagpal Choley Bhature,Kandivali West,"['North Indian', ' Tandoor', ' Beverages', ' Desserts']",4.2,35.0, 10% OFF ABOVE ₹600,600
+424,429,The Juice Junction,Mahavir Nagar Kandivali West,"['Juices', ' Beverages']",4.4,28.0, ₹200 OFF ABOVE ₹999,999
+425,430,Nat Khat Pav Bhaji And Snacks Corner,Malad Kan East,"['North Indian', ' Fast Food', ' Snacks']",3.4,51.0, 60% OFF UPTO ₹120,120
+426,431,Mystic Lebanese,Malad Kan East,"['Arabian', ' Mediterranean', ' Lebanese', ' Turkish']",4.2,45.0, ₹125 OFF ABOVE ₹249,249
+427,432,Amritsari Kulcha Junction (Pure Veg),Borivali,"['North Indian', ' Chaat', ' Punjabi', ' Beverages']",4.1,46.0, ₹100 OFF ABOVE ₹749,749
+428,433,South Tiffin House Exclusive,Kandivali West,"['South Indian', ' Street Food', ' Beverages', ' Snacks']",4.2,42.0, ₹175 OFF ABOVE ₹449,449
+429,434,Lata Restaurant,Kandivali West,"['Indian', ' Chinese', ' Mughlai', ' Biryani', ' North Indian']",4.4,40.0, 15% OFF UPTO ₹80,80
+430,435,Sandeep Pure Veg,Railway Station,"['South Indian', ' North Indian', ' Chinese', ' Street Food']",4.5,42.0, ,0
+431,436,Sannidhi Family Restaurant (Kandivali Station),Kandivali West,"['Mughlai', ' North Indian', ' Chinese', ' South Indian', ' Indian', ' Salads', ' Desserts', ' Snacks', ' Beverages']",4.5,47.0, ₹100 OFF ABOVE ₹749,749
+432,437,Pangat (Dahisar East),Dahisar,"['Konkan', ' Chinese', ' Tandoor', ' Indian']",4.4,44.0, ,0
+433,438,Akkad Bakkad Bombay Boom (Mahavir Nagar),Kandivali West,"['Snacks', ' Italian']",4.2,44.0, ₹100 OFF ABOVE ₹999,999
+434,439,Ganesh Snack & Juice Corner,Malad Kan East,"['Fast Food', ' Chaat']",4.3,33.0, 30% OFF UPTO ₹75,75
+435,440,Sonu's Chinese Corner,Borivali East,"['Chinese', ' North Indian']",4.2,35.0, ,0
+436,441,Radha Restaurant,Borivali West,"['South Indian', ' Chinese', ' Snacks', ' Indian', ' Beverages', ' Pizzas']",4.5,35.0, ,0
+437,442,Sanjay Icecreams,Malad Kan East,"['Ice Cream', ' Desserts']",4.5,24.0, ,0
+438,443,Raisins Chocolatier And Patisserie,Borivali,['Desserts'],3.3,27.0, 15% OFF UPTO ₹100,100
+439,444,Fisco Restobar,Kandivali West,"['Indian', ' Chinese', ' Italian', ' Mexican']",4.5,37.0, ₹175 OFF ABOVE ₹449,449
+440,445,Pizza Story,Kandivali East,"['Pizzas', ' Burgers', ' Desserts', ' Chinese', ' Pastas', ' Italian']",4.6,33.0, 50% OFF UPTO ₹100,100
+441,446,Taste Of Kolkata,Kandivali East,"['Indian', ' Chinese', ' Bengali']",4.2,31.0, 10% OFF UPTO ₹40,40
+442,447,Sizzling Spices,Kandivali East,"['Chinese', ' Thai', ' Asian', ' Indonesian', ' Seafood', ' Beverages']",4.4,27.0, 20% OFF UPTO ₹50,50
+443,448,Times Of Paratha,Kandivali East,"['Indian', ' Snacks']",,40.0, 50% OFF UPTO ₹100,100
+444,449,Malvani Swaad (Sushama's Kitchen),Kandivali East,"['Malwani', ' Seafood', ' Indian', ' North Indian', ' Biryani', ' Salads', ' Beverages', ' Thalis']",4.0,37.0, ₹125 OFF ABOVE ₹249,249
+445,450,2 Delicious Poha House,Malad Kan East,"['Indian', ' Snacks']",4.0,16.0, 10% OFF UPTO ₹40,40
+446,451,New Kulfi Center,Malad Kan West,['Ice Cream'],4.6,26.0, ,0
+447,452,Swastik Fast Food (Franky),Borivali,['Fast Food'],4.2,33.0, ,0
+448,453,A Taste Of India,Kandivali East,"['Indian', ' Chinese', ' Mughlai', ' North Indian']",4.4,40.0, 40% OFF UPTO ₹80,80
+449,454,Crave Junction,Kandivali West,"['Italian', ' Chinese', ' Pizzas', ' Beverages']",4.0,34.0, ,0
+450,455,Uk14,Kandivali West,"['Beverages', ' Ice Cream']",4.5,26.0, ,0
+451,456,Jain Sweets,Dattani Centre,"['Street Food', ' Maharashtrian']",4.3,36.0, 15% OFF UPTO ₹80,80
+452,457,UFO Fries & Corn,Kandivali West,['North Indian'],4.1,34.0, ₹100 OFF ABOVE ₹999,999
+453,458,Wtc Pasta,Borivali,"['Italian', ' Snacks', ' Grill', ' Beverages', ' Pizzas', ' Pastas']",3.9,40.0, ,0
+454,459,UBQ BY Barbeque Nation,Kandivali East,"['North Indian', ' Barbecue', ' Biryani', ' Kebabs', ' Mughlai', ' Desserts']",4.0,40.0, 40% OFF UPTO ₹80,80
+455,460,Food Costa,"Kandivali (East), Thakur Village","['Fast Food', ' Pizzas', ' Biryani', ' Mexican', ' Snacks', ' Beverages', ' Burgers']",3.9,23.0, 20% OFF UPTO ₹50,50
+456,461,Five Star,Malad Kan East,"['Fast Food', ' Burgers', ' Snacks']",4.5,23.0, ,0
+457,462,Arihant Dugdhalay,Borivali,"['Desserts', ' Sweets']",4.4,25.0, ,0
+458,463,Al Arabian Shawarma,Kandivali East,"['Arabian', ' Lebanese', ' Kebabs', ' Salads', ' Beverages', ' Middle Eastern']",2.7,25.0, ,0
+459,464,Bombay Sultaani Biryani House,Malad Kan East,"['Indian', ' Biryani']",4.0,31.0, 60% OFF UPTO ₹120,120
+460,465,East Asia - Indian | Asian | Continental,Borivali West,"['Chinese', ' Italian', ' Thai', ' Asian', ' Indian', ' Tandoor', ' Continental', ' Sushi', ' Pizzas', ' Salads']",4.2,42.0, ,0
+461,466,Joey's Pizzeria-Kandivali (E),Kandivali East,"['Pizzas', ' Chinese', ' Desserts', ' Burgers', ' Pastas', ' Italian']",3.7,44.0, 50% OFF UPTO ₹100,100
+462,467,The Chocolate Heaven,Borivali West,"['Desserts', ' Italian', ' Snacks']",4.1,34.0, ₹175 OFF ABOVE ₹449,449
+463,468,Pavbhaji Bistro,Kandivali East,"['Indian', ' Fast Food']",4.3,29.0, ,0
+464,469,New Wanton Point,Kandivali East,"['Indian', ' Chinese']",4.4,24.0, 40% OFF UPTO ₹80,80
+465,470,Delicacy Of Mewar,Malad Kan East,['Snacks'],3.8,41.0, 10% OFF ABOVE ₹1000,1000
+466,471,Ek Bihari - The Bihar Diaries,"Kandivali East, Thakur Village","['Indian', ' Seafood']",3.7,35.0, 50% OFF UPTO ₹100,100
+467,472,Yamu's Panchayat,Malad Kan East,['Paan'],4.9,16.0, ,0
+468,473,Vividh NX,Kandivali East,"['Chinese', ' Oriental', ' Indian']",4.4,35.0, 10% OFF UPTO ₹40,40
+469,474,Kumar's Cafe,Borivali,"['Beverages', ' South Indian']",3.2,26.0, ,0
+470,475,Makhani Darbar,Thakur Village,"['North Indian', ' Kebabs', ' Mughlai', ' Beverages', ' Desserts']",,23.0, 50% OFF UPTO ₹100,100
+471,476,Baskin Robbins Happyness Shakes,Kandivali East,"['Beverages', ' Desserts']",3.8,27.0, 30% OFF UPTO ₹75,75
+472,477,Pizza Town,Malad Kan East,"['Pizzas', ' Beverages', ' Italian']",3.9,27.0, 30% OFF UPTO ₹75,75
+473,478,Jugheads,Kandivali East,"['Continental', ' Chinese', ' North Indian', ' American']",4.2,30.0, 10% OFF UPTO ₹40,40
+474,479,Mahakali Fast Food & Juice Centre,Borivali West,"['Indian', ' South Indian', ' Beverages', ' Awadhi']",4.4,33.0, 10% OFF ABOVE ₹600,600
+475,480,Aakash,Kandivali West,"['Desserts', ' Snacks']",3.9,29.0, ,0
+476,481,Gupta Bhelpuri House,Kandivali West,"['Snacks', ' Chaat']",4.2,41.0, ,0
+477,482,Gaonthan The Family Restaurant,Malad Kan East,"['North Indian', ' Chinese', ' Biryani']",4.3,36.0, 15% OFF UPTO ₹45,45
+478,483,The Avenue,Malad Kan East,"['North Indian', ' Chinese', ' Tandoor', ' Indian', ' Seafood']",4.5,33.0, ,0
+479,484,Souffle Cake Shop,Borivali West,['Bakery'],3.8,25.0, 10% OFF ABOVE ₹700,700
+480,485,Spring Fields,Borivali,"['North Indian', ' Chinese', ' Italian']",4.5,40.0, 30% OFF UPTO ₹75,75
+481,486,Sheetal Dugdhalay,Malad Kan East,['Sweets'],4.7,33.0, ,0
+482,487,WA! Wok (Delicious Chinese),Dahisar,"['Chinese', ' Oriental', ' Asian', ' Burmese', ' Thai']",4.3,39.0, ,0
+483,488,One Minute chai Nashta,Borivali,"['Bengali', ' Snacks', ' Street Food']",4.5,27.0, ,0
+484,489,Kuku's,Borivali West,['Chinese'],4.2,33.0, ₹100 OFF ABOVE ₹999,999
+485,490,RTC - Rolls And Fried Chicken,Dahisar West,"['Snacks', ' Fast Food', ' North Indian', ' Street Food']",4.2,38.0, ₹175 OFF ABOVE ₹449,449
+486,491,Biryani Barbeque Chinese (BBC-Babhai Naka),Borivali West,"['Biryani', ' Chinese', ' North Indian', ' Punjabi', ' Kebabs', ' Afghani']",4.5,35.0, ,0
+487,492,Gokul Anand,Borivali,"['North Indian', ' Chinese', ' Beverages', ' South Indian']",4.5,33.0, ,0
+488,493,Tuba Restaurant,Malad Kan East,"['Chinese', ' North Indian', ' Biryani', ' Indian', ' Sweets', ' Salads', ' Snacks']",4.1,39.0, ₹150 OFF ABOVE ₹499,499
+489,494,The Veg Treat Express,Borivali West,"['North Indian', ' Indian', ' Chinese', ' Italian', ' Mexican', ' Desserts']",4.5,36.0, 10% OFF ABOVE ₹1000,1000
+490,495,Pushti Tushti,Borivali West,['Indian'],4.4,38.0, ₹175 OFF ABOVE ₹449,449
+491,496,MM Mithaiwala.,Malad Kan East,"['Sweets', ' Snacks', ' Bengali']",4.3,39.0, ₹175 OFF ABOVE ₹449,449
+492,497,Anhad Misal,Borivali,"['Snacks', ' North Indian']",4.1,38.0, ₹100 OFF ABOVE ₹499,499
+493,498,Classic Pure Veg,Dahisar East,"['North Indian', ' Chinese']",4.4,38.0, 10% OFF ABOVE ₹1500,1500
+494,499,SNS Mexican Shack,Malad Kan West,"['Mexican', ' Salads', ' Burgers', ' Tex-Mex', ' Beverages', ' Fast Food']",4.4,59.0, ₹100 OFF ABOVE ₹999,999
+495,500,Stacks And Racks,Malad Kan West,['American'],4.6,56.0, ,0
+496,501,Marathi Mejwani,Dahisar,"['Indian', ' South Indian', ' Seafood']",4.3,43.0, ,0
+497,502,Gupta Bhelpuri And Sandwich Corner,Borivali West,['Fast Food'],4.2,41.0, ,0
+498,503,Sanata Snacks,Dahisar West,"['Maharashtrian', ' Snacks', ' Beverages']",4.3,46.0, ,0
+499,504,Mm Mithaiwala Fast Food,Malad Kan West,"['Fast Food', ' South Indian', ' Indian', ' Snacks', ' Beverages']",4.4,44.0, 15% OFF ABOVE ₹800,800
+500,505,Hotel Gopal Krishna,Malad Kan West,['South Indian'],4.5,46.0, ₹100 OFF ABOVE ₹999,999
+501,506,Satkar Rice Plate House,Goregaon East,"['Maharashtrian', ' Malwani', ' Seafood', ' Biryani']",4.6,53.0, 10% OFF ABOVE ₹1500,1500
+502,507,Cafe Shalimar,Malad,"['North Indian', ' Biryani', ' Desserts', ' Beverages']",3.9,44.0, ₹100 OFF ABOVE ₹599,599
+503,508,Arabian Shawarma Cafe,Borivali,"['Arabian', ' Lebanese', ' Snacks']",4.2,43.0, ₹250 OFF ABOVE ₹999,999
+504,509,China Hunt,Malad East,"['Chinese', ' North Indian', ' Tandoor']",4.2,48.0, 20% OFF UPTO ₹100,100
+505,510,Hotel Sai Palace Grand,Malad West,"['North Indian', ' Chinese', ' Biryani', ' Desserts', ' Continental', ' Mangalorean', ' Seafood', ' Italian', ' Fast Food']",4.5,58.0, ,0
+506,511,Khaas Paratha,Dahisar West,['North Indian'],4.4,45.0, ,0
+507,512,Nischita Nxt,Borivali West,"['Biryani', ' Chinese', ' North Indian', ' Seafood']",4.4,51.0, ₹100 OFF ABOVE ₹999,999
+508,513,Foodgerk - The Diet Parlour,Malad West,"['Continental', ' Salads']",4.3,52.0, ₹150 OFF ABOVE ₹499,499
+509,514,Jay Prakash Bar & Restaurant,Goregaon,"['Indian', ' Chinese']",4.2,55.0, ₹175 OFF ABOVE ₹449,449
+510,515,YUI,Borivali West,"['Asian', ' Japanese']",4.4,50.0, ₹175 OFF ABOVE ₹999,999
+511,516,Sai Veg World Xpress,Malad Kan West,"['South Indian', ' North Indian']",4.0,51.0, ₹175 OFF ABOVE ₹449,449
+512,517,Dessert Therapy,Kandivali West,"['Cakes and Pastries', ' Desserts', ' Beverages', ' Bakery']",4.6,46.0, ,0
+513,518,Sammy Sosa,Malad West,"['Mexican', ' Asian']",4.4,57.0, ₹175 OFF ABOVE ₹899,899
+514,519,Suka Sukhi,Jog Gor East,"['Maharashtrian', ' Malwani']",4.4,50.0, ,0
+515,520,Queen Margherita's Pizzeria,Malad Kan West,"['Pizzas', ' Italian-American']",4.3,61.0, ,0
+516,521,Curry and Combo Twist (Pure Veg),Mum_Jog Gor East,['Indian'],4.3,44.0, ,0
+517,522,The Red Turtle - Pan Asian Bistro,Malad West,"['Pan-Asian', ' Chinese', ' Thai', ' Japanese', ' Singaporean']",4.4,57.0, ,0
+518,523,The Veg Treat Royal,Borivali,"['North Indian', ' Indian', ' Chinese', ' Continental', ' South Indian']",4.5,42.0, ,0
+519,524,Mangoes,Malad Kan West,"['Mangalorean', ' Goan']",4.4,61.0, ,0
+520,525,Rangrezz Desi Restobar,Borivali West,['North Indian'],4.4,43.0, ,0
+521,526,Bansi Vadapav,Malad West,['Fast Food'],4.2,41.0, ,0
+522,527,Mumbaikar S Food House,Malad Kan West,"['Indian', ' Thalis']",4.3,61.0, ,0
+523,528,Vivek Chinese corner,Borivali West,['Chinese'],4.4,44.0, 10% OFF ABOVE ₹1300,1300
+524,529,Pranayam (Pure Veg),Borivali,"['North Indian', ' South Indian', ' Snacks']",4.0,47.0, ₹125 OFF ABOVE ₹249,249
+525,530,Grab Some Momos Here,Borivali,"['Tibetan', ' Chinese']",4.5,42.0, ,0
+526,531,Peco Peco,Malad West,"['Chinese', ' Asian', ' Thai']",4.4,48.0, ,0
+527,532,Meetha By Radisson,Goregaon West,['Desserts'],4.6,54.0, 10% OFF UPTO ₹40,40
+528,533,Rasodu - The Ethnic Kitchen,Malad Kan West,"['Indian', ' Thalis', ' Beverages']",4.3,44.0, ,0
+529,534,Kake Da Hotel (Since 1931),Jogeshwari West,"['North Indian', ' Tandoor', ' Punjabi']",4.2,53.0, 15% OFF ABOVE ₹800,800
+530,535,# Thali,Borivali,"['North Indian', ' Chinese']",4.5,52.0, ₹175 OFF ABOVE ₹449,449
+531,536,Sernyaa,Ashok Enclave,"['Tibetan', ' Chinese']",4.5,56.0, 10% OFF ABOVE ₹900,900
+532,537,Udipi Vihar (pure veg) restaurant,Jog Gor East,"['Chinese', ' North Indian', ' South Indian', ' Tandoor', ' Biryani', ' Desserts']",4.4,50.0, ,0
+533,538,Shubh Sagar Restaurant,Mira Road,"['Chinese', ' North Indian', ' South Indian']",4.4,52.0, ,0
+534,539,Ruchi Veg Restaurant,Goregaon,"['South Indian', ' North Indian', ' Chinese', ' Tandoor', ' Biryani', ' Juices', ' Beverages', ' Mughlai', ' Home Food', ' Healthy Food', ' Italian', ' Mexican']",4.1,46.0, 10% OFF ABOVE ₹900,900
+535,540,Jango's,Malad West,"['Chinese', ' North Indian', ' Biryani', ' Kebabs']",4.2,55.0, ₹100 OFF ABOVE ₹749,749
+536,541,Konkan Chilly,Chincholi Bunder,"['Konkan', ' North Indian', ' Chinese', ' Tandoor', ' Malwani']",4.3,56.0, 10% OFF ABOVE ₹1000,1000
+537,542,Flavours Of China (Evershine Nagar),Malad Borivali Area,['Chinese'],4.2,51.0, ₹100 OFF ABOVE ₹999,999
+538,543,Landmark Kitchens,Goregaon,"['Indian', ' Snacks', ' Pizzas', ' Chinese']",4.4,56.0, ,0
+539,544,"Desi Shack- Acha Khao, Acha Khilao- By om snacks",Jog Gor East,"['Indian', ' Fast Food', ' Snacks', ' Italian', ' Chinese', ' Beverages']",4.1,43.0, ,0
+540,545,Malgudi - Veg & Non-Veg Family Restaurant,Borivali West,"['North Indian', ' Chinese', ' South Indian', ' Malwani']",4.1,48.0, ₹175 OFF ABOVE ₹449,449
+541,546,Shiv Sagar Malad,Malad West,"['Indian', ' Chinese']",4.2,48.0, 10% OFF ABOVE ₹1200,1200
+542,547,Lalit Bakery,Borivali,"['Bakery', ' Desserts', ' Italian']",4.3,51.0, ,0
+543,548,Namaskar The Family Restaurant,Borivali East,"['North Indian', ' Chinese', ' Maharashtrian', ' Biryani']",4.4,49.0, ,0
+544,549,Green Tadka,Goregaon West,['Indian'],4.4,51.0, ,0
+545,550,Stir Fry Grill,Malad West,"['Chinese', ' Continental', ' Indian', ' Thai', ' Healthy Food', ' Pan-Asian']",4.3,48.0, ₹175 OFF ABOVE ₹449,449
+546,551,Deepak Only Veg,Mumbai,"['South Indian', ' Chinese', ' Indian']",4.4,49.0, 10% OFF ABOVE ₹600,600
+547,552,Gulistan Family Restaurant,Malad West,['Chinese'],4.1,43.0, 10% OFF ABOVE ₹1300,1300
+548,553,Keto Treats,Evershine nagar,"['Keto', ' Bakery', ' Ice Cream', ' Desserts']",4.4,52.0, 10% OFF ABOVE ₹900,900
+549,554,Hotel Apala samadhan,Borivali West,"['Malwani', ' Indian', ' Chinese']",4.4,49.0, ,0
+550,555,Ravindra Restaurant,Dahisar East,"['North Indian', ' South Indian', ' Chinese', ' Pizzas']",4.5,43.0, ,0
+551,556,Apricot foods,Borivali West,"['Sweets', ' Fast Food', ' Chaat', ' Snacks', ' Desserts', ' Gujarati', ' Maharashtrian']",4.5,43.0, ₹100 OFF ABOVE ₹999,999
+552,557,Sattvik Tiffin Co,Jog Gor East,"['North Indian', ' Chinese']",4.4,44.0, ,0
+553,558,Govindas Veg Treat,Malad West,"['North Indian', ' Chinese', ' Beverages', ' South American']",4.3,45.0, 10% OFF ABOVE ₹700,700
+554,559,The Delhi Spice,Jog Gor East,"['Biryani', ' Chinese', ' North Indian']",4.2,46.0, ,0
+555,560,Hotel National,Kandivali West,"['North Indian', ' Chinese']",3.9,43.0, ₹100 OFF ABOVE ₹999,999
+556,561,The Burrow Cafe,Malad West,"['Pastas', ' Continental']",4.4,53.0, 10% OFF ABOVE ₹900,900
+557,562,Saundha,Malad Kan West,"['North Indian', ' Biryani', ' Kebabs', ' Chaat', ' Beverages']",4.1,57.0, ,0
+558,563,Raju Pav Bhaji,Mumbai,['Chinese'],4.0,40.0, ₹100 OFF ABOVE ₹749,749
+559,564,Cha - Ya its cup of tea,Borivali,"['Beverages', ' Snacks']",4.5,40.0, 20% OFF ABOVE ₹500,500
+560,565,Coffee By Di Bella Exclusive,Malad West,"['Desserts', ' Beverages', ' Fast Food', ' Waffle', ' Snacks', ' Bakery']",4.4,50.0, 10% OFF ABOVE ₹800,800
+561,566,Jagtap Missal,Borivali,"['Snacks', ' Indian']",3.8,34.0, ,0
+562,567,Nafees Biryani,Malad East,['Mughlai'],4.2,38.0, 30% OFF UPTO ₹150,150
+563,568,R K Ladoowala,Dahisar,"['Indian', ' Sweets', ' Desserts']",3.8,36.0, 10% OFF UPTO ₹100,100
+564,569,Biryani-Holic,Malad East,"['Biryani', ' Indian']",4.0,38.0, 30% OFF UPTO ₹150,150
+565,570,The Green Kitchen,Borivali,"['Fast Food', ' Indian', ' Chinese', ' Continental', ' Tandoor', ' Pizzas', ' South Indian', ' Mexican']",4.3,39.0, ,0
+566,571,"Bindaas Binge ( Cakes, Pastries & More )",Malad East,"['Bakery', ' Desserts', ' Sweets']",4.4,38.0, ,0
+567,572,Anytime Misal,Borivali,"['Street Food', ' Beverages', ' Desserts']",4.1,37.0, ,0
+568,573,Andawala,Borivali West,"['Fast Food', ' Street Food']",4.2,33.0, ,0
+569,574,Chatako The Gujju's,Dahisar East,['Gujarati'],4.4,38.0, ,0
+570,575,Aditi Fast Food,Malad Kan West,"['Street Food', ' Indian', ' Chinese', ' Beverages']",4.0,63.0, ,0
+571,576,Hotel ShreeDevi,Malad West,"['Indian', ' Chinese', ' Punjabi']",4.5,41.0, ,0
+572,577,Thepla Junction,Kandivali West,['Snacks'],,45.0, ,0
+573,578,The Daily Deli,Malad West,"['Continental', ' American', ' Pizzas', ' Pastas', ' Beverages', ' Desserts']",4.3,60.0, ₹100 OFF ABOVE ₹749,749
+574,579,Cherry's Kitchen,Malad West,"['Indian', ' Kerala']",3.9,56.0, ,0
+575,580,Annapurna Healthy Kitchen,Kandivali West,"['Gujarati', ' Thalis']",4.5,66.0, ,0
+576,581,Divya Chinese corner,Dahisar East,"['Chinese', ' Indian']",4.3,40.0, 20% OFF ABOVE ₹700,700
+577,582,Medha malvan,Goregaon,['Malwani'],4.2,59.0, 15% OFF ABOVE ₹800,800
+578,583,Vedant Snacks Corner,Dahisar West,"['South Indian', ' Beverages', ' North Indian', ' Juices']",4.1,54.0, ₹125 OFF ABOVE ₹999,999
+579,584,Noor Biryani Center,Borivali West,"['Biryani', ' Mughlai', ' North Indian', ' Indian', ' Tandoor', ' Punjabi', ' Snacks', ' Desserts']",3.7,44.0, 30% OFF UPTO ₹150,150
+580,585,Dada's Chinese Kitchen,Malad Kan East,['Chinese'],4.2,49.0, 25% OFF UPTO ₹125,125
+581,586,Sun Moon & Potatoes,Malad West,"['Continental', ' Chinese', ' Salads', ' Asian']",4.2,58.0, ₹175 OFF ABOVE ₹449,449
+582,587,Arabian Shawarma by Rudy's,Borivali West,"['Lebanese', ' Arabian', ' Salads']",4.2,41.0, ₹100 OFF ABOVE ₹999,999
+583,588,Fakth Chicken,Malad West,"['Indian', ' Snacks']",4.4,55.0, 10% OFF ABOVE ₹800,800
+584,589,Jalaram Kathiyawadi Thali,Borivali,['Gujarati'],4.3,45.0, ,0
+585,590,Samant Bandhu Nx,Goregaon West,"['Desserts', ' Snacks', ' Sweets', ' Beverages']",4.4,43.0, ,0
+586,591,Silver Oaks,Malad West,"['North Indian', ' Mughlai', ' Chinese', ' Continental']",4.4,54.0, ,0
+587,592,Jai Bholenath Kathiyawadi,Dahisar East,"['Thalis', ' Gujarati', ' Jain']",4.1,49.0, ,0
+588,593,Cafe meter on,Borivali West,"['Italian', ' Indian', ' Chinese', ' Continental']",4.4,51.0, ₹100 OFF ABOVE ₹999,999
+589,594,Choclato,Dahisar West,"['Desserts', ' Bakery']",4.0,41.0, ,0
+590,595,Cafe Lajawab,Malad Kan West,"['Arabian', ' Snacks']",4.0,53.0, 40% OFF UPTO ₹200,200
+591,596,Mary Fast Food,Malad Kan West,"['Chinese', ' Fast Food']",4.4,47.0, ,0
+592,597,Satyanarayan Lunch Home,Jog Gor East,"['Chinese', ' Indian']",4.3,46.0, ,0
+593,598,Uttar Da Puttar,Goregaon,"['North Indian', ' Indian', ' Punjabi', ' Biryani']",4.1,53.0, 15% OFF ABOVE ₹800,800
+594,599,Alfredo's,Malad Kan West,"['Italian', ' European']",4.1,55.0, 10% OFF ABOVE ₹1000,1000
+595,600,Al-Falah Shawarma,Borivali West,['Lebanese'],4.4,51.0, ,0
+596,601,Mothers Touch Rajasthani,Malad West,"['Indian', ' Snacks']",4.1,81.0, ₹250 OFF ABOVE ₹999,999
+597,602,Cravings all day,Goregaon West	,"['Bakery', ' Desserts']",4.7,44.0, ₹125 OFF ABOVE ₹349,349
+598,603,Big Fat Monk,Malad West,"['Chinese', ' Asian', ' Fast Food', ' Desserts', ' Beverages']",4.1,53.0, ₹175 OFF ABOVE ₹449,449
+599,604,44 The Food Hub,Malad Kan West,"['Chinese', ' South Indian']",4.4,54.0, 10% OFF ABOVE ₹700,700
+600,605,Radha Krishna Fast Food - Mahavir Nagar,Kandivali West,"['Indian', ' Chinese']",4.1,40.0, ,0
+601,606,Aniket Chinese Corner,Malad Kan West,"['Chinese', ' North Indian', ' Biryani']",3.5,28.0, ,0
+602,607,Jungle Juice,Borivali,"['Beverages', ' Juices']",4.5,29.0, ,0
+603,608,Indore.Online,Malad Kan East,"['Sweets', ' Street Food']",4.3,14.0, ,0
+604,609,Rolls Mania,Malad East,['Fast Food'],4.3,46.0, ,0
+605,610,Vinayak Ankit Sandwich,Kandivali West,"['Snacks', ' Continental']",4.4,51.0, 15% OFF ABOVE ₹500,500
+606,611,Hari Om Khaman House,Borivali,"['Gujarati', ' Snacks', ' Sweets']",4.4,32.0, ,0
+607,612,Fusion Ice Cream Cakes,Borivali West,"['Ice Cream', ' Desserts', ' Bakery', ' Beverages']",4.5,30.0, ₹100 OFF ABOVE ₹999,999
+608,613,Hotel Milan Pure Veg,Malad East,['Indian'],4.2,35.0, ₹175 OFF ABOVE ₹449,449
+609,614,TIBO Dalwada,Kandivali West,"['Street Food', ' Desserts']",4.6,34.0, ,0
+610,615,Brain Freeze Ice cream & Desserts,Borivali,"['Ice Cream', ' Desserts']",3.8,33.0, ,0
+611,616,Farmhouse-Palladium,Borivali West,"['Indian', ' Tandoor', ' Chinese', ' Continental', ' Biryani', ' Seafood', ' Pizzas', ' Pastas']",4.3,53.0, ,0
+612,617,Amantran Restaurant,Dahisar,['Meat'],4.2,47.0, ,0
+613,618,Monopoly-The Chinese Edition,Borivali West,"['Chinese', ' Oriental', ' Continental']",3.9,44.0, ,0
+614,619,Dinshaw's Xpress Cafe And Restro,Borivali West,"['Indian', ' Continental', ' Mexican', ' Pizzas', ' Pastas', ' Burgers', ' Snacks', ' Fast Food', ' Beverages', ' Juices', ' Ice Cream', ' Desserts']",4.5,48.0, ,0
+615,620,The Nature Bar,Jog Gor East,"['Salads', ' Keto', ' Burgers', ' Beverages', ' Mediterranean', ' American', ' Healthy Food', ' Grill', ' Greek']",4.4,51.0, ₹100 OFF ABOVE ₹999,999
+616,621,Aakash Sweets and Snacks,Borivali West,"['Sweets', ' Snacks']",4.4,30.0, ,0
+617,622,Nagpal's Choley Bhature,Malad Kan East,['North Indian'],4.1,36.0, ,0
+618,623,Mumbadevi Jalebi Wala,Borivali,"['Snacks', ' Sweets']",4.6,36.0, ₹50 OFF ABOVE ₹999,999
+619,624,Chhotu's Kitchen,Borivali West,['Chinese'],4.2,33.0, ,0
+620,625,Desai Bhaishankar Gaurishanar (K.P.),Malad Kan East,['Sweets'],4.8,34.0, 10% OFF ABOVE ₹700,700
+621,626,Shree Makhan Bhog,Malad,"['Chaat', ' Snacks', ' Sweets']",4.1,38.0, ,0
+622,627,Shawarma Heaven,Malad West,"['Lebanese', ' Chinese', ' Indian', ' Continental', ' Tandoor']",4.3,38.0, 15% OFF ABOVE ₹900,900
+623,628,Sattva,Borivali West,"['North Indian', ' Chinese']",4.4,35.0, ₹100 OFF ABOVE ₹999,999
+624,629,Seeta Nx,Borivali West,['Chinese'],4.3,39.0, ,0
+625,630,Night Evil Chinese Food,Borivali West,['Chinese'],4.1,38.0, ,0
+626,631,Bhoomi Kolhapuri,Raja Dalvi Marg,['Street Food'],4.0,30.0, ,0
+627,632,Hotel Payal,Dahisar,"['Indian', ' Chinese']",4.3,38.0, ,0
+628,633,Fling Confectionery,Borivali,"['Bakery', ' Desserts']",4.4,31.0, ,0
+629,634,Pipasa,Borivali,"['Beverages', ' Snacks']",4.4,30.0, ,0
+630,635,Dessert Junction,Borivali West,"['Desserts', ' Fast Food']",4.3,36.0, ,0
+631,636,Bina's Fresh Batch Homemade Ice Cream,Malad Kan West,"['Desserts', ' Ice Cream']",4.2,49.0, ₹175 OFF ABOVE ₹1099,1099
+632,637,Samvene - The Bagel Cafe,Malad West,"['American', ' Burgers', ' Italian', ' Continental', ' Pizzas', ' Pastas', ' Beverages', ' Snacks']",4.5,55.0, 15% OFF ABOVE ₹900,900
+633,638,Wokstreet,Malad Kan West,"['Chinese', ' Fast Food']",3.5,59.0, ₹250 OFF ABOVE ₹999,999
+634,639,Moments,Malad Kan West,"['Bakery', ' Desserts']",4.5,51.0, ,0
+635,640,Hotel Malvan Katta,"VIthbhati, Goregoan (East) 3)",['Biryani'],4.2,44.0, ,0
+636,641,Sindhi Tadka,Kandivali West,"['Sindhi', ' North Indian', ' Indian']",3.6,42.0, ,0
+637,642,Kokan Katta,Chincholi Bunder Road,"['Seafood', ' Chinese', ' Indian', ' North Indian', ' Beverages', ' Biryani']",4.2,57.0, ₹175 OFF ABOVE ₹449,449
+638,643,The Fusion Kitchen,Borivali West,"['Italian', ' Asian']",4.5,49.0, ,0
+639,644,Oriental Stir Fry,Borivali,"['Fast Food', ' Chinese', ' South Indian', ' Indian']",3.8,45.0, ,0
+640,645,Zesty Kitchen,Goregaon,"['Indian', ' Seafood', ' North Indian', ' Biryani', ' South Indian', ' Bengali', ' Malwani']",4.1,62.0, 15% OFF ABOVE ₹900,900
+641,646,Konkan Spice,Malad West,"['South Indian', ' Malwani']",4.0,52.0, ,0
+642,647,Chholay,Malad West,"['North Indian', ' Indian', ' Jain']",4.3,51.0, ₹175 OFF ABOVE ₹449,449
+643,648,British Brewing Company,Goregaon East,"['Italian', ' American', ' Indian', ' Asian']",4.3,53.0, ,0
+644,649,Zoodles,Malad West,"['Pan-Asian', ' Chinese', ' Seafood', ' Thai', ' Asian', ' Desserts']",4.6,59.0, ₹125 OFF ABOVE ₹249,249
+645,650,Shawarma House Express,Malad Kan West,"['Indian', ' Beverages', ' Turkish']",4.1,47.0, ,0
+646,651,Hotel Jyoti,Malad Kan East,['Indian'],4.1,43.0, ,0
+647,652,Ahare Bangla,Malad Kan East,['Bengali'],4.8,69.0, ,0
+648,653,Classic Veg Restaurant,Malad Kan East,['Chinese'],4.3,43.0, ,0
+649,654,The Boston Cafe & Patisserie,Malad West,"['Desserts', ' Bakery']",4.5,51.0, 20% OFF UPTO ₹50,50
+650,655,Makhan Maar ke,Borivali West,['North Indian'],4.1,43.0, ,0
+651,656,Amber Restaurant,trikamdas road ,"['Chinese', ' Indian', ' Tandoor']",4.1,44.0, ₹50 OFF ABOVE ₹499,499
+652,657,The Bombay Chaat Co by Spukies,Jog Gor East,"['Chaat', ' South Indian', ' Juices', ' Beverages']",4.3,47.0, 10% OFF ABOVE ₹800,800
+653,658,Only Roti's,Malad West,['Desserts'],4.5,68.0, 30% OFF UPTO ₹150,150
+654,659,Om Snacks,Goregaon,"['Pizzas', ' Pastas']",4.5,49.0, ,0
+655,660,Golden Leaf Restaurant,Kandivali West,"['Chinese', ' Street Food', ' South Indian']",4.4,50.0, ₹100 OFF ABOVE ₹749,749
+656,661,The Local Eatery,Malad West,"['Indian', ' Chinese']",4.3,50.0, ,0
+657,662,Nityanand Lunch Home And Hotel,Jog Gor East,"['Biryani', ' Tandoor', ' Chinese']",3.8,47.0, 10% OFF ABOVE ₹1000,1000
+658,663,Street Gourmet,Borivali West,"['South Indian', ' Indian', ' Chinese']",4.1,40.0, ,0
+659,664,Spirit Kitchen and Bar,Borivali West,"['Indian', ' Chinese']",4.4,54.0, ,0
+660,665,Hotel Shree Prabhu Niketan,Malad East,"['Indian', ' Chinese']",4.3,41.0, ,0
+661,666,Image Restaurant,Goregaon West,"['North Indian', ' Chinese', ' Kebabs', ' Biryani', ' Mangalorean', ' Desserts', ' Tandoor']",4.5,55.0, ,0
+662,667,J.B.Dynasty And Malwani Kalwan,Malad West,"['Chinese', ' Malwani', ' Indian', ' Oriental']",4.4,48.0, 10% OFF ABOVE ₹1500,1500
+663,668,The Mak Broasted Fastfood,Malad Kan East,"['Continental', ' Italian']",3.6,63.0, ₹175 OFF ABOVE ₹449,449
+664,669,The Veg Treat Celebrations,Dahisar,"['South Indian', ' Punjabi', ' Chinese', ' Italian', ' Mexican']",4.5,41.0, ,0
+665,670,Uncle's Corner,Borivali,"['Chinese', ' Tandoor', ' Seafood', ' Thai', ' Biryani', ' Indian']",4.4,61.0, ,0
+666,671,Enrich Kulfi,Malad West,"['Desserts', ' Ice Cream']",4.6,40.0, ₹100 OFF ABOVE ₹999,999
+667,672,Fort Kochi,Goregaon,"['South Indian', ' Kerala']",4.2,53.0, ,0
+668,673,Samarth Sagar (Pure Veg),Mumbai,"['Chinese', ' North Indian', ' South Indian', ' Chaat']",4.1,50.0, ,0
+669,674,Schumania,Borivali,"['Indian', ' Chinese']",4.3,52.0, ₹100 OFF ABOVE ₹999,999
+670,675,Rollzilla,Kandivali West,['North Indian'],4.2,43.0, ,0
+671,676,Healing Rice Bowls,Malad West,"['Indian', ' South Indian', ' Punjabi']",3.9,62.0, ,0
+672,677,The Big Squeeze,Malad West,"['Juices', ' Healthy Food', ' Beverages']",4.1,54.0, ₹40 OFF ABOVE ₹499,499
+673,678,"KBC - Kebaabs, Biryani, Curries",Goregaon East,"['Kebabs', ' Biryani', ' North Indian', ' Indian', ' Snacks']",4.2,53.0, ₹125 OFF ABOVE ₹249,249
+674,679,The Chai Fusion,Borivali,"['Chinese', ' Continental']",4.3,48.0, 10% OFF UPTO ₹100,100
+675,680,Ether Atelier Chocolate,Malad Kan West,"['Desserts', ' Bakery']",,48.0, 50% OFF UPTO ₹100,100
+676,681,Bombay Fast Food,Borivali,['Fast Food'],,43.0, ,0
+677,682,Cake Valley,Malad Kan West,"['Bakery', ' Desserts', ' Beverages']",4.0,50.0, 30% OFF UPTO ₹150,150
+678,683,Cake & Bake,Borivali West,['Bakery'],3.3,42.0, ,0
+679,684,The Lunchbox,Malad Kan East,"['Indian', ' Thalis']",,42.0, ,0
+680,685,Hotel Samadhan,Jog Gor East,"['Malwani', ' Maharashtrian', ' Indian']",4.3,59.0, ,0
+681,686,The Waffle Man From the House Of Cookieman,Malad Kan West,"['Waffle', ' Desserts', ' Ice Cream']",4.1,58.0, 40% OFF UPTO ₹80,80
+682,687,Sigree Global Grill,Malad West,"['North Indian', ' Mughlai', ' Kebabs', ' Mediterranean', ' Greek', ' Turkish', ' Lebanese']",4.3,64.0, ₹150 OFF ABOVE ₹1099,1099
+683,688,Only Parathas,Malad West,"['North Indian', ' Thalis', ' Chaat', ' Chinese', ' Snacks', ' Beverages']",3.8,60.0, ,0
+684,689,The King's Field,Malad Kan East,"['Indian', ' Chinese', ' Tandoor', ' Snacks']",4.4,31.0, ,0
+685,690,Nagrik Sweets And Farsan,Dahisar,['Indian'],4.5,35.0, ,0
+686,691,Rashmin Dairy Farm,Malad Kan East,['Indian'],4.1,32.0, ,0
+687,692,Bbc Express-By Borivali Biryani Centre,Borivali,"['Biryani', ' Chinese', ' North Indian', ' Punjabi', ' Kebabs', ' Afghani']",4.4,35.0, ,0
+688,693,Emrik The Cake Point,Malad Kan West,"['Bakery', ' Snacks', ' Desserts']",4.5,34.0, ₹175 OFF ABOVE ₹449,449
+689,694,Gayatri Sweets and Farsan,Borivali,"['North Indian', ' Fast Food', ' South Indian', ' Sweets']",4.4,35.0, ,0
+690,695,Riga Chinese Corner,Dahisar,"['Chinese', ' Indian']",4.2,37.0, ,0
+691,696,Magari,Kandivali West,"['Continental', ' Italian', ' Beverages']",4.2,34.0, ₹100 OFF ABOVE ₹999,999
+692,697,shaan hotel,Malad Kan East,"['North Indian', ' Indian']",3.8,37.0, 50% OFF ABOVE ₹1000,1000
+693,698,Brijwasi Sweets and Snacks,Kandivali West,['Sweets'],3.9,36.0, ₹100 OFF ABOVE ₹749,749
+694,699,Pav Bhaji Klub,Borivali,['Indian'],4.3,36.0, ₹150 OFF ABOVE ₹749,749
+695,700,Tasty Chinese Hotel,Malad Kan East,['Chinese'],4.5,36.0, 30% OFF UPTO ₹150,150
+696,701,Wow Bistro - Evershine Club,Kandivali East,['Indian'],4.8,46.0, ,0
+697,702,H & Charlie,Borivali West,"['Burgers', ' Steakhouse', ' Desserts', ' Beverages', ' Cafe', ' Fast Food', ' Pastas']",4.3,58.0, ₹175 OFF ABOVE ₹449,449
+698,703,Royal Manglore,Dahisar,['Meat'],4.0,51.0, ,0
+699,704,Healthy Deck,Kandivali West,"['Continental', ' Beverages', ' Keto', ' Ice Cream', ' Salads']",4.4,46.0, 15% OFF UPTO ₹100,100
+700,705,Delhi Darbar Biryani Hub,Malad Kan East,"['Biryani', ' North Indian']",4.1,44.0, ,0
+701,706,Burgizza,Malad West,"['Pizzas', ' Italian']",4.4,56.0, ₹100 OFF ABOVE ₹749,749
+702,707,Celebrations By Kilo,Jog Gor East,"['North Indian', ' Chinese']",3.9,52.0, ,0
+703,708,Houseboat Cafe,Malad Kan West,"['Kerala', ' South Indian']",3.9,56.0, ,0
+704,709,Veg Treat Regalia,Borivali West,"['North Indian', ' Indian', ' Chinese', ' Continental']",4.5,42.0, ,0
+705,710,Oh! It's Fishy,Dahisar East,"['Indian', ' Tandoor', ' Seafood', ' Chinese']",3.9,49.0, ,0
+706,711,Brijwasi Snack Foods,Malad Kan West,"['Snacks', ' Street Food', ' Chaat', ' Fast Food']",4.4,54.0, 20% OFF UPTO ₹120,120
+707,712,Daffodils 23,Kandivali West,"['Indian', ' Chinese', ' Beverages', ' Mexican', ' Continental']",4.4,44.0, ₹125 OFF ABOVE ₹599,599
+708,713,Sumeruu,Dahisar West,"['Chinese', ' Indian']",4.6,52.0, ,0
+709,714,Malvaniz,Malad Kan East,"['Malwani', ' Seafood']",4.1,57.0, ,0
+710,715,Jayesh Food Centre,Malad East,['Chinese'],4.1,44.0, ,0
+711,716,The Hangout Pizza Hub,Malad West,['Pizzas'],4.3,57.0, ₹100 OFF ABOVE ₹749,749
+712,717,Royale Masterchef Finedine,Dahisar West,"['Indian', ' Chinese', ' Continental', ' Mexican', ' Lebanese']",4.5,59.0, 10% OFF ABOVE ₹1500,1500
+713,718,Subramanian Snacks,Goregaon,"['South Indian', ' Chinese', ' Fast Food', ' Arabian', ' Tandoor']",3.8,44.0, ₹200 OFF ABOVE ₹999,999
+714,719,Goaikar's goan Cuisine,Borivali,"['North Indian', ' Seafood', ' Snacks']",4.1,41.0, ,0
+715,720,The Gratitude Kitchen,Borivali,"['Indian', ' Burgers', ' Snacks', ' Fast Food', ' Salads', ' Desserts']",4.3,51.0, ₹100 OFF ABOVE ₹999,999
+716,721,"KHA - Burgers, Fries, Fried Chicken",Malad Kan West,"['Burgers', ' American', ' Fast Food']",4.3,47.0, ,0
+717,722,Hotel Sampoorna Samadhan (By Hotel Apala Samadhan),Borivali,"['Malwani', ' Indian', ' North Indian', ' Chinese']",4.2,53.0, ,0
+718,723,Zyka E Lajawab,Malad Kan West,"['Chinese', ' Street Food', ' Indian', ' Kebabs', ' Tandoor']",3.9,65.0, 25% OFF UPTO ₹125,125
+719,724,Maldrin's Chinese Restaurant,Malad West,['Chinese'],4.2,53.0, ₹175 OFF ABOVE ₹449,449
+720,725,Mishmashbakery,Jog Gor East,['Bakery'],4.7,53.0, ₹100 OFF ABOVE ₹999,999
+721,726,Goan Katta,Dahisar,"['Goan', ' Seafood', ' Indian', ' Beverages']",4.3,44.0, ,0
+722,727,The Moveable Feast,Borivali West,"['North Indian', ' Chinese', ' Mughlai', ' Beverages', ' Biryani']",4.3,51.0, ₹250 OFF ABOVE ₹999,999
+723,728,Sisho - Oriental Pure Veg /Jain,Jog Gor East,['Chinese'],4.0,46.0, ,0
+724,729,Little West Pizza,Dahisar,"['Pizzas', ' Italian', ' Beverages']",4.3,50.0, ₹100 OFF ABOVE ₹749,749
+725,730,Flavours 21,Malad East,"['Chinese', ' Lebanese', ' Biryani', ' Thai']",4.0,42.0, 20% OFF ABOVE ₹700,700
+726,731,Top Star,Kandivali West,"['Indian', ' Chinese', ' Tandoor', ' Biryani']",3.7,49.0, ,0
+727,732,Fussion,Malad East,"['North Indian', ' Tandoor', ' Mughlai', ' Parsi', ' Indian', ' American', ' Desserts', ' Ice Cream']",3.7,43.0, ₹175 OFF ABOVE ₹449,449
+728,733,Crab Kolambi Pomfret & More,PIMPRIPADA,"['Maharashtrian', ' Seafood', ' Biryani', ' Desserts', ' Thalis']",4.3,54.0, ,0
+729,734,Amma's,Chincholi Cross Road,"['North Indian', ' Chinese', ' Tandoor', ' Beverages']",4.4,46.0, ,0
+730,735,Classic Comfort,Jog Gor East,"['Beverages', ' Indian', ' Chinese', ' South Indian', ' Fast Food']",4.2,49.0, ,0
+731,736,Papa'S Multi Cuisine,Malad Kan West,['Indian'],4.1,57.0, ,0
+732,737,Royal Challenge,Goregaon,"['Indian', ' Chinese']",4.6,52.0, ,0
+733,738,The Game Ranch,Malad Kan West,"['Pizzas', ' North Indian', ' Burgers', ' Asian', ' Chinese']",4.4,55.0, 60% OFF UPTO ₹120,120
+734,739,Bajrang Bhel Puri,Malad West,"['Snacks', ' Chaat']",4.3,43.0, ,0
+735,740,Sapna Veg Restaurant,Malad West,"['North Indian', ' South Indian']",4.2,48.0, ,0
+736,741,The Shawarma fellow,Malad West,['Arabian'],4.2,45.0, ₹250 OFF ABOVE ₹999,999
+737,742,Olive Bistro & Bar,Goregaon East,"['Indian', ' Italian']",4.1,55.0, ₹175 OFF ABOVE ₹799,799
+738,743,Waffle Town,Malad Kan West,"['Waffle', ' Desserts', ' Beverages']",,50.0, ,0
+739,744,Garden Court Restaurant,Malad West,"['Indian', ' Chinese']",4.3,60.0, ,0
+740,745,Adelkars Kitchen,Goregaon West,['Malwani'],4.4,47.0, ,0
+741,746,Hill View,Dahisar West,"['Indian', ' Chinese']",4.3,53.0, ,0
+742,747,70's Frogurt Hood,Malad West,"['Desserts', ' Ice Cream']",4.3,48.0, ₹175 OFF ABOVE ₹449,449
+743,748,SMP Express,Goregaon East,"['Chinese', ' Tandoor', ' Indian', ' Continental']",4.4,50.0, ₹175 OFF ABOVE ₹449,449
+744,749,Gupta Panipuri Center,Kandivali West,"['Chaat', ' Snacks']",4.0,42.0, ,0
+745,750,Malad Marathi Katta,Malad West,"['Maharashtrian', ' Biryani', ' Indian']",4.1,79.0, 40% OFF ABOVE ₹1000,1000
+746,751,Cream Lounge,Borivali West,"['Snacks', ' Desserts', ' Beverages', ' Ice Cream']",4.2,42.0, ,0
+747,752,Lassi & Falooda Co,Malad West,"['Ice Cream', ' Beverages', ' Juices', ' Indian', ' Snacks', ' Healthy Food']",3.9,56.0, ,0
+748,753,All About salads,Malad Kan West,"['Continental', ' Healthy Food', ' Salads']",3.9,48.0, ₹125 OFF ABOVE ₹599,599
+749,754,Gorai Kinara,Borivali West,"['Malwani', ' Chinese', ' North Indian', ' Beverages']",4.2,44.0, ,0
+750,755,High On Wok - Sassy N Saucy,Aarey Road,"['Asian', ' Chinese', ' Salads']",4.1,48.0, ,0
+751,756,Flag's,Malad West,"['North Indian', ' Chinese', ' Italian', ' Thai', ' Mexican']",4.2,47.0, 10% OFF ABOVE ₹1200,1200
+752,757,Namaskar,Borivali west,"['Indian', ' Chinese', ' Tandoor', ' Biryani']",4.6,52.0, 10% OFF ABOVE ₹500,500
+753,758,Neelams pride,Borivali West,"['Chinese', ' Indian', ' Snacks']",4.5,49.0, ,0
+754,759,Natural Fresh Ice Cream,Malad Kan East,"['Ice Cream', ' Beverages']",3.5,43.0, ,0
+755,760,Hotel Amantran,Malad Kan East,['Indian'],4.2,41.0, ,0
+756,761,Agent Jack's Bar,Borivali West,"['Tandoor', ' Chinese', ' Pizzas', ' Salads', ' Indian', ' North Indian', ' Healthy Food', ' Pastas', ' Jain']",4.2,52.0, ,0
+757,762,New Chopsticks,Kandivali East,['Chinese'],4.4,31.0, ,0
+758,763,Sagar Sweets,Borivali,"['Sweets', ' Snacks', ' Bakery']",4.4,30.0, ,0
+759,764,City Samosa,Malad Kan East,"['Snacks', ' Beverages']",3.9,33.0, ,0
+760,765,Cake Basket,malad west ,"['Bakery', ' Desserts']",4.4,27.0, ₹175 OFF ABOVE ₹449,449
+761,766,MovieMax,Malad Kan West,"['Beverages', ' Burgers']",,39.0, ,0
+762,767,Welcome Fast Food,Malad Kan East,"['Fast Food', ' Snacks']",4.5,33.0, ,0
+763,768,Haagen Dazs Ice Cream & Desserts,Matunga Wadala,"['Ice Cream', ' Desserts']",,38.0, ₹125 OFF ABOVE ₹399,399
+764,769,Tea Square Bar,Malad Kan East,"['Pizzas', ' Fast Food', ' Street Food', ' Juices', ' Beverages']",4.4,40.0, ,0
+765,770,Makabo By Juice Time,Borivali,"['North Indian', ' Chinese', ' Beverages']",4.3,32.0, ₹175 OFF ABOVE ₹449,449
+766,771,New Sheetal Dugdhalaya,Malad Kan West,"['Desserts', ' Sweets']",4.6,35.0, ,0
+767,772,Malvani swad,Malad Kan East,"['Indian', ' North Indian']",4.2,41.0, 20% OFF UPTO ₹50,50
+768,773,Snack Shack,Borivali West,"['North Indian', ' Snacks']",4.4,53.0, ,0
+769,774,Shanghai Kitchen,Malad West,"['Chinese', ' Asian', ' Thai', ' Seafood', ' Beverages']",4.1,53.0, ,0
+770,775,Burrp Pizza,Malad Kan West,"['Italian', ' Pizzas']",4.3,66.0, ₹125 OFF ABOVE ₹399,399
+771,776,American Pie - Butter Crust Pizza,Malad Kan West,"['Pizzas', ' Italian', ' Pastas']",4.6,57.0, 60% OFF UPTO ₹120,120
+772,777,Pohewala,Jog Gor West,"['Snacks', ' Fast Food']",,46.0, ,0
+773,778,Momo's Mealbox,Borivali,"['Chinese', ' Arabian', ' Fast Food', ' Burgers', ' Snacks', ' Pastas']",4.2,43.0, ₹125 OFF ABOVE ₹499,499
+774,779,Love & Latte,Malad West,"['Beverages', ' Desserts', ' Cafe', ' Pizzas', ' Snacks', ' Waffle', ' Pastas']",4.2,51.0, ₹175 OFF ABOVE ₹449,449
+775,780,Sardaar Ji,Malad Kan East,"['North Indian', ' Snacks', ' Chinese', ' Desserts']",4.3,60.0, ,0
+776,781,Cake Heaven,Borivali,"['Bakery', ' Snacks']",3.5,40.0, ,0
+777,782,Bamboo Kitchen,Malad East,"['North Indian', ' Chinese', ' Biryani', ' Indian', ' Tandoor', ' Thai', ' Continental']",3.7,42.0, 40% OFF UPTO ₹200,200
+778,783,Lassi Wala,Malad Kan West,['Beverages'],,47.0, 25% OFF UPTO ₹125,125
+779,784,Dharma's Sandwich,Borivali,"['Italian', ' American', ' Grill', ' Pizzas', ' Pastas', ' Snacks', ' Beverages']",3.6,48.0, ,0
+780,785,Hotel Ballaleshwar,Malad East,['South Indian'],3.8,43.0, ,0
+781,786,Baithack,Malad Kan West,"['Beverages', ' Fast Food', ' Snacks', ' Burgers']",3.7,44.0, ₹125 OFF ABOVE ₹499,499
+782,787,Great Indian Meals,Goregaon,"['Mangalorean', ' North Indian', ' South Indian', ' Malwani']",3.8,55.0, 15% OFF ABOVE ₹800,800
+783,788,Gelato Italiano - Ice Cream,Goregaon East,"['Desserts', ' Ice Cream']",3.3,41.0, ₹150 OFF ABOVE ₹699,699
+784,789,Brunch n Munch,Malad West,"['European', ' American', ' Continental', ' Italian']",4.5,50.0, ,0
+785,790,Ruchi Restaurant,Gor East,"['Italian', ' Burgers', ' Pizzas', ' Pastas', ' Continental']",4.9,59.0, ₹175 OFF ABOVE ₹449,449
+786,791,Farzi Cafe,Goregaon East,['Indian'],4.2,50.0, ₹150 OFF ABOVE ₹799,799
+787,792,Cococart,Jog Gor East,"['Desserts', ' Sweets']",4.6,48.0, ₹175 OFF ABOVE ₹899,899
+788,793,Kings Kulfi,Goregaon East,['Desserts'],4.7,40.0, ,0
+789,794,6th Street Yogurt,Malad Kan West,"['Desserts', ' Ice Cream']",4.2,55.0, ₹175 OFF ABOVE ₹449,449
+790,795,Diya's Kitchen,Dahisar West,"['South Indian', ' Snacks', ' Juices', ' Desserts']",4.3,48.0, 20% OFF UPTO ₹100,100
+791,796,Shamazing Sugarfree Desserts,Evershine nagar,"['Desserts', ' Ice Cream']",4.0,49.0, 10% OFF ABOVE ₹900,900
+792,797,Rosh & Ron,Bmc Colony,"['Chinese', ' Thai']",4.2,54.0, 15% OFF UPTO ₹80,80
+793,798,Sahara Hotel,Goregaon East,"['Chinese', ' Continental']",4.2,45.0, ,0
+794,799,Vedant kitchen,Malad Kan East,['Indian'],4.5,44.0, ,0
+795,800,Chai Vibhaag,Aarey Road,"['Indian', ' Beverages', ' Snacks']",4.4,44.0, ,0
+796,801,Potlibabas Kitchen,Borivali,"['Malwani', ' Biryani', ' Seafood', ' Salads']",4.2,53.0, ,0
+797,802,Food Lord - The Dining Bar,Borivali West,"['Chinese', ' Continental', ' Indian']",4.3,43.0, 10% OFF ABOVE ₹600,600
+798,803,Sweet heart cakes and more,Kandivali West,['Desserts'],3.6,50.0, ₹250 OFF ABOVE ₹999,999
+799,804,Anna Dosa Point,Goregaon West,['South Indian'],3.3,46.0, ,0
+800,805,Joyful Pizza,Borivali,"['Pizzas', ' Italian', ' Desserts', ' Beverages']",4.1,40.0, ₹175 OFF ABOVE ₹449,449
+801,806,The Chinese Corner,Jog Gor East,"['Chinese', ' Lebanese']",2.6,50.0, ,0
+802,807,Bao Bao,Malad Kan West,"['Asian', ' Chinese', ' Beverages']",4.5,49.0, ₹100 OFF ABOVE ₹749,749
+803,808,Egg Station,Malad Kan West,"['Indian', ' Snacks']",4.7,50.0, ,0
+804,809,Purohit Sweets,Borivali,"['Sweets', ' Fast Food', ' Desserts']",4.5,27.0, ₹100 OFF ABOVE ₹999,999
+805,810,Rajus fast food,Dahisar,['Fast Food'],5.0,33.0, ,0
+806,811,Yummy cake,Dahisar West,"['Bakery', ' Desserts']",4.1,39.0, ,0
+807,812,Maxus Cakes,Malad Kan West,['Bakery'],3.6,30.0, ,0
+808,813,World Famous Paratha,Borivali,"['Indian', ' Beverages']",4.8,35.0, ,0
+809,814,Swadesi Dairy Products,Kandivali West,"['Desserts', ' Sweets']",4.5,30.0, ,0
+810,815,Detox Cold Pressed Juice Bar,Dahisar East,"['Beverages', ' Juices']",4.7,35.0, ₹150 OFF ABOVE ₹999,999
+811,816,Sri Ram Kulfi And Ice Creams,Malad Kan West,"['Desserts', ' Ice Cream']",,34.0, ,0
+812,817,Lavista Cake Shop,Malad East,['Desserts'],3.4,32.0, ,0
+813,818,Davat Fast Food,Malad Kan East,"['Arabian', ' Chinese']",4.5,35.0, 20% OFF UPTO ₹50,50
+814,819,Golden Family Restaurant,Borivali,"['Continental', ' Oriental', ' Asian']",2.2,37.0, ,0
+815,820,Ek Batta Do,Borivali,"['Beverages', ' Snacks', ' Burgers', ' Pastas']",4.5,38.0, ,0
+816,821,Centre Point Dhaba,Borivali,"['North Indian', ' Chinese', ' Snacks']",4.3,34.0, 10% OFF ABOVE ₹1000,1000
+817,822,Red Indian Sizzlers,Kandivali West,"['Pizzas', ' Chinese', ' Continental']",4.5,37.0, ,0
+818,823,Brownie Point Cakes Shop Frenchaies,Borivali,"['Indian', ' Bakery', ' Desserts']",4.4,26.0, ₹100 OFF ABOVE ₹999,999
+819,824,Super (Borivali),Dahisar,"['Chinese', ' Fast Food']",4.3,39.0, ,0
+820,825,The Italian Oven,Malad Kan West,['Pizzas'],,52.0, ₹250 OFF ABOVE ₹999,999
+821,826,Maa Laads Kitchen,Malad West,"['Home Food', ' Rajasthani', ' North Indian', ' Indian']",4.0,75.0, ,0
+822,827,The Dragon House,Malad Kan West,"['Chinese', ' Asian', ' Thai', ' Seafood']",4.3,51.0, ,0
+823,828,Crazy Dough Pizza,Borivali West,"['Continental', ' Italian']",4.1,43.0, ,0
+824,829,Charlie's Chimney,Malad Kan West,"['Chinese', ' Biryani']",4.0,43.0, ,0
+825,830,Panchmukhi,Rajan Pada,"['Indian', ' North Indian', ' Chinese', ' Tandoor']",4.6,55.0, ,0
+826,831,Hotel Side Walk,Dahisar East,"['Indian', ' Chinese']",4.3,40.0, ,0
+827,832,Rustam Darbar,Malad Kan West,"['Chinese', ' North Indian', ' Mughlai']",3.6,48.0, ₹200 OFF ABOVE ₹749,749
+828,833,First Bytes Of Home,Borivali,"['Maharashtrian', ' Street Food', ' Fast Food']",4.4,50.0, ,0
+829,834,Aadu's Kitchen,Kandivali East,"['Chinese', ' Thai', ' Indian', ' Snacks']",4.5,41.0, 10% OFF ABOVE ₹1500,1500
+830,835,Pappis Kitchen,Borivali West,"['Indian', ' Chinese']",4.3,42.0, ,0
+831,836,Hotel Kokan Kinara,Borivali,"['North Indian', ' Seafood', ' Chinese', ' Tandoor']",4.2,53.0, ,0
+832,837,Urban Bawarchi,Dahisar,"['Snacks', ' Biryani', ' Desserts']",4.6,45.0, ,0
+833,838,Bubble Tea (Badabing Badaboom),Malad Kan West,['Beverages'],4.3,54.0, ,0
+834,839,Break Fast Choice,Goregaon,['Snacks'],3.7,56.0, ,0
+835,840,Al's Kitchen & Grill,Malad West,"['Indian', ' Chinese', ' Thai', ' Tandoor', ' Fast Food']",4.6,54.0, ,0
+836,841,Geeta Z Veg Hub & Tiffin Service,Dahisar,"['Indian', ' Snacks', ' North Indian']",4.5,48.0, ,0
+837,842,Q Fussion,Borivali,['Chinese'],5.0,58.0, ,0
+838,843,Urban Aladdin,Malad West,"['Tandoor', ' Mughlai', ' Chinese', ' Thai', ' Biryani', ' North Indian', ' Pizzas']",4.3,54.0, ,0
+839,844,Sultanate Biryani By Purple Foods,Malad East,"['Biryani', ' North Indian', ' Indian']",,45.0, ₹100 OFF ABOVE ₹599,599
+840,845,Royal Chinese Corner,Dahisar,['Chinese'],3.0,40.0, ,0
+841,846,Star Biryani,Malad Kan East,['Biryani'],,46.0, ,0
+842,847,Mad Over Momos,Jog Gor East,['Chinese'],,53.0, ,0
+843,848,Marhaba,Malad Kan West,['Chinese'],4.6,60.0, ,0
+844,849,Firangi Burgers,Jog Gor West,"['Fast Food', ' Pizzas', ' Chinese', ' Beverages']",,52.0, ,0
+845,850,Huber And Holly,Malad West,"['Ice Cream', ' Desserts']",5.0,50.0, ,0
+846,851,The Bihari Studio,Kandivali East Lokhandwala,['Indian'],4.4,51.0, ,0
+847,852,Franco's Pizzeria,Kandivali West,"['Pizzas', ' Pastas', ' Fast Food', ' Italian']",4.2,40.0, 30% OFF UPTO ₹150,150
+848,853,Farmhouse Brass Anchor,Borivali,"['Asian', ' Continental']",4.4,42.0, ,0
+849,854,Pednekar Kitchen,Kandivali East,['Seafood'],3.9,49.0, ,0
+850,855,The Fusion Express,Kandivali,"['North Indian', ' Chinese', ' Tandoor', ' Biryani']",4.1,50.0, 30% OFF UPTO ₹150,150
+851,856,Olive Garden,Borivali West,"['North Indian', ' Italian', ' Mexican']",3.9,40.0, ,0
+852,857,Has Juice & More,Goregaon East,"['South Indian', ' North Indian', ' Chinese', ' Desserts']",4.1,42.0, ,0
+853,858,B for Biryani,Malad West,"['North Indian', ' Biryani', ' Kebabs', ' Chinese', ' Asian', ' Thai', ' Mughlai']",4.3,55.0, ,0
+854,859,Kwanz,Malad Kan East,"['Chinese', ' Indian', ' Biryani']",4.6,25.0, ,0
+855,860,Moyra Da,Malad Kan East,"['Bengali', ' Sweets', ' Snacks']",2.8,17.0, 20% OFF UPTO ₹50,50
+856,861,Bhimji And Sons,Malad Kan East,['Sweets'],,13.0, 30% OFF UPTO ₹75,75
+857,862,Hapningzs,Kandivali borivali East,"['Chinese', ' Indian', ' Tandoor', ' Biryani']",4.7,49.0, ,0
+858,863,Tandoor Cafe,Kandivali East,['Beverages'],2.7,33.0, ,0
+859,864,From The Wok,Malad kan east,['Chinese'],4.7,23.0, 20% OFF ABOVE ₹700,700
+860,865,Little Cherry,Malad Kan East,['Desserts'],4.0,23.0, ,0
+861,866,Fizzy Thakur Village,Malad Kan East,"['Beverages', ' Desserts', ' Fast Food']",,23.0, ,0
+862,867,Kulhad Rani,Malad Kan East,"['Beverages', ' Snacks', ' Chinese']",3.9,27.0, 40% OFF UPTO ₹200,200
+863,868,Bottle Booth,Malad Kan East,['Beverages'],2.8,23.0, ,0
+864,869,99 Waffles,Mahavir Nagar,"['Waffle', ' Desserts', ' Beverages']",3.9,31.0, ₹100 OFF ABOVE ₹499,499
+865,870,Akkad Bakkad Bombay Boom,Kandivali East,"['Fast Food', ' Italian', ' Beverages']",3.8,33.0, ,0
+866,871,The Foodstagram,Kandivali East,"['Indian', ' Chinese', ' Biryani', ' Beverages']",4.3,33.0, 20% OFF UPTO ₹50,50
+867,872,Dessero Cake Shop,Borivali,"['Bakery', ' Desserts', ' Waffle', ' Beverages', ' Burgers']",4.5,42.0, ,0
+868,873,CHINA WOK,Dahisar,"['Chinese', ' North Indian']",,46.0, ,0
+869,874,Chef's Corner,Jog Gor East,"['Italian-American', ' Mexican', ' Snacks']",,52.0, ,0
+870,875,Tasty Corner,Malad Kan East,['Indian'],,40.0, ,0
+871,876,Effingut,Malad West,"['Continental', ' Italian']",,47.0, ,0
+872,877,Swad deshi mataka,Borivali East,"['Biryani', ' Indian']",4.5,45.0, ,0
+873,878,Crave Kitchen,Malad Kan East,"['Burgers', ' Beverages', ' Snacks']",,24.0, ,0
+874,879,Boba And Mocha,Malad Kan East,['Beverages'],4.8,15.0, ,0
+875,880,Dharma's sandwich - Thakur Village,Kandivali East,"['Pizzas', ' North Indian', ' Grill', ' Beverages']",4.1,31.0, 20% OFF UPTO ₹50,50
+876,881,Subhash Pan Bhandar And Coldrinks,Malad Kan East,['Paan'],4.5,21.0, ₹100 OFF ABOVE ₹749,749
+877,882,Santushti Shakes And More,Malad Kan East,"['Desserts', ' Waffle', ' Ice Cream']",4.5,19.0, ,0
+878,883,Spicy Dajiba,EVERSHINE MILLANIUM PARADISE,"['Indian', ' Snacks', ' Beverages']",,23.0, 20% OFF UPTO ₹50,50
+879,884,Shahi Caterers,Borivali,"['Biryani', ' Indian']",3.9,31.0, ,0
+880,885,Janta Farsan And Sweets,Malad East,"['Sweets', ' Snacks', ' Indian']",4.4,34.0, ,0
+881,886,Surti Egg Point,Borivali,['Indian'],3.9,34.0, ,0
+882,887,MH11 Assal Missal,Dahisar,"['Street Food', ' Maharashtrian', ' Indian']",4.1,30.0, 20% OFF UPTO ₹120,120
+883,888,Momos Canteen,Dahisar East ,"['Chinese', ' Tibetan']",5.0,38.0, ,0
+884,889,Nuvola Gelato,"Kandivali, Malad East",['Ice Cream'],4.6,14.0, ,0
+885,890,Western Tadka,Borivali West,"['Italian', ' North Indian', ' South Indian', ' Beverages', ' Snacks', ' American', ' Chinese', ' Salads', ' Rajasthani', ' Tandoor', ' Lebanese', ' Hyderabadi', ' Kebabs', ' Juices', ' Biryani']",3.8,39.0, 35% OFF UPTO ₹175,175
+886,891,Kanha Sweets Snacks And Dryfruit,Borivali,"['Snacks', ' Chaat', ' Sweets', ' Beverages', ' Desserts']",3.7,34.0, ,0
+887,892,Momo Guy,Borivali,"['Chinese', ' Fast Food', ' Beverages']",3.7,46.0, ₹175 OFF ABOVE ₹449,449
+888,893,# Vegan,Borivali,"['North Indian', ' Chinese']",4.7,46.0, ₹175 OFF ABOVE ₹449,449
+889,894,Bhau Cha Dhakka,Dahisar West,"['Indian', ' Chinese', ' North Indian']",3.8,50.0, ,0
+890,895,Viola Patisserie,G2 GARNET PALLADIUM,['Desserts'],5.0,50.0, ,0
+891,896,My Little Cafe,Jog Gor East,"['Cafe', ' Pizzas']",4.0,53.0, ,0
+892,897,Hotel sekar,Borivali,['South Indian'],4.8,45.0, ,0
+893,898,Sultans Deli,Malad West,"['Arabian', ' Lebanese']",4.3,57.0, 20% OFF UPTO ₹100,100
+894,899,MexiChino,Borivali West,"['Mexican', ' Chinese']",4.4,41.0, ,0
+895,900,RTC 2 - Rolls and Chicken Grills,Dahisar West,"['Snacks', ' Fast Food', ' North Indian', ' Street Food']",4.1,45.0, ₹175 OFF ABOVE ₹449,449
+896,901,Soda Frankie Hub,Malad Kan West,"['Indian', ' Fast Food']",4.1,49.0, ,0
+897,902,SHEIK'S Shawarma,Jog Gor East,"['Lebanese', ' Mediterranean', ' Arabian', ' Middle Eastern', ' Beverages', ' Desserts', ' Bakery', ' Jain']",4.3,47.0, ₹175 OFF ABOVE ₹449,449
+898,903,Mastee,Borivali West,"['Italian', ' Continental']",4.0,53.0, ,0
+899,904,The Veg Treat Legacy,Borivali,"['Chinese', ' South Indian', ' Biryani', ' Indian']",4.4,40.0, 10% OFF ABOVE ₹600,600
+900,905,The China Kitchen,Jog Gor East,"['Chinese', ' Indian']",,50.0, ,0
+901,906,Monopoly Restaurant & Juice House,Malad West,"['Continental', ' Beverages']",3.7,51.0, ,0
+902,907,Laxmi Vilas,Daftary Road,"['North Indian', ' Chinese', ' Seafood']",4.3,49.0, 15% OFF UPTO ₹100,100
+903,908,Pritam Fast Food,Jog Gor East,"['Chinese', ' Beverages', ' South Indian', ' Indian', ' Fast Food']",4.2,44.0, ,0
+904,909,Smoothie Bar Inc,Malad West,"['Juices', ' Beverages']",4.1,50.0, ₹125 OFF ABOVE ₹499,499
+905,910,Bombay Cycle Cafe,Borivali,['Pizzas'],4.4,45.0, 25% OFF UPTO ₹125,125
+906,911,White House Cafe,Borivali,"['Italian', ' Beverages']",4.1,58.0, ₹150 OFF ABOVE ₹999,999
+907,912,Shuddhi,Malad West,"['North Indian', ' Chinese']",4.4,61.0, ,0
+908,913,Muchhad Paanwala,Borivali West,['Paan'],4.5,44.0, ,0
+909,914,Parathas And Meals,Ganesh Chowk,['Indian'],4.6,58.0, ,0
+910,915,Bangalore Iyyangars Bakery,Malad Kan West,['Bakery'],4.4,45.0, ,0
+911,916,Suriya's Kitchen,Borivali,"['Thai', ' Chinese', ' Asian']",4.3,53.0, ₹100 OFF ABOVE ₹749,749
+912,917,The Hangout Burger Hub,Malad West,"['Fast Food', ' Snacks', ' American']",4.5,57.0, ,0
+913,918,The Grove Kitchen And Bar,Dahisar,['Indian'],4.0,49.0, 30% OFF UPTO ₹150,150
+914,919,SHREE SEVA FOODS,Borivali,"['Bakery', ' Desserts', ' Snacks']",,53.0, ,0
+915,920,Aaradhya Family Chinese Corner,Borivali West,['Chinese'],3.9,47.0, ,0
+916,921,Sam Snacks,Malad East,"['Indian', ' South Indian']",4.6,60.0, ,0
+917,922,Bollywood Burger & Waffles CO,Dahisar West,['Indian'],3.9,45.0, ₹175 OFF ABOVE ₹449,449
+918,923,Sweet Touch By Landmark,Malad Kan West,"['Desserts', ' Sweets']",3.7,59.0, ₹100 OFF ABOVE ₹599,599
+919,924,Moktu,Malad Kan West,['Chinese'],4.7,56.0, ,0
+920,925,Natural juice center,Malad Kan West,"['Beverages', ' Ice Cream']",2.9,46.0, ,0
+921,926,The Boat Club,Dahisar East,"['Indian', ' Thai']",4.3,53.0, ,0
+922,927,Masala Mastee,Borivali West,"['Maharashtrian', ' North Indian', ' Chinese', ' Fast Food']",4.6,50.0, ,0
+923,928,Hotel Navbharat,Malad East,"['Chinese', ' Indian', ' Beverages']",4.3,45.0, ,0
+924,929,Coastal Food and Spirits,Malad West,"['Indian', ' Chinese']",4.4,63.0, ,0
+925,930,Hotel Lotus Court,Dahisar,"['Indian', ' Chinese']",4.3,54.0, ,0
+926,931,SoonLi Chinese Restaurant,Malad West,['Chinese'],4.4,60.0, ,0
+927,932,Raju's Asian Corner,Borivali,"['Indian', ' Chinese', ' Tandoor']",4.1,41.0, ₹175 OFF ABOVE ₹449,449
+928,933,Maratha Biryani Center,Jog Gor East,"['Biryani', ' Chinese', ' Mughlai', ' North Indian', ' Tandoor']",4.0,48.0, ,0
+929,934,Flag's Iii,Borivali,"['Indian', ' Continental', ' Chinese', ' Italian']",3.8,49.0, 10% OFF ABOVE ₹1300,1300
+930,935,Aai Krupa Fast Food,Borivali,['Snacks'],3.8,42.0, ,0
+931,936,Ashoka Restaurant & Bar,Malad West,['Indian'],4.3,51.0, ,0
+932,937,Mizuna The Oriental Place,Kandivali West,"['Chinese', ' Fast Food', ' Snacks', ' Asian']",4.3,60.0, 30% OFF UPTO ₹150,150
+933,938,Jaya's Kitchen,Malad Kan West,"['Chinese', ' Indian']",3.9,49.0, ,0
+934,939,Crazy Cakes,Kandivali East,"['Desserts', ' Bakery']",,28.0, 10% OFF ABOVE ₹159,159
+935,940,Happy Moments,Borivali,['Bakery'],,32.0, ,0
+936,941,The Shivaay,Kandivali East,"['Indian', ' Chinese', ' Continental']",4.0,34.0, ,0
+937,942,Bombay Sweets,Borivali,"['Sweets', ' Desserts']",3.5,28.0, ,0
+938,943,Banglore Iyangar'S Bekery,Dahisar,['Bakery'],4.6,23.0, ,0
+939,944,Radha Krishna Hotel,Borivali,"['Indian', ' Tandoor']",3.6,26.0, ,0
+940,945,Da Krem - Home of fresh baking.,Borivali,"['Bakery', ' Desserts']",4.2,29.0, ,0
+941,946,Laxmi Sweets and Thaali,Borivali,['North Indian'],4.6,34.0, ,0
+942,947,Madhav Fast Food And juice Center,Borivali,"['Beverages', ' Indian', ' Fast Food', ' South Indian', ' Burgers', ' Pizzas', ' Snacks']",4.3,34.0, 20% OFF ABOVE ₹350,350
+943,948,Pooja Pav Bhaji And Snacks Corner,Malad Kan East,"['Fast Food', ' Indian', ' Chinese']",,35.0, 50% OFF UPTO ₹100,100
+944,949,Shetty tea and snacks center,Malad Kan East,"['Snacks', ' South Indian']",4.2,44.0, ,0
+945,950,Cherry & Chocolatte,Bandra West,"['Bakery', ' Desserts']",,43.0, 20% OFF UPTO ₹50,50
+946,951,Maharaja Darbar,Gandhare Road,"['North Indian', ' Chinese', ' South Indian', ' Burgers', ' Pizzas', ' Bakery', ' Beverages']",,41.0, 30% OFF UPTO ₹150,150
+947,952,Meal By Kilo,Borivali,"['North Indian', ' South Indian', ' Chinese']",3.9,40.0, ,0
+948,953,Bhajiyawala & Co,Borivali West,"['Indian', ' Italian-American', ' Continental', ' Lebanese']",3.9,40.0, 30% OFF UPTO ₹150,150
+949,954,North Punjabi Kitchen,Kandivali East,"['North Indian', ' Punjabi', ' Maharashtrian', ' Indian']",3.8,41.0, 10% OFF UPTO ₹40,40
+950,955,Prasadam,Borivali,['Indian'],3.4,37.0, ,0
+951,956,Mumbai Fast Food,Borivali,"['Fast Food', ' Snacks', ' Pizzas', ' Beverages']",4.1,39.0, ,0
+952,957,Joye's Pizzeria,Kandivali East,"['Chinese', ' Desserts', ' Burgers', ' Pizzas', ' Italian']",3.7,38.0, 50% OFF UPTO ₹100,100
+953,958,Hotel Regency,Jog Gor East,['Chinese'],,28.0, ,0
+954,959,Savory Kitchen,Borivali East,"['Indian', ' Bengali']",4.2,35.0, ,0
+955,960,Tavola restaurant,Borivali,"['Indian', ' Biryani', ' Chinese', ' Pizzas', ' Seafood']",4.3,30.0, ,0
+956,961,Vijay Pure Veg,Kandivali East,['Chinese'],4.6,31.0, ,0
+957,962,Konkan Kubera,Borivali,"['Chinese', ' North Indian', ' Seafood']",4.1,36.0, ,0
+958,963,Spaghetto,Malad Kan East,"['Italian', ' Beverages']",,34.0, 50% OFF UPTO ₹100,100
+959,964,Froozo,Malad West,"['Pizzas', ' Beverages', ' Burgers', ' Desserts']",3.7,50.0, 30% OFF UPTO ₹150,150
+960,965,Chinese Foodie,Malad East,"['Chinese', ' Thai']",3.7,43.0, 40% OFF UPTO ₹200,200
+961,966,Chinese Katta,Dahisar,"['Chinese', ' Snacks']",,47.0, ₹200 OFF ABOVE ₹999,999
+962,967,Cake Culture,Borivali West,['Bakery'],2.6,42.0, ,0
+963,968,Phat Fork Chinese,Malad Kan West,"['Chinese', ' Asian', ' Thai']",4.5,55.0, ₹125 OFF ABOVE ₹499,499
+964,969,Yummy Shawarma,Malad Kan West,"['Arabian', ' Burgers', ' Kebabs', ' Snacks', ' Beverages']",,45.0, 50% OFF UPTO ₹250,250
+965,970,Panda Momos,Borivali,"['Asian', ' Chinese', ' Tibetan', ' Beverages', ' Desserts']",3.9,42.0, ₹175 OFF ABOVE ₹449,449
+966,971,The Chinese House,Jog Gor East,['Chinese'],,59.0, ₹250 OFF ABOVE ₹999,999
+967,972,London Dairy,Dahisar,['Punjabi'],3.8,36.0, ,0
+968,973,Pure Veg Bowls & Meals,Gorai Road,"['Healthy Food', ' Pizzas', ' North Indian', ' Thalis', ' Biryani', ' Chinese']",3.0,36.0, ,0
+969,974,The Cake House,Kandivali West,['Desserts'],3.8,39.0, ,0
+970,975,Wack Waffles & Brownies,Borivali,"['Waffle', ' Bakery', ' Desserts', ' Beverages', ' Ice Cream']",4.1,38.0, ₹175 OFF ABOVE ₹449,449
+971,976,Miami Waffle & Jawbreakers,Borivali,"['Waffle', ' Bakery', ' Desserts', ' Bengali']",4.0,38.0, ₹175 OFF ABOVE ₹449,449
+972,977,Winners Pizza (Fresh Dough),Borivali,"['Pizzas', ' Italian', ' Desserts', ' Beverages']",3.8,39.0, ₹175 OFF ABOVE ₹449,449
+973,978,Green Dot Pizza,Borivali,"['Pizzas', ' Italian', ' Desserts', ' Beverages']",4.0,39.0, ₹175 OFF ABOVE ₹449,449
+974,979,MASKA CHASKA,Borivali,"['Chinese', ' Pizzas']",,36.0, ₹175 OFF ABOVE ₹449,449
+975,980,Cake4u,Kandivali East,['Desserts'],4.3,28.0, ,0
+976,981,Jenny's Brownies,Borivali,"['Waffle', ' Bakery', ' Ice Cream', ' Desserts', ' Beverages']",4.4,30.0, ₹175 OFF ABOVE ₹449,449
+977,982,Cafe k2k,Malad Kan East,['Indian'],,38.0, 20% OFF UPTO ₹100,100
+978,983,Nomad Salad,Malad Kan West,"['Salads', ' Healthy Food']",4.3,55.0, ₹175 OFF ABOVE ₹999,999
+979,984,Food Express,Malad,"['Fast Food', ' Italian', ' Snacks']",4.4,52.0, ,0
+980,985,Wendy's Flavor Fresh Burgers,Goregaon,"['Burgers', ' American', ' Fast Food', ' Snacks', ' Beverages']",,43.0, ₹125 OFF ABOVE ₹499,499
+981,986,Mummy's Kitchen,Borivali,"['Street Food', ' South Indian']",3.5,61.0, 10% OFF UPTO ₹100,100
+982,987,Cake Zone,Borivali,"['Bakery', ' Desserts']",4.2,40.0, ,0
+983,988,Cake Point,Malad East,['Cafe'],2.4,40.0, 30% OFF UPTO ₹150,150
+984,989,Mumma's kitchen,Borivali West,['North Indian'],4.2,44.0, ₹175 OFF ABOVE ₹449,449
+985,990,Friends Fast Food,Kandivali West,"['Chinese', ' Indian']",4.5,43.0, ,0
+986,991,Food Hub,Malad West,['Chinese'],4.4,49.0, 20% OFF UPTO ₹120,120
+987,992,Vital Bowls,Goregaon,"['Healthy Food', ' Salads', ' Beverages', ' Keto']",,50.0, ₹125 OFF ABOVE ₹399,399
+988,993,Wakka Makka Chinese,Borivali,"['Chinese', ' Asian', ' Desserts', ' Beverages']",4.0,42.0, ₹175 OFF ABOVE ₹449,449
+989,994,Tea Villa Cafe,Borivali,"['Beverages', ' Asian', ' Italian-American', ' Arabian', ' Japanese', ' Fast Food', ' Waffle', ' Salads']",4.0,46.0, ,0
+990,995,Shawarma Corner,Malad Kan East,['Arabian'],3.0,54.0, 50% OFF UPTO ₹250,250
+991,996,The Sandwich House,Borivali West,"['Snacks', ' Fast Food', ' Pizzas', ' American', ' Desserts']",3.7,46.0, ,0
+992,997,CELEBRATE WITH CAKE,Malad Kan East,['Bakery'],,27.0, ,0
+993,998,Live Puff Factory,Borivali,['Snacks'],,29.0, ,0
+994,999,Sanjog Restaurant,Dahisar,"['Indian', ' Kebabs', ' Chinese', ' Tandoor', ' Biryani', ' Beverages', ' Juices']",3.9,32.0, ,0
+995,1000,Bottoms Up,Borivali,['Beverages'],4.7,29.0, ,0
+996,1001,Minus Zero Degree Icecreams,Borivali,"['Desserts', ' Ice Cream', ' Beverages']",4.3,26.0, ,0
+997,1002,Tea Pea,Borivali,"['Italian', ' Beverages', ' Desserts', ' Snacks', ' Fast Food', ' Chaat', ' American']",4.2,32.0, ,0
+998,1003,Wedeshi Canteen,BORIVALI EAST,"['Waffle', ' Desserts']",2.0,29.0, ,0
+999,1004,Pizza Mania,Jog Gor East,"['Pizzas', ' Fast Food']",4.1,47.0, ,0
+1000,1005,Miami Shakes & More,Borivali,"['Desserts', ' Beverages']",3.8,33.0, ₹175 OFF ABOVE ₹449,449
+1001,1006,Chinese Adda,Dahisar,"['Chinese', ' Fast Food', ' Italian']",3.4,44.0, ,0
+1002,1007,BlackBun,Malad Kan East,['Bakery'],4.3,36.0, 20% OFF UPTO ₹50,50
+1003,1008,Subhash Paan Bhandar,Kandivali West,['Indian'],4.4,34.0, ,0
+1004,1009,MCF - V Kitchen,Borivali West,"['Indian', ' Chinese']",4.2,39.0, ,0
+1005,1010,Shegaon Kachori - Maha 203,Malad Kan West,['Snacks'],4.7,34.0, ,0
+1006,1011,Pooja Malai Gola,Malad Kan East,['Desserts'],3.9,30.0, ,0
+1007,1012,Bake & Bite,Dahisar,['Bakery'],4.3,31.0, ₹175 OFF ABOVE ₹449,449
+1008,1013,shree balaji foods,Malad Kan East,['Fast Food'],4.1,35.0, ,0
+1009,1014,Shree Rameshwar Ice Cream And Falooda,Jog Gor East,"['Ice Cream', ' Beverages']",4.6,37.0, ,0
+1010,1015,Baskin Robbins,Malad Kan East,['Ice Cream'],,38.0, ,0
+1011,1016,Chopsticks Pure Veg,Borivali West,"['Chinese', ' Continental', ' Indian']",4.1,35.0, ,0
+1012,1017,Mitron Kandivali,Malad Kan East,"['Italian-American', ' Fast Food', ' Salads']",5.0,43.0, ,0
+1013,1018,UK14 Icecream,Malad Kan East,"['Bakery', ' Ice Cream', ' Beverages']",,19.0, ,0
+1014,1019,Sage,Kandivali East,"['Pastas', ' European', ' Continental', ' Italian', ' Cafe']",4.5,26.0, 20% OFF UPTO ₹50,50
+1015,1020,Bombay Chinese Co.,Malad East,"['Thai', ' Chinese', ' Indian']",3.6,41.0, 40% OFF UPTO ₹200,200
+1016,1021,Bombay Healthy Juices,Borivali,['Juices'],4.3,42.0, ,0
+1017,1022,Pooja Chinese Corner,Kandivali - West,['Chinese'],4.1,45.0, 20% OFF ABOVE ₹700,700
+1018,1023,Poush - Essence of Kashmir,Malad West,"['Indian', ' Bengali', ' Mughlai']",4.3,52.0, 20% OFF ABOVE ₹700,700
+1019,1024,Taste of Italy,Malad Kan West,"['Continental', ' Italian', ' Fast Food']",4.5,67.0, ,0
+1020,1025,Manaqish - Lebanese Gourmet,Borivali,"['Lebanese', ' Salads', ' Snacks']",,49.0, ₹50 OFF ABOVE ₹499,499
+1021,1026,Tawa Twist ( Pure Veg ),Goregaon,"['North Indian', ' Chinese', ' South Indian']",4.2,53.0, ,0
+1022,1027,Vaishalis Krustty Kremme,Borivali,"['Bakery', ' Cakes and Pastries', ' Desserts']",,41.0, 20% OFF UPTO ₹125,125
+1023,1028,Saute,Malad West,"['Thai', ' Chinese', ' Indian', ' Tandoor']",4.2,53.0, ,0
+1024,1029,PizzAah! District,Kandivali West,['Pizzas'],4.0,46.0, ,0
+1025,1030,Satnam Golden Fast Food Centre,Kandivali West,"['Fast Food', ' Italian', ' Mexican', ' Snacks']",4.6,42.0, ,0
+1026,1031,The Kulfi & Falooda Project,Malad West,"['Ice Cream', ' Beverages', ' Juices', ' Desserts']",3.9,52.0, ₹75 OFF ABOVE ₹300,300
+1027,1032,Coffee Craft,Borivali West,"['Beverages', ' Fast Food', ' Desserts']",4.4,43.0, ,0
+1028,1033,K's Charcoal,Borivali West,"['Italian', ' Mexican']",4.3,43.0, ,0
+1029,1034,7 Islands,Malad Kan West,"['Indian', ' Oriental', ' Snacks', ' North Indian', ' Chinese', ' Pastas']",4.4,53.0, 20% OFF UPTO ₹100,100
+1030,1035,Namaskar - The Maharaja,Dahisar,"['North Indian', ' Seafood', ' Biryani', ' Tandoor', ' Kebabs']",3.9,44.0, ,0
+1031,1036,Cheezza Point,Malad West,"['Pizzas', ' Burgers', ' Snacks', ' Beverages']",3.8,53.0, ,0
+1032,1037,Hen Hao Chi,Borivali West,['Chinese'],3.8,44.0, 15% OFF ABOVE ₹700,700
+1033,1038,Mantra,Borivali West,['North Indian'],4.5,46.0, ,0
+1034,1039,Sam Chinese Corner,Malad East,['Chinese'],4.4,58.0, ,0
+1035,1040,Albela Chinese Home,Borivali West,['Chinese'],4.3,43.0, ,0
+1036,1041,Mother's Touch Gujrati,Malad West,['Indian'],4.0,74.0, ₹250 OFF ABOVE ₹999,999
+1037,1042,Nityanand (Kandivali),Dhanukarwadi,"['Indian', ' Chinese']",4.3,42.0, ,0
+1038,1043,Dream Wok,Dahisar West,"['North Indian', ' Chinese']",4.3,57.0, ₹200 OFF ABOVE ₹749,749
+1039,1044,The Chinese Village,Gorai,"['Chinese', ' Beverages', ' Desserts']",4.0,47.0, ,0
+1040,1045,Royal Chinese Cafe,Malad Kan West,['Chinese'],,51.0, ,0
+1041,1046,Snackiezz,Dahisar,"['Continental', ' Beverages', ' Snacks', ' Italian-American']",4.5,51.0, 25% OFF UPTO ₹125,125
+1042,1047,Bipin Sandwich & Pizza Plaza,Borivali West,['Pizzas'],4.5,44.0, 10% OFF ABOVE ₹700,700
+1043,1048,PS Pav Bhaji,Malad Kan East,"['Indian', ' Fast Food']",5.0,44.0, 30% OFF UPTO ₹150,150
+1044,1049,Bipin Big Sandwich,Borivali,"['Snacks', ' Fast Food']",4.1,50.0, ,0
+1045,1050,Ambika Chinese Restaurant (Since 2005),Kandivali West,"['Indian', ' Chinese']",3.7,50.0, ₹150 OFF ABOVE ₹999,999
+1046,1051,Dum De Biryani,Borivali,"['Snacks', ' Biryani', ' Tandoor', ' Indian']",,47.0, 25% OFF UPTO ₹125,125
+1047,1052,Gup Shup Snacks Junction,Malad Kan West,['Snacks'],,59.0, ,0
+1048,1053,Swaad E Rasoi,Goregaon,"['Chinese', ' Asian', ' Thai']",4.3,52.0, 10% OFF ABOVE ₹600,600
+1049,1054,Chocoholix,Malad Kan West,['Bakery'],4.6,43.0, ,0
+1050,1055,Unique Cake Shop,Malad Kan West,"['Bakery', ' Desserts', ' Snacks']",4.6,43.0, ,0
+1051,1056,Dandelions Kitchen & Bar,Borivali,"['Indian', ' Kebabs', ' Continental', ' Thai', ' Burmese', ' Salads', ' Seafood']",4.5,47.0, ,0
+1052,1057,Hassan Kabab Spot,Jog Gor East,"['Snacks', ' North Indian', ' Indian']",4.3,43.0, ,0
+1053,1058,Nagori Tea Point,Malad Kan West,['Beverages'],4.2,41.0, ,0
+1054,1059,Eat Hygiene,Jog Gor East,"['Pizzas', ' Pastas', ' Desserts', ' Beverages']",4.5,59.0, ,0
+1055,1060,Raju's Chinese Corner,Borivali,['Chinese'],,52.0, ₹175 OFF ABOVE ₹449,449
+1056,1061,Food Lovers,Malad Kan West,['Chinese'],4.0,51.0, ,0
+1057,1062,Enchante By Chai Point,Malad West,"['Bakery', ' Beverages', ' Maharashtrian', ' Snacks', ' Street Food', ' South Indian', ' Punjabi', ' Chaat', ' Indian', ' American', ' North Indian', ' Fast Food', ' Desserts', ' Cafe', ' Healthy Food', ' Home Food']",2.4,46.0, 40% OFF UPTO ₹80,80
+1058,1063,Hot Lee Chinese,Borivali,"['Chinese', ' Asian', ' Desserts', ' Beverages']",4.4,46.0, ₹175 OFF ABOVE ₹449,449
+1059,1064,Food Planet,Borivali,"['Snacks', ' Pizzas', ' Burgers', ' Fast Food']",4.3,39.0, ,0
+1060,1065,Waffle World,Borivali,"['Waffle', ' Desserts']",4.8,35.0, ,0
+1061,1066,Snack Eat,Rawal Pada,"['Indian', ' Snacks']",,41.0, ,0
+1062,1067,The Sandwich Story,Malad West,"['Indian', ' Snacks', ' Juices', ' Desserts']",3.5,69.0, ₹75 OFF ABOVE ₹300,300
+1063,1068,Little Loco Pops,Malad West,"['Ice Cream', ' Desserts']",4.4,46.0, ₹175 OFF ABOVE ₹449,449
+1064,1069,Moody Foody,Kandivali east ,"['Indian', ' Maharashtrian', ' Street Food', ' Chinese', ' Pizzas', ' Fast Food', ' Burgers', ' Cafe', ' Beverages']",4.1,47.0, ,0
+1065,1070,BFF- Bombay French Fries,Borivali,"['Continental', ' Desserts', ' Beverages']",2.9,36.0, ₹175 OFF ABOVE ₹449,449
+1066,1071,The Waffle Room,Kandivali,"['Waffle', ' Cafe']",2.8,37.0, ₹250 OFF ABOVE ₹999,999
+1067,1072,Quick Meal,Borivali East,"['Indian', ' Chinese']",4.2,36.0, ,0
+1068,1073,Eagle Boys Pizza and Cafe,Borivali west,"['Italian', ' Pizzas', ' Burgers', ' Pastas', ' Beverages']",2.5,39.0, 20% OFF UPTO ₹100,100
+1069,1074,Chyna,Malad Kan East,['Chinese'],4.2,35.0, ,0
+1070,1075,JK Sweets,Malad West Mumbai,"['Sweets', ' Desserts']",4.4,32.0, ,0
+1071,1076,Foods Planet,Borivali,['Biryani'],,32.0, ,0
+1072,1077,Gangaur Thali,Borivali,"['Indian', ' Thalis']",4.4,31.0, ,0
+1073,1078,The Sandwich Zone,Borivali,"['Fast Food', ' Italian', ' Snacks']",4.3,33.0, ,0
+1074,1079,Power Smoothies,Borivali,"['Healthy Food', ' Beverages']",4.6,33.0, 30% OFF ABOVE ₹700,700
+1075,1080,Triveni Pan Bhandar,Borivali,"['Paan', ' Desserts']",3.3,39.0, ,0
+1076,1081,Vividham Sweets,Borivali,"['Sweets', ' Snacks']",4.3,27.0, ,0
+1077,1082,Food Shood,Borivali,"['Indian', ' North Indian', ' Snacks', ' Mughlai', ' Tandoor', ' Kebabs', ' Punjabi', ' Biryani', ' Chinese', ' Street Food']",4.7,30.0, ,0
+1078,1083,Gigil Brasserie,Borivali West,"['Italian', ' Pizzas', ' Beverages']",4.2,43.0, 25% OFF ABOVE ₹1000,1000
+1079,1084,Nirala Gourmet Kitchen,Borivali,"['Pizzas', ' Pastas', ' Burgers', ' Snacks']",4.1,50.0, 60% OFF UPTO ₹120,120
+1080,1085,Hotel Sai Prasad Family Restaurant,Borivali,"['North Indian', ' Chinese', ' Tandoor', ' Beverages']",4.0,52.0, ,0
+1081,1086,Sarova Bar & Restaurant,Kandivali East,"['Thalis', ' Chinese', ' North Indian']",4.8,42.0, ,0
+1082,1087,Pizza In Town,Dahisar,['Indian'],4.1,50.0, ,0
+1083,1088,Jay Bhavani Fast Food Center,Borivali,"['Fast Food', ' North Indian', ' Chinese', ' Biryani']",,54.0, ₹40 OFF ABOVE ₹499,499
+1084,1089,Raja Chinese Corner,Borivali,['Chinese'],3.6,42.0, 10% OFF ABOVE ₹1300,1300
+1085,1090,Agga Bai,Borivali,['Desserts'],4.6,52.0, 10% OFF UPTO ₹40,40
+1086,1091,Golden Delicacy Multicuisine Restaurant,Borivali,"['Indian', ' South Indian', ' Chinese', ' Tandoor', ' Biryani', ' Snacks', ' Italian-American', ' Ice Cream', ' Beverages']",4.3,41.0, ,0
+1087,1092,Bombay Boba,Kandivali West,['Beverages'],3.2,42.0, ,0
+1088,1093,OM R K Fast Food,Borivali,['South Indian'],4.4,42.0, ,0
+1089,1094,PLATESS MULTICUISINE RESTAURANT,Borivali,"['Chinese', ' Indian']",3.0,47.0, ,0
+1090,1095,Namak Mirchi,Kandivali East,"['North Indian', ' Biryani', ' Chinese', ' Mughlai', ' Punjabi', ' Kebabs']",4.3,30.0, 50% OFF UPTO ₹100,100
+1091,1096,Mozo Pizzaria,Behind Annexe Mall,"['Pizzas', ' Burgers', ' Chinese', ' Desserts', ' Italian']",3.6,28.0, 50% OFF UPTO ₹100,100
+1092,1097,The Khichdi House,Malad Kan East,"['Indian', ' North Indian', ' Thalis', ' Desserts']",3.3,25.0, 50% OFF UPTO ₹100,100
+1093,1098,Tandav Tea Company,Malad Kan East,"['Snacks', ' Beverages']",3.8,29.0, 10% OFF UPTO ₹40,40
+1094,1099,Oven Stories Pizza,Kandivali East,"['Pizzas', ' Burgers', ' Desserts', ' Chinese', ' Pastas', ' Italian']",3.5,33.0, 50% OFF UPTO ₹100,100
+1095,1100,Creamillaa,Malad Kan East,"['Desserts', ' Ice Cream']",4.8,19.0, ,0
+1096,1101,Thakkar Lunch Home,Kandivali East,"['Indian', ' Snacks']",4.0,25.0, 20% OFF UPTO ₹50,50
+1097,1102,Mama's By Banjara Dhaba Veg,Malad Kan East,"['North Indian', ' Chinese', ' Fast Food', ' Snacks', ' Biryani']",4.1,25.0, 60% OFF UPTO ₹120,120
+1098,1103,Combos & More - The Steal Deal Food Factory,Kandivali East,"['Chinese', ' Pan-Asian', ' Thai', ' Beverages']",4.1,29.0, ,0
+1099,1104,Hotel Matsyagandha,Kandivali East,"['North Indian', ' Malwani', ' Chinese', ' Seafood', ' Mangalorean', ' Tandoor']",4.3,34.0, ,0
+1100,1105,Love 99,Mahavir Nagar,"['Desserts', ' Waffle', ' Beverages', ' Bakery']",3.9,35.0, 15% OFF ABOVE ₹600,600
+1101,1106,House Of Combos,Borivali,"['Combo', ' Continental', ' Asian']",,34.0, ,0
+1102,1107,Ice Cap The Cake Shop,Malad Kan East,['Bakery'],,32.0, ,0
+1103,1108,Biryani Lovers,Malad Kan East,"['Biryani', ' Arabian', ' Tandoor']",3.4,44.0, ,0
+1104,1109,Glaciers Cakes And More,Malad Kan East,['Bakery'],,28.0, 25% OFF ABOVE ₹159,159
+1105,1110,Happy Moments The Cake Shop,Malad Kan East,['Bakery'],,32.0, ,0
+1106,1111,The Dutch Waffles,Malad Kan East,"['Bakery', ' Desserts']",,28.0, ,0
+1107,1112,Chile Ma,Malad Kan East,"['Bakery', ' Waffle']",,24.0, ,0
+1108,1113,Uncle's Kitchenette,Malad Kan East,"['Waffle', ' Bakery']",,28.0, ,0
+1109,1114,De Firrrangi cafe,Malad Kan East,"['Juices', ' Beverages']",,31.0, ,0
+1110,1115,DK's Kitchen,Borivali East,"['Chinese', ' Tandoor']",4.4,33.0, ,0
+1111,1116,Bbcc - Borivali Barbeque Chinese Co.,Malad Kan East,['Italian'],,32.0, ,0
+1112,1117,Choco Pack,Malad Kan East,['Desserts'],,33.0, ,0
+1113,1118,Sandwich Co.,Malad Kan East,['Fast Food'],,33.0, ,0
+1114,1119,Vivgato The Live Cake Shop,Malad Kan East,"['Bakery', ' Desserts']",2.7,37.0, ,0
+1115,1120,M M Dum Biriyani Centre,Borivali,"['Indian', ' Biryani', ' Beverages']",4.1,34.0, ,0
+1116,1121,Hari Om Snack Bar,Kandivali,"['Fast Food', ' Snacks', ' Indian']",3.8,37.0, ,0
+1117,1122,Jaggu Anna,Borivali,"['Fast Food', ' Kebabs', ' Snacks']",1.5,39.0, ,0
+1118,1123,Signature Premium Cafe & Resto,Borivali West,"['Pizzas', ' Fast Food', ' South Indian', ' Juices', ' Snacks']",3.7,39.0, ,0
+1119,1124,Mangalam,Borivali West,"['Indian', ' Chinese']",4.1,37.0, ,0
+1120,1125,Chaat Samrat,Dahisar,"['Chaat', ' Pizzas', ' Pastas', ' Fast Food', ' Snacks', ' Burgers']",3.8,38.0, ,0
+1121,1126,Cafe Town,Borivali,['Burgers'],,36.0, ,0
+1122,1127,Hotel Aqua Stone RESTO BAR,Dahisar,"['Chinese', ' Snacks', ' Beverages', ' North Indian', ' Kebabs']",5.0,38.0, ,0
+1123,1128,Srijana Momo House,Malad Kan East,['Chinese'],5.0,35.0, ,0
+1124,1129,Cafe To Gather,Malad Kan East,['Fast Food'],,34.0, ₹200 OFF ABOVE ₹999,999
+1125,1130,Meal In Minutes,Malad Kan East,"['North Indian', ' Pizzas', ' Fast Food', ' Snacks', ' Beverages']",,34.0, 50% OFF UPTO ₹100,100
+1126,1131,Wanton Point Tadka,Kandivali East,"['Indian', ' Chinese']",4.3,34.0, ,0
+1127,1132,Agri Malhari Katta.(Tandoori House),Borivali,"['Biryani', ' Chinese', ' Tandoor', ' Kebabs', ' North Indian', ' Sweets']",4.3,50.0, 10% OFF ABOVE ₹600,600
+1128,1133,Daily 52,Borivali,['Indian'],5.0,50.0, ,0
+1129,1134,Culture Kitchen,Jog Gor East,"['Chinese', ' Snacks']",,52.0, ,0
+1130,1135,Golden Plate,Dahisar,"['Chinese', ' North Indian', ' Biryani', ' Beverages']",3.8,55.0, ,0
+1131,1136,Casa Curry,Borivali,['Burgers'],,43.0, ,0
+1132,1137,The Cookie Dough,Malad West,"['Snacks', ' Bakery', ' Fast Food', ' Beverages']",3.7,58.0, ,0
+1133,1138,What The Wok,Borivali West,['Chinese'],4.3,43.0, ₹100 OFF ABOVE ₹999,999
+1134,1139,Burgerbook,Malad Kan West,"['American', ' Fast Food']",4.5,52.0, ,0
+1135,1140,Kamath Dakshinswaad,Malad Kan East,['South Indian'],4.2,47.0, ,0
+1136,1141,Shweta's Taatbhar Potbhar,Borivali,"['Indian', ' Biryani']",4.1,45.0, ₹100 OFF ABOVE ₹749,749
+1137,1142,Momento Pizza,Borivali West,"['Pizzas', ' Italian', ' Fast Food']",4.3,45.0, ,0
+1138,1143,Brownie Point Malad,Malad Kan West,['Bakery'],,41.0, ,0
+1139,1144,Cafe A1,Malad Kan West,"['North Indian', ' Tandoor', ' Mughlai', ' Chinese', ' Fast Food', ' Desserts', ' Beverages']",4.1,52.0, ,0
+1140,1145,Desi Dawat,Charkop,['Indian'],,44.0, ,0
+1141,1146,Slide A Roll,Malad West,['Snacks'],4.1,50.0, ,0
+1142,1147,Mr Singhs Tandoori Hut by RPD,Malad West,"['North Indian', ' Tandoor', ' Biryani']",4.2,64.0, ,0
+1143,1148,Shree Siddhivinayak juice and snacks centre,Dahisar East,['Fast Food'],4.8,44.0, ,0
+1144,1149,Kalubai juice center,Borivali,"['Beverages', ' Juices']",4.4,46.0, 50% OFF UPTO ₹250,250
+1145,1150,Dragon Flame Chinese,Kandivali West,['Chinese'],3.5,50.0, 25% OFF UPTO ₹125,125
+1146,1151,Ashish Chinese Corner,kandivalli charkop,['Chinese'],3.6,40.0, ,0
+1147,1152,The Tasty Love,Jog Gor East,"['Chinese', ' Arabian', ' Biryani', ' South Indian']",5.0,50.0, ₹200 OFF ABOVE ₹999,999
+1148,1153,Noon Roti - Story of Bihar,KANDIVALI WEST,"['Indian', ' North Indian']",3.2,49.0, ₹100 OFF ABOVE ₹599,599
+1149,1154,Preeti Sandwich and juice center,Mahavir Nagar,"['Snacks', ' Italian', ' Pizzas', ' Pastas', ' Beverages']",4.2,40.0, 10% OFF ABOVE ₹900,900
+1150,1155,AL-Falah Irani Chai Momos And More,Borivali West,['Biryani'],4.0,54.0, ,0
+1151,1156,Baan Khun yay,Borivali,"['Chinese', ' Thai', ' Desserts']",4.1,53.0, ₹100 OFF ABOVE ₹999,999
+1152,1157,Film City Fast Food,Malad Kan East,"['Indian', ' Chinese']",3.4,58.0, ,0
+1153,1158,The Bombay Stories,Malad West,"['Street Food', ' Beverages', ' Fast Food', ' Pizzas', ' Pastas']",4.3,57.0, 10% OFF UPTO ₹100,100
+1154,1159,Boneto Fine Dine,Malad Kan East,['Indian'],4.5,59.0, ,0
+1155,1160,Chhedas,Jog Gor East,"['Snacks', ' Sweets']",3.7,46.0, ,0
+1156,1161,Amit Fast Food- Chinese Corner,Malad West,['Chinese'],4.5,53.0, ,0
+1157,1162,Sai Sarovar,Malad Kan West,"['North Indian', ' Snacks', ' Chinese']",4.4,49.0, ,0
+1158,1163,Thew Pueblo Gourmet - TPG,Borivali,"['Snacks', ' Beverages']",4.2,45.0, ,0
+1159,1164,Raza Biryani,Malad Kan East,"['Biryani', ' Kebabs', ' Tandoor']",3.2,60.0, ,0
+1160,1165,New Sam's Kitchen,Goregaon,"['Indian', ' Chinese']",4.4,58.0, ,0
+1161,1166,Flavour & Spice,Borivali,"['Fast Food', ' Indian', ' Tandoor']",3.7,54.0, ₹175 OFF ABOVE ₹449,449
+1162,1167,Fishermans Hook,Malad West,"['North Indian', ' Chinese', ' Seafood']",4.1,57.0, ,0
+1163,1168,WEST COAST DINER,Dahisar,['Desserts'],4.5,50.0, ,0
+1164,1169,Lady The Leaf,Malad West,"['Continental', ' Salads', ' Grill', ' Juices', ' Beverages']",3.9,51.0, 25% OFF UPTO ₹125,125
+1165,1170,DYNAMIC CAKE,Jog Gor East,['Bakery'],,51.0, ,0
+1166,1171,Om Sai Dosa Center,Kandivali East,['South Indian'],,40.0, ,0
+1167,1172,Gravy and Savy,Kandivali W,"['North Indian', ' Indian']",4.2,55.0, ,0
+1168,1173,Mithilanchal - Xpress Of Food Abode,KANDIVALI WEST,"['Indian', ' Seafood']",2.3,51.0, ₹100 OFF ABOVE ₹599,599
+1169,1174,Dale's Eden - Gifting,Malad Kan West,"['Desserts', ' Sweets']",,47.0, ₹175 OFF ABOVE ₹449,449
+1170,1175,Subhanallah Chinese,Malad West,['Chinese'],4.7,56.0, ,0
+1171,1176,Jalandharwala,Borivali,"['Indian', ' Snacks', ' Desserts']",4.6,41.0, ,0
+1172,1177,Rolls & Many More,Borivali,['Burgers'],3.3,46.0, ₹250 OFF ABOVE ₹999,999
+1173,1178,La pizza house,Dahisar west,"['Fast Food', ' Snacks', ' Pizzas', ' Maharashtrian']",3.3,43.0, ,0
+1174,1179,Trunks & Leaves,Kandivali West,"['Chinese', ' Italian', ' Mexican', ' Indian', ' Kebabs', ' Tandoor', ' Biryani']",4.1,46.0, ₹100 OFF ABOVE ₹999,999
+1175,1180,KOFU - Premium Artisanal Icecreams,Jog Gor East,['Ice Cream'],3.6,41.0, ₹175 OFF ABOVE ₹449,449
+1176,1181,IceCream Cake City,Malad Kan West,"['Bakery', ' Beverages']",4.2,45.0, ,0
+1177,1182,Oye Lucky Paratha,Malad West,"['Indian', ' Punjabi', ' Beverages']",3.8,51.0, ,0
+1178,1183,Adventure Momo House,Malad Kan West,['Chinese'],4.1,51.0, ,0
+1179,1184,Reuben Restrobar,Malad Kan West,"['North Indian', ' Chinese', ' Italian', ' Snacks', ' Biryani', ' Desserts', ' Continental', ' Pizzas', ' Salads', ' Beverages', ' Mughlai']",4.2,59.0, ,0
+1180,1185,Wu Momos - Malad,Malad Kan West,"['Chinese', ' Snacks']",3.8,49.0, ₹100 OFF ABOVE ₹749,749
+1181,1186,Aradhana Hotel,Malad Kan West,"['South Indian', ' Indian']",4.2,42.0, ,0
+1182,1187,Trends,Malad West,"['Indian', ' Chinese']",4.4,56.0, ,0
+1183,1188,Conscious Baking Project,Jog Gor East,"['Bakery', ' Desserts']",3.5,42.0, ,0
+1184,1189,Paanjo Taste,Borivali West,"['Pizzas', ' Fast Food']",4.3,43.0, ,0
+1185,1190,Bhor,Jog Gor West,['Indian'],4.6,61.0, ,0
+1186,1191,Kung Fu,Kandivali West,"['Chinese', ' Pan-Asian', ' Continental', ' Asian']",3.7,42.0, ₹125 OFF ABOVE ₹249,249
+1187,1192,Crust & Buns,Borivali West,"['Pizzas', ' Fast Food', ' Italian', ' Salads']",4.1,51.0, ₹250 OFF ABOVE ₹999,999
+1188,1193,Kababi Nation,Borivali,"['Indian', ' Chinese', ' Tandoor', ' Biryani']",4.4,59.0, ,0
+1189,1194,Deepak Chinese Corner,Malad Kan West,['Chinese'],,60.0, 20% OFF ABOVE ₹700,700
+1190,1195,Tight House,Borivali West,"['Pizzas', ' Chinese', ' Indian', ' Beverages', ' Biryani']",4.0,59.0, ,0
+1191,1196,Chulha  Sardari,Borivali West,"['North Indian', ' Punjabi', ' Biryani', ' Chinese', ' Indian']",4.6,45.0, ,0
+1192,1197,Yo Social Cafe,Malad Kan West,"['Indian', ' North Indian', ' Chinese', ' Biryani', ' Pastas', ' Snacks']",,61.0, ,0
+1193,1198,Curry N Fry,Malad East,"['Biryani', ' Chinese', ' Tandoor', ' North Indian']",4.1,52.0, ₹175 OFF ABOVE ₹449,449
+1194,1199,Hot Grill,Dahisar,"['North Indian', ' Biryani']",,43.0, ,0
+1195,1200,CBC Chinese By Choice,Malad Kan East,"['Chinese', ' Thai', ' Asian', ' Beverages']",3.8,50.0, 30% OFF UPTO ₹150,150
+1196,1201,The Little Cakery,Jog Gor East,"['Bakery', ' Desserts']",3.3,52.0, ,0
+1197,1202,Shree Shankar Vilas Juice Centre,Dahisar,['Beverages'],,41.0, ,0
+1198,1203,Salads@169,Malad Kan West,['Salads'],4.3,52.0, 25% OFF UPTO ₹125,125
+1199,1204,Chavdar Thamba,Mira Road,"['Indian', ' Thalis']",,48.0, ₹80 OFF ABOVE ₹499,499
+1200,1205,Joker Joe s pizza,Jog Gor East ,"['Italian', ' Beverages']",4.0,61.0, ₹250 OFF ABOVE ₹999,999
+1201,1206,Sandwich And Frankey House,Jog Gor East,"['Fast Food', ' Snacks', ' Italian-American', ' Beverages']",,53.0, ,0
+1202,1207,Marve Bakery,Malad Kan West,"['North Indian', ' Chaat']",,48.0, ,0
+1203,1208,Idaily - Idli Daily,Malad Kan West,"['South Indian', ' Snacks', ' Indian', ' Beverages']",,51.0, ,0
+1204,1209,Grow More Snacks(Maitri Amruttulya),Malad Kan West,['Beverages'],,46.0, ,0
+1205,1210,Mudras,Borivali,"['Pizzas', ' Fast Food', ' Beverages', ' Indian']",3.8,43.0, ,0
+1206,1211,Sunday The Comfort Kitchen,Borivali,"['Chinese', ' Continental', ' Indian', ' Goan', ' Italian', ' Salads']",5.0,46.0, ,0
+1207,1212,Shivansh Kitchen,Kandivali West,"['South Indian', ' Beverages', ' Snacks']",4.8,66.0, ,0
+1208,1213,The Live Cake Shop,Kandivali West,['Desserts'],4.2,47.0, ,0
+1209,1214,Rasoi kamaal,Goregaon,"['Malwani', ' Chinese', ' North Indian']",4.2,54.0, 20% OFF ABOVE ₹700,700
+1210,1215,Masterji - Surati Anda Gotala,Borivali,"['Indian', ' Gujarati']",4.3,45.0, ,0
+1211,1216,Momos & Waffle Cafe,Borivali,"['Chinese', ' Kebabs']",3.8,51.0, 30% OFF UPTO ₹150,150
+1212,1217,AADI GRAND RESTAURANT,Borivali,['Indian'],,46.0, ,0
+1213,1218,Brahmi-The Veg Bistro,Malad East,"['Biryani', ' Indian', ' Chinese', ' Beverages']",3.5,40.0, ₹175 OFF ABOVE ₹449,449
+1214,1219,Namaste Borivali,Borivali,"['Snacks', ' Beverages']",4.3,41.0, ₹250 OFF ABOVE ₹999,999
+1215,1220,Chaska Corner,Malad Kan West,['Biryani'],,47.0, ₹250 OFF ABOVE ₹999,999
+1216,1221,Dharma Sandwich,Malad Kan East,['Fast Food'],2.6,53.0, ,0
+1217,1222,Manojs Ice Cream,Kandivali West,['Ice Cream'],4.7,42.0, ,0
+1218,1223,Food Lover Point,Goregaon,['Indian'],3.5,52.0, ,0
+1219,1224,Shiv Shakti,Borivali West,['North Indian'],3.6,51.0, 10% OFF ABOVE ₹1000,1000
+1220,1225,Suyog Dining Bar,Dahisar,"['Indian', ' Chinese']",4.6,41.0, ,0
+1221,1226,81 Olives,Borivali,['Pizzas'],3.4,45.0, ,0
+1222,1227,Remi'S Kitchen,Malad Kan East,"['Jain', ' Chinese', ' Tibetan']",5.0,41.0, ,0
+1223,1228,Aqua Dhaba,Dahisar,"['Indian', ' Chinese', ' Biryani']",,47.0, 20% OFF UPTO ₹120,120
+1224,1229,Healthy Shawarma,Borivali,['Arabian'],3.6,40.0, ₹250 OFF ABOVE ₹999,999
+1225,1230,Oriv Resto - Cafe - Bar,Borivali,"['Chinese', ' Pizzas', ' Snacks', ' Pastas']",4.3,56.0, ₹100 OFF ABOVE ₹999,999
+1226,1231,Delights,Mira Road,"['Bakery', ' Desserts']",,47.0, ,0
+1227,1232,Nagori tea and cold drinks shop,Malad Kan West,"['Beverages', ' Snacks']",4.5,42.0, ₹150 OFF ABOVE ₹749,749
+1228,1233,Delhi Sweet & Bhelpuri House,Malad West,"['Snacks', ' Sweets', ' Chaat', ' Street Food']",3.7,46.0, ,0
+1229,1234,Shri Sainath,Malad West,"['Chinese', ' Tandoor']",4.8,46.0, ,0
+1230,1235,Backyard Beer Garden,Dahisar,['Chinese'],,50.0, ,0
+1231,1236,Donna's Pizza,Kandivali West,['Pizzas'],4.0,43.0, ,0
+1232,1237,Gourmet Veg Burgers By Spukies,Jog Gor East,"['Burgers', ' American', ' Beverages']",4.9,55.0, ,0
+1233,1238,Kabali,Malad Kan West,"['Indian', ' Tandoor', ' Salads']",4.1,67.0, ₹250 OFF ABOVE ₹999,999
+1234,1239,Gossip Corner,Borivali West,"['Continental', ' Italian']",4.4,46.0, ₹100 OFF ABOVE ₹999,999
+1235,1240,Rajdhani Caterers,Dahisar West,['Indian'],2.4,53.0, ,0
+1236,1241,Dave's Dal Dhokli,Dahisar West,"['Gujarati', ' Rajasthani', ' Maharashtrian']",4.7,60.0, ,0
+1237,1242,Plate - It,Borivali,"['Biryani', ' Italian']",4.0,62.0, ₹125 OFF ABOVE ₹499,499
+1238,1243,Squares Pizza and Cafe,Malad West,"['Italian', ' Pizzas']",4.3,52.0, ,0
+1239,1244,Sriya chinese Restaurant,Kandivali West,"['Chinese', ' North Indian', ' Indian', ' Beverages']",3.5,46.0, 25% OFF ABOVE ₹600,600
+1240,1245,Shanghai Chinese Pure Veg,Dahisar East,['Chinese'],3.8,51.0, ₹250 OFF ABOVE ₹999,999
+1241,1246,Jumboking Indain Burger,Malad Kan West,"['Burgers', ' Snacks', ' Beverages']",4.0,46.0, ₹175 OFF ABOVE ₹449,449
+1242,1247,Annalaxmi Snacks ,Jog Gor East,"['Chinese', ' South Indian', ' Tandoor', ' Arabian', ' Fast Food']",3.9,52.0, 20% OFF ABOVE ₹1000,1000
+1243,1248,M/S. Aslam Chicken,Mira Road,"['North Indian', ' Kebabs', ' Desserts']",3.4,47.0, ,0
+1244,1249,Dharmu's Snacks Corner,Borivali,"['Snacks', ' Maharashtrian']",4.2,50.0, ,0
+1245,1250,Aaradhya Super Restaurant,Malad Kan East,['Beverages'],,30.0, ,0
+1246,1251,New Cake Place,Borivali,['Bakery'],,32.0, ,0
+1247,1252,Bounty The Cake Stop,Borivali,"['Bakery', ' Desserts']",4.1,32.0, ,0
+1248,1253,SHRINATH SWEETS AND SNACKS,Borivali,['Sweets'],,27.0, ,0
+1249,1254,Bombay Blues Icecream,Borivali,"['Ice Cream', ' Desserts', ' Sweets']",,32.0, ,0
+1250,1255,SHREE  GANESH SWEET SHOP,Borivali,"['Beverages', ' Fast Food']",,32.0, ,0
+1251,1256,Shreeji Fast Food And juice Center,Borivali,"['Beverages', ' Burgers', ' South Indian', ' Fast Food', ' Pizzas', ' Chinese', ' Indian', ' Snacks']",,32.0, 25% OFF UPTO ₹125,125
+1252,1257,Munchies's Thakur Complex,Malad Kan East,"['Beverages', ' Italian']",3.7,33.0, 30% OFF UPTO ₹150,150
+1253,1258,Vrindavan Fine Foods,Malad Kan East,"['Sweets', ' Desserts']",,30.0, ,0
+1254,1259,Food Of Joy,Malad Kan East,"['Italian-American', ' Fast Food', ' Chinese', ' Beverages']",,33.0, 30% OFF UPTO ₹150,150
+1255,1260,Bombay Tea,Borivali,"['Beverages', ' Desserts', ' Bakery']",,32.0, ,0
+1256,1261,Subday Thakur Complex,Malad Kan East,"['Indian', ' Fast Food', ' Beverages']",3.4,33.0, 30% OFF UPTO ₹150,150
+1257,1262,King of juices thakur complex,Malad Kan East,['Juices'],3.7,33.0, 30% OFF UPTO ₹150,150
+1258,1263,Tittaas,Borivali,"['Beverages', ' Ice Cream', ' Desserts']",,31.0, 25% OFF UPTO ₹65,65
+1259,1264,I Am Foodie,Borivali,"['Fast Food', ' Snacks', ' Indian']",,32.0, ₹100 OFF ABOVE ₹499,499
+1260,1265,Shree Narayan Fine Dinning,Borivali,"['South Indian', ' North Indian', ' Chinese', ' Malwani', ' Tandoor']",3.4,33.0, ,0
+1261,1266,Delightful Meals,"Kandivali East, Thakur Village","['Indian', ' Snacks', ' Thalis']",,27.0, ,0
+1262,1267,Bhukkad Thali & Combo,Malad Kan East,"['Thalis', ' Chinese', ' North Indian']",4.4,27.0, 60% OFF UPTO ₹120,120
+1263,1268,Bhukkad Biryani,Malad Kan East,['Biryani'],2.4,28.0, 60% OFF UPTO ₹120,120
+1264,1269,Annapurna Theplahouse & Dry Snacks,Malad Kan East,['Snacks'],,27.0, 30% OFF UPTO ₹75,75
+1265,1270,Parathe Wali Gulli,Malad Kan East,"['North Indian', ' Beverages']",,29.0, ,0
+1266,1271,Eggless Cakes,Dahisar,['Bakery'],,49.0, ,0
+1267,1272,Cake Star,Borivali West,"['Desserts', ' Bakery']",4.4,46.0, ,0
+1268,1273,Fast Food Adda,Borivali,"['Snacks', ' Fast Food']",4.2,51.0, ,0
+1269,1274,Waffles By Di Bella,Malad West,"['Desserts', ' Waffle', ' Ice Cream', ' Bakery', ' Snacks']",4.7,57.0, 10% OFF ABOVE ₹600,600
+1270,1275,Indie Feast By Purple Foods,A K Vaidya Marg,"['Indian', ' Tandoor', ' Kebabs', ' Biryani', ' Beverages', ' Desserts']",3.4,46.0, ₹100 OFF ABOVE ₹599,599
+1271,1276,Cake Story,Borivali,['Bakery'],,42.0, ,0
+1272,1277,Swa Varhadi Misal,Jog Gor West,"['Street Food', ' Beverages']",4.2,48.0, ,0
+1273,1278,Pav Bhaji Company,Rawal Pada,"['Street Food', ' North Indian', ' Juices']",2.5,41.0, ,0
+1274,1279,Soroush Biriyani,Goregaon,"['Biryani', ' Mughlai']",2.8,49.0, 25% OFF UPTO ₹120,120
+1275,1280,Diamond Restaurant,Jog Gor East,"['Chinese', ' Indian', ' Snacks']",4.2,55.0, 10% OFF UPTO ₹100,100
+1276,1281,Bowl Up!,Dahisar East,"['North Indian', ' Sweets']",2.6,41.0, ,0
+1277,1282,The Hot Chinese,Malad East,"['Chinese', ' Thai']",3.1,46.0, 40% OFF UPTO ₹200,200
+1278,1283,Maratha Darbar,Malad East,"['North Indian', ' Chinese', ' Biryani', ' Indian', ' Tandoor', ' Mughlai', ' Thai', ' Continental']",4.1,44.0, 40% OFF UPTO ₹200,200
+1279,1284,Foodie Panda,Dahisar,"['Chinese', ' Burgers', ' Fast Food', ' Snacks', ' Beverages']",,46.0, ,0
+1280,1285,Hot and spicy,Dahisar East,"['Chinese', ' Indian']",4.2,42.0, ,0
+1281,1286,Bistro & Brew,Kandivali East,"['Italian-American', ' Fast Food', ' Snacks', ' Beverages']",5.0,42.0, 30% OFF UPTO ₹75,75
+1282,1287,Tude - Premium Ice Creams,Kandivali West,"['Desserts', ' Beverages']",4.0,35.0, ,0
+1283,1288,Saarathi Restaurant And Bar,Malad Kan East,"['Tandoor', ' Chinese', ' North Indian', ' Fast Food']",3.3,36.0, 20% OFF UPTO ₹100,100
+1284,1289,Ambika Vijay Stores,Dahisar,['Sweets'],,34.0, ,0
+1285,1290,Evening Smackers,Borivali,"['Fast Food', ' Pizzas', ' Snacks']",,35.0, ,0
+1286,1291,Oh Indian,Kandivali West,"['Kebabs', ' Indian']",,34.0, ,0
+1287,1292,Avantika Chennai Cafe,Borivali,"['South Indian', ' Beverages']",,35.0, ,0
+1288,1293,"Deepak Sweets, Farsan & Dry Fruits",Borivali,"['Desserts', ' Snacks']",,37.0, ,0
+1289,1294,Chatisfied,Borivali,"['Snacks', ' Street Food', ' Beverages']",2.3,35.0, ,0
+1290,1295,Bangg On Bakes,Malad Kan West,"['Bakery', ' Cakes and Pastries', ' Desserts']",,35.0, 25% OFF ABOVE ₹500,500
+1291,1296,Khaugalli bahuballi,Malad Kan West,['South Indian'],,35.0, ,0
+1292,1297,Mumbai Chinese Point,Kandivali East,['Chinese'],3.3,36.0, 20% OFF ABOVE ₹159,159
+1293,1298,The Royal Surprise,Malad Kan East,['Bakery'],,38.0, ,0
+1294,1299,Asha Restaurant  Chaitanya Restaurant,BORIVALI,"['Indian', ' Tandoor', ' Seafood']",3.7,36.0, ,0
+1295,1300,Lal Tadka,Mahavir Nagar,"['North Indian', ' Asian', ' Italian', ' Beverages']",3.5,36.0, ,0
+1296,1301,Anand dairy farm,Borivali,"['Snacks', ' Desserts']",4.0,36.0, ,0
+1297,1302,Thaliwaala,Malad Kan East,"['Indian', ' Thalis', ' Snacks']",,34.0, ,0
+1298,1303,Geebees Appetites,Kandivali East,"['North Indian', ' Chinese', ' Tibetan']",4.0,34.0, ,0
+1299,1304,Roti and Grill Catering,Malad Kan East,['Indian'],,34.0, 20% OFF UPTO ₹50,50
+1300,1305,Aaurum Family Restaurant And Bar,Borivali,"['North Indian', ' Tandoor', ' Chinese', ' Snacks']",4.0,34.0, ,0
+1301,1306,Shawarma Shark,Malad Kan West,"['Chinese', ' Indian', ' Pizzas', ' Burgers']",,35.0, ,0
+1302,1307,Half Plate Chinese,Borivali,"['Chinese', ' Street Food']",3.8,34.0, ,0
+1303,1308,Bitchy Burgers,Kandivali West,"['American', ' Snacks']",,34.0, ,0
+1304,1309,The Heavens Cake Shop,Malad Kan East,['Bakery'],4.1,39.0, ,0
+1305,1310,Shital's Kitchen,Borivali,"['Fast Food', ' Thalis']",,34.0, ,0
+1306,1311,B K C Kitchen,Borivali,"['Indian', ' Chinese']",3.4,34.0, ,0
+1307,1312,Manoj dosa,Borivali,['South Indian'],2.3,36.0, ,0
+1308,1313,Bytes Momos,Borivali,['Chinese'],,35.0, ,0
+1309,1314,S.V. Kitchen,Malad kan east,['North Indian'],,39.0, ,0
+1310,1315,JAYASHREE MISAL & SNACKS (JMS),Kandivali West,"['Indian', ' Snacks']",,34.0, ,0
+1311,1316,Krem Icecreams,Borivali,['Ice Cream'],,34.0, ₹125 OFF ABOVE ₹249,249
+1312,1317,Tummy Time,Borivali,['Indian'],,35.0, ,0
+1313,1318,Cheese leela,Borivali,"['Fast Food', ' Burgers', ' Pizzas', ' Snacks', ' Salads']",,36.0, 10% OFF ABOVE ₹350,350
+1314,1319,Flavour stones,Borivali West,['Ice Cream'],4.6,31.0, ,0
+1315,1320,Best Canteen,Borivali,['Indian'],,32.0, ,0
+1316,1321,Chow By Mexichino,Borivali,['Chinese'],3.8,32.0, ,0
+1317,1322,Fusion Ice Cream House,Kandivali West,"['Bakery', ' Desserts', ' Ice Cream']",4.9,29.0, ₹100 OFF ABOVE ₹999,999
+1318,1323,Finom Cake Stop,Borivali,['Bakery'],3.4,31.0, 15% OFF ABOVE ₹1000,1000
+1319,1324,Hirral Z Sweet Treats9,Borivali,"['Bakery', ' Desserts']",,32.0, ,0
+1320,1325,High on Cafe,Malad Kan East,"['Indian', ' Juices', ' Beverages']",,41.0, ,0
+1321,1326,Bombay Bytes,Borivali West,['Indian'],3.9,41.0, ,0
+1322,1327,Brishti chinese and lunch home,Kandivali East,['Indian'],3.1,40.0, ,0
+1323,1328,Panchayat - The Kulhad Cafe,Borivali West,"['Indian', ' Italian', ' Beverages']",4.4,40.0, ,0
+1324,1329,Chowrangee Cafe,Malad Kan East,"['Chinese', ' Bengali', ' Fast Food']",4.3,41.0, 10% OFF UPTO ₹40,40
+1325,1330,Fast Food Carnival,Malad Kan East,"['Pizzas', ' Beverages', ' Burgers', ' Pastas', ' Barbecue']",,41.0, ,0
+1326,1331,Ignite Pan Shop And General Store,Borivali,['Paan'],4.4,42.0, 20% OFF UPTO ₹120,120
+1327,1332,Jai Ambe Fast Food,Borivali,"['Fast Food', ' Pizzas', ' Waffle', ' Snacks', ' Beverages']",,53.0, ,0
+1328,1333,MMD Cafe Village,Malad Kan East,"['Beverages', ' Pizzas', ' Fast Food', ' Chinese', ' Italian']",,26.0, ,0
+1329,1334,Khao piyo junction,Malad Kan East,"['Chinese', ' Indian', ' Malwani', ' Biryani']",,25.0, ,0
+1330,1335,Flavour Fushion,Malad Kan East,['Burgers'],,27.0, 40% OFF ABOVE ₹159,159
+1331,1336,The Bun Bites,Malad Kan West,"['Bakery', ' Desserts']",,29.0, 20% OFF UPTO ₹120,120
+1332,1337,Mumbai Cake Company,Malad Kan East,"['Bakery', ' Desserts']",,23.0, ₹100 OFF ABOVE ₹999,999
+1333,1338,Mahakal Matka Kulfi,Malad Kan West,['Beverages'],,25.0, ,0
+1334,1339,THALIVERY FOOD,Malad Kan East,"['Indian', ' Snacks', ' Fast Food']",,26.0, ,0
+1335,1340,Baithak - Taste of Kulhad,"Thakur Village, Kandivali (East)","['Beverages', ' Italian-American', ' Fast Food', ' Chinese', ' Snacks']",,31.0, ,0
+1336,1341,Biryani Daawat,Malad Kan East,"['Biryani', ' Beverages', ' Indian']",4.1,30.0, 50% OFF UPTO ₹100,100
+1337,1342,Rocky Rolls Cafe,Malad Kan East,"['Fast Food', ' Snacks']",4.2,24.0, ,0
+1338,1343,Starwar Pizza,Malad Kan East,"['Chinese', ' Italian', ' Burgers', ' Pizzas', ' Desserts', ' Pastas']",4.4,26.0, 50% OFF UPTO ₹100,100
+1339,1344,Reena's Parathas,Malad Kan East,"['Indian', ' Italian']",,26.0, 30% OFF UPTO ₹150,150
+1340,1345,Delicious Cake Shop,Malad Kan East,"['Bakery', ' Desserts']",,28.0, 10% OFF UPTO ₹40,40
+1341,1346,Madhurika's Kitchen,Malad Kan East,"['North Indian', ' South Indian', ' Snacks', ' Beverages']",3.5,27.0, ₹250 OFF ABOVE ₹999,999
+1342,1347,Veg Pizza-2X Topping,Malad Kan East,['Indian'],,26.0, 50% OFF UPTO ₹100,100
+1343,1348,Tuk Tuk,Malad Kan East,"['Chinese', ' Fast Food']",,25.0, ,0
+1344,1349,Foodys guys,Malad Kan East,"['Indian', ' Chinese', ' Mughlai', ' Tandoor', ' Arabian', ' Biryani']",,26.0, ,0
+1345,1350,MOGO Pizza,Kandivali East,"['Pizzas', ' Burgers', ' Chinese', ' Desserts', ' Pastas', ' Italian']",4.4,24.0, 50% OFF UPTO ₹100,100
+1346,1351,Oven Bake Pizza,Malad Kan East,['Pizzas'],,24.0, 50% OFF UPTO ₹100,100
+1347,1352,Hotel Sheetal Picnic,Borivali East,"['North Indian', ' Thalis', ' Biryani']",2.8,27.0, ,0
+1348,1353,Baskin Robbins Food Court,Malad Kan East,['Ice Cream'],,25.0, ,0
+1349,1354,Om Sai Sandwich Corner,Malad Kan East,"['Fast Food', ' Pizzas']",4.5,26.0, ,0
+1350,1355,Quenchers By Uk,Malad Kan East,"['Bakery', ' Desserts', ' Indian']",,24.0, ,0
+1351,1356,Maa Sita Rasoi,Malad Kan East,['Indian'],,25.0, ,0
+1352,1357,All Seasons Kitchen and Bar,Borivali,"['North Indian', ' Chinese', ' Biryani', ' Tandoor', ' Thai', ' Chaat', ' Indian', ' Desserts']",3.9,30.0, ,0
+1353,1358,Meethi Elaichi,Malad Kan East,"['Desserts', ' Sweets', ' Beverages']",5.0,25.0, 30% OFF UPTO ₹150,150
+1354,1359,Nityanand Chinese,Malad Kan East,"['Indian', ' Chinese']",,30.0, ,0
+1355,1360,Green Dot Momos,Borivali,"['Asian', ' Tibetan', ' Desserts', ' Beverages']",,36.0, ₹125 OFF ABOVE ₹249,249
+1356,1361,Happy Da Paratha,Rawal Pada,['Indian'],2.7,41.0, ,0
+1357,1362,Purple Foods,Malad East,"['Indian', ' Tandoor', ' Biryani', ' Desserts', ' Beverages']",4.2,49.0, ₹100 OFF ABOVE ₹599,599
+1358,1363,Masterchef Kitchen,Malad Kan East,"['Chinese', ' Asian', ' Thai']",3.5,44.0, 30% OFF UPTO ₹150,150
+1359,1364,Flavours Of Biryani,Malad Kan West,"['Biryani', ' Tandoor', ' Kebabs']",3.4,49.0, ,0
+1360,1365,Egg Free Cakes,Mira Road,"['Bakery', ' Desserts']",,49.0, ,0
+1361,1366,Celebration Special by CakeZone,L T Road Junction,"['Bakery', ' Desserts']",3.7,41.0, ₹175 OFF ABOVE ₹699,699
+1362,1367,Spicy Chicken,Malad Kan West,['North Indian'],,53.0, ,0
+1363,1368,The J's Pizza,Rawal Pada,"['Pizzas', ' Pastas']",,41.0, ,0
+1364,1369,Fud Boy,Malad Kan West,"['Biryani', ' Indian', ' Kebabs', ' Beverages']",,51.0, 30% OFF UPTO ₹150,150
+1365,1370,Momoya,Rawal Pada,['Chinese'],,41.0, ,0
+1366,1371,Wandercrust,Goregaon East,"['Pizzas', ' Italian']",3.9,49.0, 25% OFF UPTO ₹120,120
+1367,1372,Swaad Snacks and Namkeen,Borivali,['Indian'],4.4,37.0, ,0
+1368,1373,Lucky chinese center,Dahisar,['Chinese'],,39.0, ,0
+1369,1374,Das Chilly Chinese,Dahisar,['Chinese'],,39.0, ,0
+1370,1375,Raja Vada Pav Goregaon Wala,Borivali,"['Snacks', ' Fast Food']",3.9,37.0, ,0
+1371,1376,Sandy's Thick Shake,Borivali,"['Desserts', ' Beverages']",2.4,37.0, ,0
+1372,1377,hotel shri krishna,Borivali,"['South Indian', ' North Indian', ' Chinese', ' Beverages', ' Snacks']",,37.0, ,0
+1373,1378,Hem-The Cake Shop,Kandivali West,['Desserts'],3.6,39.0, ,0
+1374,1379,Zero Gravity ( Boriwali ),Borivali,['Indian'],2.6,39.0, ,0
+1375,1380,The Pastelworks Co. Malad,Malad East,['Bakery'],3.9,38.0, 30% OFF UPTO ₹150,150
+1376,1381,Kulchizza Factory,Borivali,"['North Indian', ' Chinese', ' Fast Food']",,37.0, ,0
+1377,1382,GURU KRUPA JUICE CENTER,Borivali,"['Beverages', ' Juices']",,38.0, ,0
+1378,1383,Indocafe,Borivali,"['Continental', ' Mexican', ' Italian', ' Desserts', ' Beverages']",2.8,37.0, ,0
+1379,1384,Cafe Bahar Restaurant,Malad Kan East,"['Biryani', ' Arabian', ' Chinese', ' North Indian']",3.8,38.0, ,0
+1380,1385,The Pavilion Bar And Resturant,ajanta shoping center,"['North Indian', ' Biryani', ' Seafood', ' Chinese', ' Tandoor', ' Kebabs']",4.1,39.0, ,0
+1381,1386,Twist and Taste,Borivali,"['Chinese', ' Snacks']",,39.0, ,0
+1382,1387,My Choice Franky House,Malad Kan West,['Fast Food'],3.7,39.0, ,0
+1383,1388,The Chocolate Chips,Borivali,['Indian'],4.4,34.0, ,0
+1384,1389,Saucy Pasta Cartel,Borivali,['Pastas'],,37.0, ,0
+1385,1390,Momos 8849,Borivali,['Fast Food'],,37.0, ,0
+1386,1391,Veg Curries Of India,Borivali,"['North Indian', ' Chinese', ' Street Food', ' Mughlai', ' Tandoor', ' Kebabs', ' Punjabi', ' Biryani', ' Snacks']",4.5,37.0, ,0
+1387,1392,Chef De Partie,Dahisar,"['Bakery', ' Beverages', ' Desserts']",,34.0, ,0
+1388,1393,Bolbol Burgers,Borivali West,"['Indian', ' Snacks', ' North Indian']",4.2,39.0, ,0
+1389,1394,Buns & Deluchas,Borivali,"['Bakery', ' Desserts']",,34.0, ,0
+1390,1395,BHURAJI SANDWICH,Malad Kan West,"['Fast Food', ' Snacks']",,38.0, ,0
+1391,1396,Hidden Spot Cafe & Resto,Borivali,['Pizzas'],,39.0, ,0
+1392,1397,Thick Shakes Magic- CAD B,Dahisar,['Indian'],,37.0, 30% OFF UPTO ₹150,150
+1393,1398,Ekdum Biryani,Kandivali West,"['Biryani', ' North Indian', ' Mughlai', ' Tandoor', ' Kebabs']",3.9,39.0, 20% OFF ABOVE ₹700,700
+1394,1399,Chaap Central by Punjabi Grill Dhaba,Malad Kan West,['Indian'],3.6,38.0, ,0
+1395,1400,Vicky Chinese,Dahisar,['Chinese'],,37.0, ,0
+1396,1401,Kokan Chinese Corner,Malad Kan West,"['Chinese', ' Snacks']",,36.0, ,0
+1397,1402,Noor Chinese and tandoor,Borivali,['Chinese'],,38.0, ,0
+1398,1403,Shree Samarth Malvani Food'S,Borivali,"['North Indian', ' Indian']",,38.0, ,0
+1399,1404,Chavishtha Ventures Llp,Dahisar,"['Indian', ' Seafood', ' Snacks']",4.1,38.0, ,0
+1400,1405,D Sandwicha & snakes corner,Dahisar,"['Italian', ' Pizzas', ' Snacks']",,37.0, ,0
+1401,1406,Kulfi Bite,Malad Kan West,['Indian'],,34.0, ,0
+1402,1407,Gladmad Pizza,Borivali,"['Italian-American', ' Pizzas', ' Beverages']",4.0,39.0, ,0
+1403,1408,The Elegant Spatula-Creative Cakes n Cookies,Borivali,['Bakery'],,39.0, ,0
+1404,1409,Navkar Mart,Kandivali west,"['Snacks', ' Gujarati']",,38.0, ₹100 OFF ABOVE ₹749,749
+1405,1410,Kings Corner,Dahisar East,['Chinese'],3.4,38.0, ,0
+1406,1411,Miss U Cake N Bake,Malad Kan East,"['Bakery', ' Jain']",,38.0, ,0
+1407,1412,Radha Krishna Pav Bhaji,Borivali,['Indian'],,37.0, ,0
+1408,1413,Shree Mahalaxmi Fast Food & Juice Center,Borivali,"['Chaat', ' Fast Food']",,36.0, ,0
+1409,1414,Gobble Up,Borivali,"['Fast Food', ' Snacks', ' Chinese']",,38.0, ,0
+1410,1415,Shakeoty,Borivali West,['Beverages'],3.9,37.0, ₹100 OFF ABOVE ₹999,999
+1411,1416,Samarth Krupa Chinese Corner Tifin Service,Dahisar,"['North Indian', ' Chinese']",,39.0, ,0
+1412,1417,The Yellow Tadka,Borivali West,"['Indian', ' Chinese', ' Street Food', ' Thalis', ' Biryani', ' Tandoor']",,38.0, ,0
+1413,1418,Sainath Hotel,Dahisar,"['Chinese', ' North Indian', ' South Indian']",2.8,39.0, ,0
+1414,1419,The Indian Gourmet Kitchen,Malad Kan East,"['Indian', ' Mughlai']",4.7,39.0, 50% OFF UPTO ₹100,100
+1415,1420,Tea Pea Cafe Borivali(W),Borivali West,"['Indian', ' Fast Food', ' Italian-American', ' Snacks', ' Waffle']",4.5,55.0, ,0
+1416,1421,Aromas Bingee,LOKMANYA LIBRARY,"['South Indian', ' Chinese', ' Fast Food']",4.3,44.0, ₹125 OFF ABOVE ₹999,999
+1417,1422,ShreeG,Dahisar,['Chinese'],3.3,45.0, ,0
+1418,1423,Delicious Chinese Cuisine,Dahisar,['Chinese'],2.1,40.0, ,0
+1419,1424,Gupta Juice And Sandwich,Borivali,"['Juices', ' Fast Food', ' Beverages', ' Snacks', ' Pastas']",,44.0, ,0
+1420,1425,Ice Cream Cake Factory,Malad West,['Ice Cream Cakes'],3.7,47.0, ₹100 OFF ABOVE ₹999,999
+1421,1426,Italiiano,Jog Gor East,"['Pizzas', ' Mexican', ' Italian', ' Pastas', ' Burgers']",,47.0, ,0
+1422,1427,Le Quatre,anupama anand nagar,"['Desserts', ' Bakery', ' Snacks']",3.2,51.0, ,0
+1423,1428,Ami Ice-Cream,Malad Kan West,['Desserts'],,45.0, ,0
+1424,1429,Eat Cake Love,Malad Kan West,['Bakery'],,40.0, ,0
+1425,1430,Sai Rameshwar,Borivali,['Chinese'],,40.0, ,0
+1426,1431,Jodhana Zaika,Borivali,"['Chinese', ' Indian', ' Beverages']",,46.0, ,0
+1427,1432,Shree Krishna Family Restaurant & Bar,Dahisar East,"['Indian', ' Chinese', ' Biryani']",,46.0, ,0
+1428,1433,Hunger's Food,Borivali,['Chinese'],2.8,40.0, ,0
+1429,1434,Billy's Burgers,Malad West,"['Fast Food', ' Desserts', ' Beverages']",4.4,51.0, ,0
+1430,1435,Ambrosia Cakes Bakes and Snacks,Kandivali West,"['Bakery', ' Snacks', ' Desserts', ' Continental']",3.9,43.0, 20% OFF ABOVE ₹800,800
+1431,1436,Aarti'S Food Magic,CSR COMPLEX BUILDING NO 14 FLAT NO 201,"['Indian', ' Biryani', ' Beverages']",,48.0, ,0
+1432,1437,Sv Food Hub,Malad East,"['Pizzas', ' Desserts']",3.9,42.0, ,0
+1433,1438,Momo Dynasty,Borivali,['Chinese'],,45.0, ,0
+1434,1439,Quest,Borivali,"['North Indian', ' Chinese', ' Continental', ' Oriental', ' Desserts']",4.4,41.0, ,0
+1435,1440,Nutrii Chef,Malad Kan West,"['Salads', ' Healthy Food']",3.6,47.0, 25% OFF UPTO ₹125,125
+1436,1441,Fresh Rasoi,Malad Kan West,"['Indian', ' Chinese', ' Beverages', ' Desserts', ' Biryani']",,57.0, ,0
+1437,1442,Chinese & Momos Express,Malad Kan East,"['Chinese', ' Combo']",4.5,49.0, 40% OFF UPTO ₹200,200
+1438,1443,Borivali Healthy Juices,Borivali,"['Juices', ' Beverages', ' Fast Food', ' Snacks', ' Pastas']",,53.0, ,0
+1439,1444,Me Chinese!,Malad East,"['Chinese', ' Thai', ' Arabian']",,59.0, 40% OFF UPTO ₹200,200
+1440,1445,Ram'S Radhe Krishna Cafe,Malad Kan West,['South Indian'],,52.0, ,0
+1441,1446,Umesh sandwich,Borivali,['Fast Food'],,40.0, ,0
+1442,1447,Svvad Kitchen,Borivali,"['Chinese', ' Pastas', ' Snacks']",,40.0, ,0
+1443,1448,Chinese Walla,Borivali,['Indian'],,43.0, ,0
+1444,1449,Mozzarella Pizza Hub,Malad East,"['Pizzas', ' Snacks', ' Italian']",4.0,44.0, ,0
+1445,1450,Sai Jee Amruttulya & Snacks,Malad Kan West,['Chinese'],,52.0, 20% OFF UPTO ₹120,120
+1446,1451,Festive The Cake Shop,Malad East,['Desserts'],4.1,43.0, ,0
+1447,1452,Sai Darbar Hotel,Dahisar,"['Chinese', ' Indian', ' Biryani']",,47.0, ,0
+1448,1453,Big Bro'S Pizza,Malad Kan East,"['Pizzas', ' Burgers', ' Chinese', ' Snacks']",,43.0, ,0
+1449,1454,The Waffle Box,Malad Kan West,['Waffle'],4.0,70.0, ₹250 OFF ABOVE ₹999,999
+1450,1455,Bakewills Boulangerie And Cafe,Borivali east,"['Fast Food', ' Chinese', ' Burgers']",,45.0, ,0
+1451,1456,Gopi Breakfast Point,Borivali,"['Chinese', ' Beverages', ' Bakery']",,43.0, 20% OFF ABOVE ₹700,700
+1452,1457,Warm Baker s World,Borivali West,['Bakery'],,44.0, ,0
+1453,1458,Secret Multicuisine Restaurant,Mira Road,"['North Indian', ' Chinese', ' Biryani', ' Mughlai', ' Punjabi', ' Seafood', ' Beverages']",3.6,47.0, ,0
+1454,1459,P Hand Coffee,Malad Kan West,"['Beverages', ' Pizzas', ' South Indian']",,46.0, ,0
+1455,1460,Hunger Tea Cafe,Borivali,"['Beverages', ' Snacks', ' Fast Food', ' Pizzas', ' Desserts']",,46.0, ,0
+1456,1461,Raccoon kitchen,Malad Kan East,"['North Indian', ' Indian', ' Biryani']",4.9,48.0, ,0
+1457,1462,Red yellow restaurant,Jog Gor East,"['North Indian', ' Chinese', ' Biryani']",,55.0, ,0
+1458,1463,Mahesh Fine Dine,Borivali,"['Indian', ' Fast Food']",3.5,45.0, ,0
+1459,1464,Fizzy,Borivali,"['Snacks', ' Beverages']",4.2,43.0, ,0
+1460,1465,Western Burger,Malad Kan West,"['Chinese', ' Burgers', ' Pizzas']",,51.0, ,0
+1461,1466,J3Pizzaa,Jog Gor East,"['Italian', ' Pizzas']",3.8,54.0, ,0
+1462,1467,Miami Waffles & Jawbreakers,Malad West,"['Waffle', ' Desserts', ' Beverages']",4.0,48.0, ₹175 OFF ABOVE ₹449,449
+1463,1468,Chaat Pat Snackks,Malad Kan East,"['Snacks', ' Fast Food', ' Chinese', ' Beverages']",5.0,43.0, ,0
+1464,1469,Fast Food And Beverage's,Malad Kan West,"['Beverages', ' Snacks', ' Pizzas', ' Fast Food']",,49.0, ,0
+1465,1470,12th Pass Coffee And Tea,Malad Kan West,"['Beverages', ' Chinese', ' Burgers']",,47.0, ,0
+1466,1471,Aranyam Fine Dine & Bar,Goregaon East,"['North Indian', ' Chinese', ' Biryani']",,63.0, ₹175 OFF ABOVE ₹449,449
+1467,1472,Quick Kukkad,Borivali,"['Snacks', ' Kebabs', ' Tandoor']",4.7,40.0, 20% OFF UPTO ₹100,100
+1468,1473,Veganiza,Malad East,"['Snacks', ' Pastas']",5.0,45.0, ,0
+1469,1474,Rashmin Patisserie & Savory,Malad Kan East,"['Bakery', ' Desserts']",,40.0, ,0
+1470,1475,Red Dots,Jog Gor East,"['North Indian', ' Chinese', ' Biryani']",2.9,55.0, ,0
+1471,1476,Tanisha Dry Fruits,Malad Kan West,['Indian'],,52.0, ,0
+1472,1477,Cooper's Home Kitchen,Malad Kan West,"['Biryani', ' South Indian', ' Continental', ' Chinese']",,51.0, ,0
+1473,1478,Cooper's Bakery,Malad Kan West,"['Bakery', ' Fast Food', ' Snacks']",,50.0, ,0
+1474,1479,Steam 99,Jog Gor East,"['Chinese', ' Fast Food', ' Beverages']",,60.0, ,0
+1475,1480,2? Cakes,Jog Gor East,['Bakery'],,52.0, ,0
+1476,1481,Frosting the cake shop,Malad Kan East,['Bakery'],,42.0, ,0
+1477,1482,Shree Krishnas Kitchen,Dahisar,"['North Indian', ' Indian']",,42.0, 15% OFF UPTO ₹100,100
+1478,1483,Dim Shi,Borivali,"['Asian', ' Chinese']",3.7,54.0, ,0
+1479,1484,7 Layers,Malad Kan West,['Bakery'],,42.0, ,0
+1480,1485,Dreams & Beans Coffee,Malad Kan West,['Beverages'],,49.0, ,0
+1481,1486,Jain Dugdhaly,Malad Kan East,"['Bakery', ' Sweets']",,42.0, ,0
+1482,1487,Chow Mi Adda Chinese And Momos Corner,Malad Kan West,"['Chinese', ' Thai', ' Asian']",,51.0, ,0
+1483,1488,D'aromas Coffee,Malad West,['Beverages'],,49.0, ₹100 OFF ABOVE ₹499,499
+1484,1489,Forks & Spoons,Malad Kan East,"['Pizzas', ' Chinese', ' Pastas', ' Beverages', ' Fast Food', ' Burgers']",,42.0, ,0
+1485,1490,Vishal Chinese Corner,Malad Kan East,['Chinese'],,40.0, ,0
+1486,1491,Dessert 99,Borivali,"['Waffle', ' Desserts', ' Beverages']",,44.0, ,0
+1487,1492,Gosssip Corner - Cafe Resto,Dahisar,['Indian'],,46.0, ,0
+1488,1493,Havmor Ice Cream Parlour,Borivali,['Ice Cream'],,47.0, ,0
+1489,1494,The Spice Of Mumbai,Malad West,"['North Indian', ' Chinese']",3.3,63.0, ,0
+1490,1495,Brijwasi Mart,Mira Road,"['Waffle', ' Desserts', ' Snacks', ' Beverages']",2.8,55.0, ₹150 OFF ABOVE ₹749,749
+1491,1496,Caky Bakey,Borivali,['Bakery'],,42.0, ₹100 OFF ABOVE ₹499,499
+1492,1497,Gully Dosa,Jog Gor West,"['South Indian', ' Street Food']",3.9,51.0, ,0
+1493,1498,Kadam Bandhu,Dahisar,['Fast Food'],,41.0, ,0
+1494,1499,King Bhujing Biryani Corner,Borivali,"['Biryani', ' North Indian']",4.3,42.0, ,0
+1495,1500,Pizza Rride,Malad East,"['Pizzas', ' Continental']",4.1,44.0, ,0
+1496,1501,R.K Food Hub,Borivali,"['Fast Food', ' Chinese', ' Snacks', ' Beverages']",4.5,43.0, ,0
+1497,1502,Biryani And Spice,Malad Kan West,"['Biryani', ' Mughlai', ' North Indian']",4.9,47.0, ₹100 OFF ABOVE ₹749,749
+1498,1503,Quarter Castle Resto Bar,Malad West,"['Continental', ' Chinese', ' Indian', ' Beverages']",3.8,51.0, ,0
+1499,1504,Tandoor Tribes,Borivali,"['Snacks', ' Tandoor']",3.1,40.0, ,0
+1500,1505,Sunik Foodland,"Kandivali, Malad East","['Desserts', ' Sweets', ' Snacks', ' Pizzas']",,42.0, ,0
+1501,1506,Biryani Flavours,Malad Kan East,"['Biryani', ' Snacks', ' Kebabs', ' Sweets']",3.7,46.0, ,0
+1502,1507,Vadapav And More,Malad West,"['Indian', ' Snacks', ' Chaat', ' Juices', ' Desserts']",2.2,55.0, ₹75 OFF ABOVE ₹300,300
+1503,1508,Exotic Baristo,Dahisar,"['Beverages', ' Pizzas', ' Fast Food', ' Snacks']",,47.0, ,0
+1504,1509,Goregaon Kitchen,Malad Kan East,"['Chinese', ' Snacks', ' Arabian', ' Combo']",2.9,43.0, 30% OFF UPTO ₹150,150
+1505,1510,Ashley Kitchen,Malad Kan West,"['Indian', ' Chinese', ' Biryani']",4.3,47.0, ₹200 OFF ABOVE ₹599,599
+1506,1511,Maa Ashapura Food & Snacks,Malad Kan West,"['Indian', ' Snacks']",3.2,52.0, ,0
+1507,1512,Aum Fine Dine,Kandivali West,['Indian'],3.6,48.0, ,0
+1508,1513,Flavour Junction,Dahisar,"['Chinese', ' North Indian', ' Snacks']",3.8,44.0, ,0
+1509,1514,Swadisht Desi Food,Borivali,"['Burgers', ' Chinese']",,46.0, ,0
+1510,1515,BONG MOYRA,Borivali,"['Sweets', ' Bengali']",3.3,43.0, ,0
+1511,1516,Spice Hut Veg And Non Veg,Dahisar,"['Chinese', ' North Indian', ' Biryani']",2.4,41.0, ,0
+1512,1517,Divine Chinese,Malad West,['Chinese'],4.3,48.0, ,0
+1513,1518,Asian Express,Jog Gor East,"['Chinese', ' Biryani']",4.0,53.0, ₹150 OFF ABOVE ₹999,999
+1514,1519,Cheesy Kulhad,Malad Kan West,"['Pizzas', ' Fast Food']",,52.0, ,0
+1515,1520,DSF Fast Food,Kandivali West,"['Pizzas', ' Pastas', ' Burgers', ' Fast Food', ' Snacks', ' Italian', ' American']",4.9,45.0, ,0
+1516,1521,Jai Shree Radhe Krishna Soda Pub,Kandivali West,['Beverages'],3.8,42.0, ,0
+1517,1522,Tea Pea Cafe,Malad Kan East,"['Beverages', ' Italian-American', ' Fast Food', ' Snacks', ' Waffle']",,45.0, ,0
+1518,1523,Uncle Chinese Corner,Malad Kan West,"['Indian', ' Fast Food']",,44.0, ,0
+1519,1524,Flavorish The Gourmet Cake Shop,Goregaon East,['Bakery'],,48.0, 50% OFF UPTO ₹250,250
+1520,1525,Peek and boo,Malad Kan West,"['Snacks', ' Fast Food']",,52.0, ,0
+1521,1526,Delecious The Family Restaurant, Malad West,"['Indian', ' Chinese']",,41.0, ,0
+1522,1527,Jaianti Biryani,Borivali,"['Biryani', ' North Indian', ' Salads', ' Hyderabadi']",3.7,57.0, 30% OFF UPTO ₹150,150
+1523,1528,Hunger bell,Malad Kan West,"['Snacks', ' Chinese', ' Tandoor', ' North Indian']",,52.0, ,0
+1524,1529,Damdaar Swaad,Jog Gor West,"['Italian-American', ' Fast Food', ' Snacks', ' Indian']",4.3,49.0, ,0
+1525,1530,Secret Sauce Sandwiches,Borivali West,"['Pizzas', ' Snacks', ' Italian', ' Mexican']",3.3,42.0, ,0
+1526,1531,Chef Chini,Malad Kan West,"['Chinese', ' Fast Food', ' Desserts', ' Beverages']",,52.0, ,0
+1527,1532,All About Cheese,Malad Kan West,"['Fast Food', ' Snacks', ' Pizzas']",5.0,50.0, 10% OFF UPTO ₹100,100
+1528,1533,Size Zero,kandivali,"['Chinese', ' Burgers', ' Pizzas', ' Pastas', ' Fast Food']",,40.0, 30% OFF UPTO ₹150,150
+1529,1534,Adarsh Refreshment,Malad,['Beverages'],,43.0, ,0
+1530,1535,Asian Tadka,Goregaon,"['Indian', ' Tandoor', ' Thai', ' Chinese']",3.4,55.0, ,0
+1531,1536,JUICE BUDDY,Borivali,['Beverages'],,40.0, ,0
+1532,1537,Oh! Pizzaz,Malad Kan West,"['Beverages', ' Snacks']",,42.0, ,0
+1533,1538,Dairy Naturals,Malad Kan West,"['Ice Cream', ' Desserts']",,53.0, ,0
+1534,1539,High On Waffle,Malad Kan West,"['North Indian', ' Bakery']",,49.0, ,0
+1535,1540,Faloodah By Purple Foods,Malad,"['Beverages', ' Desserts']",2.5,46.0, ,0
+1536,1541,The Noisy Cake,Jog Gor East,['Bakery'],4.4,64.0, ,0
+1537,1542,Bombay Shakers,Malad Kan West,['Beverages'],,50.0, ,0
+1538,1543,Sliders Bell,Borivali West,"['Snacks', ' Beverages']",4.4,42.0, ,0
+1539,1544,Matoshree Chinese & Fast Food,Malad Kan West,['Chinese'],4.0,61.0, ,0
+1540,1545,Navaratna Kitchen & Bar,Borivali,"['North Indian', ' Chinese', ' South Indian', ' Tandoor', ' Seafood']",,46.0, 20% OFF ABOVE ₹700,700
+1541,1546,Upperdeck Bistro,Malad Kan West,"['Beverages', ' Burgers', ' Pastas', ' Snacks']",4.2,45.0, 10% OFF UPTO ₹100,100
+1542,1547,Sweet Cakes & More,Malad West,"['Bakery', ' Desserts']",3.0,58.0, ₹250 OFF ABOVE ₹999,999
+1543,1548,Meenakshi Bar And Restaurant,Jog Gor East,"['Chinese', ' North Indian', ' Indian', ' Snacks']",,43.0, ,0
+1544,1549,Bombar,Jog Gor West,"['Italian', ' Chinese', ' Tandoor']",4.8,56.0, ,0
+1545,1550,Malvani Masala,Borivali,"['Indian', ' North Indian']",2.8,62.0, 20% OFF ABOVE ₹700,700
+1546,1551,Ruchira's Food Hub,Borivali,"['Chinese', ' American']",,41.0, ,0
+1547,1552,Neelam Garden,Borivali,"['North Indian', ' Chinese', ' Biryani']",,41.0, ,0
+1548,1553,Angel Cake Shop,Malad Kan East,['Bakery'],,46.0, ,0
+1549,1554,Mogazm,Malad Kan West,"['Snacks', ' Fast Food', ' Beverages']",5.0,50.0, 50% OFF UPTO ₹250,250
+1550,1555,Marvish Home Kitchen,Jog Gor West,"['Indian', ' North Indian']",,48.0, ,0
+1551,1556,Munira's,Dahisar West,['Desserts'],,44.0, ,0
+1552,1557,Shivani Chinese And Pizza Corner,Malad Kan West,"['Pizzas', ' Chinese', ' Fast Food']",3.4,54.0, ,0
+1553,1558,Raju Snacks,Borivali,"['Beverages', ' Burgers', ' Ice Cream']",4.3,41.0, ,0
+1554,1559,Balaji Express,Jog Gor East,"['South Indian', ' Beverages', ' Fast Food', ' Juices', ' Chaat']",,49.0, ,0
+1555,1560,Conch Restaurants,Malad West,"['Asian', ' Continental', ' Chinese']",,57.0, ,0
+1556,1561,Vishal's fast food hub,Jog Gor East,['Chinese'],,48.0, ,0
+1557,1562,Shree's Frankie Rolls and More,Borivali,"['Snacks', ' Pizzas']",,46.0, ,0
+1558,1563,BEING BAKERS SHOP,Mira Road,['Bakery'],,48.0, ,0
+1559,1564,Zero Gravity,Gandhi Nagar,"['Chinese', ' Continental', ' Fast Food', ' Italian']",4.1,49.0, ,0
+1560,1565,Naashta sweets and more,Jog Gor East,['Indian'],3.2,49.0, 10% OFF ABOVE ₹600,600
+1561,1566,Kandivali 67 Chinese Corner,Borivali,"['Chinese', ' Biryani']",1.5,40.0, ,0
+1562,1567,3 Barmen,Malad West,"['Chinese', ' North Indian']",5.0,61.0, ,0
+1563,1568,Avarya,Mahim Dadar,"['Snacks', ' Desserts', ' Beverages']",,45.0, ,0
+1564,1569,Gharchi Athwan,Borivali,"['Maharashtrian', ' Snacks', ' Sweets']",,42.0, ,0
+1565,1570,BELLA FOOD CORNER,Dahisar (E) Mumbai,"['North Indian', ' Chinese', ' Tandoor', ' Biryani', ' Snacks']",3.8,41.0, ,0
+1566,1571,The Malai Paneer Company,Malad Kan West,['North Indian'],4.8,54.0, ,0
+1567,1572,Phelia Lounge,Goregaon West,"['Chinese', ' Tandoor', ' Continental', ' Indian', ' Italian', ' Pizzas']",3.8,57.0, ,0
+1568,1573,Shreeji Aamras,Dahisar,['Beverages'],5.0,41.0, ₹100 OFF ABOVE ₹749,749
+1569,1574,Hungry Paji,Goregaon,"['Chinese', ' Indian', ' Tandoor']",,49.0, 10% OFF UPTO ₹100,100
+1570,1575,The Bagve's cafe,Jog Gor West,['Waffle'],,52.0, ,0
+1571,1576,Beyond - Wine & Dine,Malad West,"['Continental', ' Mexican', ' Salads', ' Chinese', ' North Indian']",4.0,56.0, ,0
+1572,1577,THE MINISTRY OF CHEFS,Malad Kan West,"['North Indian', ' Chinese', ' Snacks', ' Fast Food', ' Desserts', ' Beverages', ' Biryani', ' Seafood', ' Indian', ' Tandoor']",,52.0, ,0
+1573,1578,Namaste Mumbai,Malad Kan West,"['Chinese', ' Fast Food', ' Indian', ' Beverages']",,46.0, ,0
+1574,1579,Party Time Pizzas,Raheja Township,"['Pizzas', ' Fast Food', ' Bakery', ' Desserts']",3.5,43.0, ,0
+1575,1580,Crispy Slice Pizza,Goregaon,['Pizzas'],4.1,53.0, ,0
+1576,1581,DBW De Burger World,Mira Road,"['Burgers', ' Pizzas', ' Fast Food', ' Snacks', ' Beverages']",,50.0, ,0
+1577,1582,Swadam Bhog,Borivali West,"['Indian', ' North Indian', ' Chinese', ' Punjabi', ' Snacks', ' Biryani']",4.6,48.0, ,0
+1578,1583,Swadisht Desi,Malad Kan West,"['Burgers', ' Pizzas', ' Chinese', ' Beverages']",4.6,52.0, ₹100 OFF ABOVE ₹999,999
+1579,1584,Latte on the rocks,Malad West,"['Beverages', ' Snacks', ' Fast Food']",,52.0, ,0
+1580,1585,Mondo Fine Dine,Dahisar West,"['Italian', ' Indian']",4.2,64.0, ,0
+1581,1586,Lobo Tiffin Service,Malad Kan East,['Indian'],,47.0, ,0
+1582,1587,Red Chilly Chinese Cuisine,Malad Kan West,['Indian'],,52.0, 30% OFF UPTO ₹150,150
+1583,1588,Tina's Fried Chicken,Borivali,"['Indian', ' Chinese']",,40.0, ,0
+1584,1589,Om Namo Fast Food,Borivali,"['Fast Food', ' Chaat']",5.0,42.0, ,0
+1585,1590,Y.T kitchen,Malad Kan East,"['Italian', ' Snacks', ' Mexican']",,41.0, ,0
+1586,1591,Potoba Chinese Corner,Dahisar,"['Chinese', ' Beverages']",3.7,41.0, ,0
+1587,1592,Jordan,Malad West,['Chinese'],4.7,41.0, ,0
+1588,1593,Kinara Tadka,Borivali,"['Chinese', ' North Indian', ' Beverages']",,44.0, ,0
+1589,1594,Sarthak Restaurant,Jog Gor East,"['Indian', ' Chinese', ' Thalis', ' Biryani']",,52.0, ,0
+1590,1595,Avva'S Food,Dahisar,['Chinese'],,44.0, ,0
+1591,1596,FC Cafe,Malad Kan West,"['Italian', ' Fast Food', ' Beverages', ' Desserts']",,42.0, ,0
+1592,1597,The Bombay House,Dahisar,"['North Indian', ' Snacks', ' Pizzas', ' Chinese']",3.7,48.0, ₹150 OFF ABOVE ₹599,599
+1593,1598,Gopi'S Momos Centre,Borivali,"['Chinese', ' Sweets', ' Beverages']",,45.0, 20% OFF ABOVE ₹700,700
+1594,1599,The Fellas,Malad Kan West,"['Fast Food', ' Snacks', ' Beverages']",5.0,51.0, 15% OFF ABOVE ₹1000,1000
+1595,1600,Aniruddha ice cream parlour,Kandivali East,['Beverages'],,43.0, ,0
+1596,1601,Zaika homemade food,Malad Kan East,"['Biryani', ' Indian', ' Sweets']",,45.0, ,0
+1597,1602,Pett Pooja Frankie,Borivali,"['Fast Food', ' Chinese', ' South Indian']",,49.0, ,0
+1598,1603,9 Star Kitchen,Borivali,"['Indian', ' Seafood', ' Beverages']",4.3,44.0, 20% OFF UPTO ₹120,120
+1599,1604,The Thickshake Project,Malad West,"['Ice Cream', ' Beverages', ' Juices', ' Desserts']",3.7,54.0, ,0
+1600,1605,Mumbai's food spot,Malad Kan West,"['South Indian', ' Fast Food', ' Street Food']",,48.0, ,0
+1601,1606,Daddu's Biryani,Dindoshi,"['Biryani', ' Kebabs']",5.0,48.0, ,0
+1602,1607,Blas Diaga,Opp. Chincholi Bunder Road,['Bakery'],,55.0, ,0
+1603,1608,Arabian Bistro,Borivali,"['Arabian', ' Snacks', ' Beverages']",4.1,45.0, ,0
+1604,1609,The Dessert Clubb,Kandivali West,"['Desserts', ' Snacks']",3.7,42.0, ,0
+1605,1610,Cakes Fiesta,Goregaon,"['Bakery', ' Desserts', ' Beverages', ' Ice Cream']",3.4,49.0, ,0
+1606,1611,V For Vegan,Malad West,['Salads'],3.0,47.0, ,0
+1607,1612,Healthy Trays,Malad Kan East,"['Salads', ' Fast Food', ' Indian', ' Chaat', ' North Indian']",,44.0, ,0
+1608,1613,Bhola Bhelpuri,Jog Gor West,"['Chaat', ' Snacks', ' Beverages']",4.4,57.0, ,0
+1609,1614,Jain cafe,Malad Kan East,['Pizzas'],3.6,44.0, ,0
+1610,1615,The Desert Lounge,Malad Kan West,"['North Indian', ' Italian', ' Chinese']",,46.0, ,0
+1611,1616,Disha Kitchen,Dahisar,"['North Indian', ' Chinese']",1.5,62.0, ₹125 OFF ABOVE ₹249,249
+1612,1617,Homely Palate,Dahisar,['Chinese'],,52.0, ₹100 OFF ABOVE ₹599,599
+1613,1618,Fresh Meals,Borivali,"['Indian', ' Snacks', ' Seafood']",,44.0, ,0
+1614,1619,Samrat Family Restaurant,Borivali West,"['Indian', ' Chinese', ' North Indian', ' Tandoor', ' Snacks', ' Beverages']",4.4,45.0, ,0
+1615,1620,Mozzarella Burst Pizza's,Malad Kan East,['Pizzas'],4.1,48.0, ,0
+1616,1621,Fish Koliwada Corner,Malad Kan East,"['North Indian', ' Biryani']",,53.0, ,0
+1617,1622,Just Frys,Estate Link Raod,['Indian'],5.0,50.0, ,0
+1618,1623,Desi Shawarma,Estate Link Raod,['Mughlai'],,50.0, ,0
+1619,1624,Pahunchar,Borivali,"['Sweets', ' Indian']",,45.0, ,0
+1620,1625,Chaarvi Chinese Wok Cafe,Malad Kan West,"['Snacks', ' Burgers']",,50.0, ,0
+1621,1626,Pratham Fast Food,Jog Gor East,['Chinese'],,49.0, ,0
+1622,1627,Punjabi Meal Box,Estate Link Raod,['Indian'],1.6,50.0, ,0
+1623,1628,Doston,Malad Kan West,"['North Indian', ' Biryani', ' Kebabs', ' Tandoor', ' Beverages']",4.0,52.0, 20% OFF ABOVE ₹800,800
+1624,1629,ROYAL DAIRY,Jog Gor East,['Beverages'],,48.0, ,0
+1625,1630,Rapid Bites,Malad Kan East,['Snacks'],,43.0, ,0
+1626,1631,China Chopstick,Dahisar,"['Chinese', ' Indian']",3.7,54.0, ,0
+1627,1632,Creamy Cool,Borivali,['Beverages'],,46.0, ,0
+1628,1633,Parsley- The Lounge,Malad Kan West,"['Beverages', ' Chinese', ' Pastas']",,45.0, 20% OFF ABOVE ₹700,700
+1629,1634,Mamta's Kitchen,Malad Kan West,['North Indian'],,47.0, ,0
+1630,1635,Xotik Cafe,Malad East,"['Beverages', ' Fast Food']",4.3,44.0, ,0
+1631,1636,Momo Marvels,Aarey Road,"['Tibetan', ' Pan-Asian']",4.4,50.0, ,0
+1632,1637,The Chinese Cook House,Malad Kan West,"['Chinese', ' Thai', ' Fast Food']",2.9,49.0, ,0
+1633,1638,YADAV SWEET MART,Malad East,"['Sweets', ' Snacks']",,46.0, ,0
+1634,1639,Cafekino,Malad West,"['Snacks', ' Salads']",3.3,56.0, ,0
+1635,1640,Borivali Falooda Centre & Veg-Non Veg Centre,Dahisar East,['Indian'],2.5,43.0, ,0
+1636,1641,Bhakti's Cake Dreams,Dahisar,"['Bakery', ' Desserts']",,42.0, ,0
+1637,1642,The Juice Tree,Malad Kan East,"['Juices', ' Beverages']",,40.0, ,0
+1638,1643,Level Up Pizzeria,Malad Kan West,['Pizzas'],,49.0, ,0
+1639,1644,Benglore Iyyengers Bakery,Malad Kan West,"['Bakery', ' Desserts']",,41.0, ,0
+1640,1645,Cake O' City - The Ultimate Cake Stop,Malad West,"['Desserts', ' Beverages']",2.8,45.0, ₹250 OFF ABOVE ₹999,999
+1641,1646,Bombay 62,Borivali,"['Beverages', ' Snacks']",,40.0, ,0
+1642,1647,Crocodile Resturant,Jog Gor East,['Chinese'],,55.0, ,0
+1643,1648,Kasipuh,Dahisar East,"['Chinese', ' Snacks']",4.6,42.0, 25% OFF UPTO ₹125,125
+1644,1649,Mastani Pavbhaji Centre,Kandivali West,"['Fast Food', ' Snacks']",4.2,42.0, ,0
+1645,1650,Konkan Bay,Jog Gor East,"['Indian', ' Chinese', ' Biryani', ' Seafood', ' Thalis']",,52.0, ,0
+1646,1651,Saras Foods,Borivali,"['Indian', ' Chinese']",,46.0, ,0
+1647,1652,Parmanand,Malad West,"['Street Food', ' North Indian', ' Chinese', ' Beverages', ' South Indian']",4.1,46.0, ,0
+1648,1653,Brioche,Jog Gor East,"['Bakery', ' Snacks', ' Fast Food', ' Pizzas']",3.6,56.0, 10% OFF ABOVE ₹800,800
+1649,1654,Vijayshree Icecream Amul Parlour,Borivali,['Ice Cream'],,44.0, ,0
+1650,1655,Joey's Shawarma,Malad Kan West,"['Arabian', ' Burgers', ' Snacks', ' Desserts']",,45.0, 50% OFF UPTO ₹250,250
+1651,1656,Wok Of Fame,Prabhu Udyog Bhavan,"['Chinese', ' Snacks']",3.7,41.0, 25% OFF UPTO ₹125,125
+1652,1657,D'Sandwicha & Snacks Corner,Dahisar,"['Fast Food', ' Street Food', ' Chinese', ' Pizzas']",,49.0, ,0
+1653,1658,Celebration The Cake Shop,Jog Gor East,['Bakery'],,53.0, ,0
+1654,1659,Apna SayBeen,Borivali,['Chinese'],,40.0, ,0
+1655,1660,S M Special Falooda and Ice Cream,Jog Gor East,"['Desserts', ' Ice Cream', ' Beverages']",4.6,50.0, 40% OFF UPTO ₹200,200
+1656,1661,Rajeshahi Bhog,Jog Gor West,"['Indian', ' Snacks', ' Thalis']",,49.0, ,0
+1657,1662,Exotic - The Dining Bar,Malad West,"['Biryani', ' North Indian', ' Arabian', ' Pizzas', ' Chinese']",4.7,46.0, ,0
+1658,1663,Royal China town,Borivali,"['Chinese', ' Indian']",3.4,50.0, ,0
+1659,1664,D Sweet Cloud,Borivali,"['Bakery', ' Ice Cream']",,42.0, ,0
+1660,1665,Shree Mahalaxmi Restaurant And Garden,Mira Road,"['Chinese', ' Kebabs', ' Biryani']",2.9,52.0, ₹250 OFF ABOVE ₹999,999
+1661,1666,Maratha Biryani Centre,Malad,"['Chinese', ' North Indian', ' Biryani', ' Tandoor']",,43.0, ,0
+1662,1667,Hotel Sai shradha,Kandivali West,"['Snacks', ' Beverages']",3.9,40.0, ,0
+1663,1668,Absolute Biryani,Borivali West,"['Biryani', ' North Indian']",4.0,43.0, ,0
+1664,1669,Esora,Jog Gor East,['Indian'],2.7,49.0, ,0
+1665,1670,Forks & Spoons 51,Malad Kan East,"['Burgers', ' Fast Food', ' Chinese', ' Pizzas', ' Beverages']",,48.0, ,0
+1666,1671,Eternal Bliss,Goregaon,"['Bakery', ' Desserts', ' Beverages', ' Ice Cream']",4.1,49.0, ,0
+1667,1672,Honeys Delights,Malad Kan West,['Burgers'],,55.0, ,0
+1668,1673,Aniket Chinese,Dahisar East,"['Chinese', ' Snacks']",4.5,41.0, ,0
+1669,1674,Sannju's Kitchen,Borivali,"['Italian', ' Chinese']",3.0,43.0, ,0
+1670,1675,Hooch Restaurant,Borivali,"['Italian', ' Chinese', ' Salads', ' North Indian', ' Fast Food']",,44.0, ,0
+1671,1676,Pizzarita By The Fusion Kitchen,Borivali,"['Italian', ' Pizzas']",4.2,45.0, ,0
+1672,1677,Brunchners,Jog Gor East,"['Snacks', ' Burgers', ' Pizzas', ' Beverages']",,52.0, ₹150 OFF ABOVE ₹999,999
+1673,1678,Sai Annapurna,Malad Kan West,"['Chinese', ' Indian', ' Biryani']",4.4,46.0, ,0
+1674,1679,Nasta House,Malad Kan West,"['North Indian', ' Beverages']",,45.0, ,0
+1675,1680,Masala Mumbai,Malad Kan East,['Indian'],3.7,40.0, 20% OFF UPTO ₹100,100
+1676,1681,Bread Bowl Factory,Malad Kan West,"['Indian', ' Continental']",,51.0, ,0
+1677,1682,Jizu - Pan Asian Delicacies,Malad West,"['Chinese', ' Thai', ' Oriental']",3.8,54.0, ,0
+1678,1683,Bombay Missal Company,Malad,"['Snacks', ' Fast Food', ' Pizzas', ' Beverages']",3.8,42.0, ,0
+1679,1684,BHANDIWADEKAR'S KITCHEN,Borivali,"['Maharashtrian', ' Snacks', ' Street Food', ' Desserts']",,42.0, ,0
+1680,1685,Tea Home,Borivali,['Burgers'],,47.0, ,0
+1681,1686,Bambbaiya Chinese,Borivali,"['Chinese', ' Oriental', ' Biryani']",3.9,44.0, ,0
+1682,1687,Sunny Dosas N Parathas,Dahisar,"['South Indian', ' North Indian']",,46.0, ,0
+1683,1688,Goregaon Sports Club,Malad Kan West,"['Pizzas', ' Desserts', ' Italian']",,45.0, ,0
+1684,1689,the dhaba by Geets Rasoi,Malad Kan West,"['Chinese', ' Indian']",4.1,46.0, ,0
+1685,1690,The Mocha House,Kandivali (West),"['Beverages', ' Cafe', ' Snacks', ' Desserts']",4.2,61.0, ,0
+1686,1691,103 Chinese Corner,Borivali,"['Chinese', ' South Indian', ' Indian']",,43.0, ,0
+1687,1692,DAYANAND RESTAURANT AND BAR,Dahisar,"['Indian', ' Biryani']",,42.0, ,0
+1688,1693,Ammo Ki Rasoi,Jog Gor East,['Indian'],,55.0, ,0
+1689,1694,Waffle And Waffle,Dahisar West,"['Desserts', ' Beverages', ' Waffle']",4.1,56.0, ,0
+1690,1695,Jaya's Famous Sandwiches,Malad Kan West,"['Chinese', ' Indian']",,49.0, ,0
+1691,1696,Fruitango Juices Shakes & Smoothies,Rawal Pada,"['Beverages', ' Chinese', ' Snacks']",,40.0, ,0
+1692,1697,Fat Boy Food,Malad Kan West,"['Chinese', ' Burgers', ' Waffle']",,49.0, ,0
+1693,1698,Double Door Lounge,Borivali,"['Chinese', ' Italian']",,42.0, ,0
+1694,1699,Johny Wokker,Goregaon,"['Chinese', ' Continental']",4.9,54.0, ,0
+1695,1700,Lettuce-Global Veggies Cuisine,Goregaon East,"['Continental', ' Italian']",3.1,45.0, ,0
+1696,1701,I M Chinese Food Corner,Dahisar,"['Chinese', ' Snacks']",,37.0, ,0
+1697,1702,Mr.D Misal Pav,Malad Kan West,['Indian'],,44.0, ,0
+1698,1703,Tossin Pizza,Malad West,"['Pizzas', ' Italian', ' Beverages', ' Desserts']",4.2,30.0, 50% OFF UPTO ₹100,100
+1699,1704,Louis Burger,BORIVALI WEST,"['Burgers', ' American', ' Fast Food']",4.4,48.0, ₹125 OFF ABOVE ₹249,249
+1700,1705,Goila Butter Chicken,Vithal Jadhav House,"['North Indian', ' Biryani', ' Kebabs', ' Desserts']",4.1,55.0, 15% OFF UPTO ₹100,100
+1701,1706,SLYCE PIZZA,BORIVALI WEST,"['Burgers', ' American', ' Fast Food']",4.1,45.0, 60% OFF UPTO ₹120,120
+1702,1707,Hotel Sagar,Mira Road,"['Indian', ' Chinese']",4.2,55.0, ,0
+1703,1708,Lord Petrick,LINK HOUSE,"['Burgers', ' Snacks', ' Italian', ' Desserts', ' Beverages']",4.3,51.0, ,0
+1704,1709,Hotel Konkan Swad,Chincholi Bunder Road,"['North Indian', ' South Indian', ' Malwani', ' Chinese', ' Seafood']",3.8,54.0, ,0
+1705,1710,British Waffle Co.,Malad East,"['Desserts', ' Beverages']",4.3,42.0, ₹175 OFF ABOVE ₹449,449
+1706,1711,Rogan Tadka,Goregaon East,"['North Indian', ' Chinese', ' Continental', ' Tandoor']",4.1,41.0, ,0
+1707,1712,Udupi Express,Kandivali West,['Indian'],4.4,63.0, ,0
+1708,1713,Prem's,Malad West,"['North Indian', ' Chinese', ' Thai', ' Indian', ' Mughlai', ' Biryani']",4.4,46.0, ,0
+1709,1714,Fleur : The Fern Hotel,Goregaon East,"['North Indian', ' Thai', ' Continental']",4.4,60.0, ,0
+1710,1715,Simran Biryani Centre,Charkop,['Biryani'],3.6,35.0, ,0
+1711,1716,Majestic Nx,Borivali West,['Indian'],4.5,56.0, ,0
+1712,1717,City Star,Goregaon East,"['North Indian', ' Chinese', ' Tandoor', ' Continental']",4.2,45.0, ,0
+1713,1718,Bansi Snacks,Malad Kan West,"['Snacks', ' Chaat']",3.8,49.0, ,0
+1714,1719,Mothers Touch Kathiyawadi,Devrokarwadi New Link Road,"['Indian', ' Sweets', ' Beverages']",4.1,74.0, ₹250 OFF ABOVE ₹999,999
+1715,1720,Sai Krupa,Goregaon,"['Tandoor', ' Chinese']",3.8,55.0, 10% OFF ABOVE ₹1000,1000
+1716,1721,Bite-Size,Malad Kan West,"['Salads', ' Healthy Food', ' Continental', ' Indian']",4.1,49.0, ,0
+1717,1722,Peppy Parathas & Rolls By Chai Point,Malad West,"['Bakery', ' Beverages', ' Maharashtrian', ' Snacks', ' Street Food', ' South Indian', ' Punjabi', ' Chaat', ' Indian', ' American', ' North Indian', ' Fast Food', ' Desserts', ' Cafe', ' Healthy Food', ' Home Food']",4.2,54.0, 40% OFF UPTO ₹80,80
+1718,1723,Just Biryani,Jog Gor East,['Biryani'],1.5,48.0, ,0
+1719,1724,Kalinda,Malad West,"['Indian', ' Chinese']",4.0,64.0, ,0
+1720,1725,Bohoba,MALAD,"['Italian', ' Pizzas', ' Mexican', ' Continental', ' European', ' Mediterranean', ' Desserts']",5.0,60.0, ,0
+1721,1726,Chunkys Cake Shops,Malad West,['Bakery'],4.1,44.0, ,0
+1722,1727,LAXMI SWEETS AND FARSAN,Dahisar East,"['Sweets', ' Snacks']",4.3,32.0, ,0
+1723,1728,Grilled Chicken Company,Malad Kan West,"['Continental', ' Healthy Food', ' American']",3.6,54.0, ,0
+1724,1729,Aande Le Lo Cafe,Malad Kan West,['French'],4.7,67.0, ,0
+1725,1730,Biryani By Kalinda,Malad Kan West,"['Biryani', ' Snacks']",4.1,58.0, ,0
+1726,1731,Fill and Chill,Malad West,['Desserts'],3.2,63.0, ,0
+1727,1732,Sai Sannidhi Restaurant & Bar,Mira Road,"['North Indian', ' Chinese', ' Seafood']",4.0,57.0, ,0
+1728,1733,Chopstick house,Goregaon,"['Indian', ' Tandoor', ' Thalis']",3.3,66.0, ,0
+1729,1734,Just Rice,Malad West,['Indian'],3.9,74.0, 30% OFF UPTO ₹150,150
+1730,1735,Flags Ii,Chincholi Bunder Signal,"['North Indian', ' Italian', ' Continental', ' Thai']",4.2,61.0, 10% OFF ABOVE ₹1500,1500
+1731,1736,2 Pai cakes,Jog Gor West,"['Bakery', ' Beverages']",,52.0, ,0
+1732,1737,Atharva's Cloud Kitchen,Santosh Nagar market ,"['Chinese', ' South Indian', ' Fast Food', ' North Indian', ' Ice Cream', ' Beverages', ' Biryani', ' Arabian']",3.7,68.0, ₹100 OFF ABOVE ₹599,599
+1733,1738,Mannrangi,Goregaon West,"['North Indian', ' Punjabi', ' Mughlai', ' Biryani', ' Kebabs', ' Goan']",4.4,70.0, ,0
+1734,1739,CST Delicious Food,Borivali West,"['Chinese', ' Indian', ' Mughlai', ' Tandoor']",3.9,72.0, ,0
+1735,1740,Bamboos,Malad Kan West,"['Chinese', ' Snacks', ' North Indian', ' Desserts']",,57.0, ,0
+1736,1741,Dil Se Dalia,Malad West,"['Fast Food', ' North Indian']",4.5,68.0, 30% OFF UPTO ₹150,150
+1737,1742,Warehouse Kitchen,Malad West,"['North Indian', ' Continental', ' Fast Food', ' Italian', ' Desserts']",4.3,57.0, ,0
+1738,1743,China Castle,Jog Gor East,"['Chinese', ' North Indian']",3.7,71.0, ,0
+1739,1744,Allspice,Kandivali west,"['North Indian', ' Chinese', ' Biryani', ' Tandoor']",3.8,48.0, 20% OFF ABOVE ₹700,700
+1740,1745,Poddar Cuisine,Malad Kan West,"['Chinese', ' Biryani', ' Beverages']",4.6,52.0, ,0
+1741,1746,JUG's Kitchen,Goregaon East,"['Indian', ' Lebanese', ' Mughlai', ' Chinese']",4.0,48.0, ₹250 OFF ABOVE ₹999,999
+1742,1747,Choco Magic Patisserie & Confectioners Studio,Malad West,"['Desserts', ' Beverages']",4.1,43.0, ,0
+1743,1748,Yogita Restaurant,Malad Kan West,"['Indian', ' Chinese', ' Tandoor', ' Seafood']",3.9,58.0, ,0
